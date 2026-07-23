@@ -1,6 +1,6 @@
 [
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°1319, 2025-04-09) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l’ensemble de la proposition de loi visant à renforcer la stabilité économique et la compétitivité du secteur agroalimentaire (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative au renforcement de la sûreté dans les transports (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l’ensemble de la proposition de loi contre les fraudes aux moyens de paiement scripturaux (première lecture).",
     "scrutins": [
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°1473, 2025-04-29) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi organique fixant le statut du procureur de la République anti-criminalité organisée (première lecture).",
     "scrutins": [
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à modifier la définition pénale du viol et des agressions sexuelles (première lecture).",
     "scrutins": [
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à renforcer le contrôle du Parlement en période d'expédition des affaires courantes (première lecture).",
     "scrutins": [
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à valoriser la réserve communale de sécurité civile (première lecture).",
     "scrutins": [
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à faire exécuter les peines d’emprisonnement ferme (première lecture).",
     "scrutins": [
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à renforcer la démographie professionnelle des orthophonistes (première lecture).",
     "scrutins": [
@@ -142,7 +142,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité (deuxième lecture).",
     "scrutins": [
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité (première lecture).",
     "scrutins": [
@@ -166,7 +166,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement (première lecture).",
     "scrutins": [
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°1308, 2025-04-08) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à réformer le mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille (première lecture).",
     "scrutins": [
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi organique fixant le statut du procureur de la République national anti-criminalité organisée (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -219,19 +219,24 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble de la proposition de loi visant à renforcer le parcours inclusif des enfants à besoins éducatifs particuliers (première lecture).",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°6512, 2026-05-11) est retenue",
+    "dossierRef": "DLR5L17N50686",
+    "titreDossier": "l'ensemble de la proposition de loi visant à renforcer le parcours inclusif des enfants à besoins éducatifs particuliers (nouvelle lecture).",
     "scrutins": [
       {
         "numero": "1550",
         "date": "2025-05-05",
         "titre": "l'ensemble de la proposition de loi visant à renforcer le parcours inclusif des enfants à besoins éducatifs particuliers (première lecture)."
+      },
+      {
+        "numero": "6512",
+        "date": "2026-05-11",
+        "titre": "l'ensemble de la proposition de loi visant à renforcer le parcours inclusif des enfants à besoins éducatifs particuliers (nouvelle lecture)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à protéger les personnes engagées dans un projet parental des discriminations au travail (première lecture).",
     "scrutins": [
@@ -243,7 +248,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative à la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur (première lecture).",
     "scrutins": [
@@ -255,7 +260,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à préserver les droits des victimes dont la plainte est classée sans suite (première lecture).",
     "scrutins": [
@@ -267,7 +272,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane (première lecture).",
     "scrutins": [
@@ -279,7 +284,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -291,7 +296,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°3056, 2025-10-15) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi de simplification du droit de l'urbanisme et du logement (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -308,7 +313,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à lutter contre la mortalité infantile (première lecture).",
     "scrutins": [
@@ -320,7 +325,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à créer une croix de la valeur des sapeurs-pompiers volontaires et professionnels (première lecture).",
     "scrutins": [
@@ -332,7 +337,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à lutter contre la pédocriminalité (première lecture).",
     "scrutins": [
@@ -344,7 +349,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l’ensemble du projet de loi relatif au transfert à l’Etat des personnels enseignants de l’enseignement du premier degré dans les îles Wallis et Futuna (première lecture).",
     "scrutins": [
@@ -356,7 +361,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°5728, 2026-02-25) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs (deuxième lecture).",
     "scrutins": [
@@ -373,9 +378,9 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°5729, 2026-02-25) est retenue",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (deuxième lecture).",
+    "raison": "4 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8280, 2026-07-15) est retenue",
+    "dossierRef": "DLR5L17N51670",
+    "titreDossier": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
     "scrutins": [
       {
         "numero": "2107",
@@ -386,11 +391,21 @@
         "numero": "5729",
         "date": "2026-02-25",
         "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (deuxième lecture)."
+      },
+      {
+        "numero": "7894",
+        "date": "2026-06-30",
+        "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture)."
+      },
+      {
+        "numero": "8280",
+        "date": "2026-07-15",
+        "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
     "scrutins": [
@@ -402,7 +417,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à garantir un cadre fiscal stable, juste et lisible pour nos micro-entrepreneurs et nos petites entreprises (première lecture).",
     "scrutins": [
@@ -414,7 +429,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à faciliter la transformation des bureaux et autres bâtiments en logements (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -426,7 +441,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi créant l'homicide routier et visant à lutter contre la violence routière (deuxième lecture).",
     "scrutins": [
@@ -438,7 +453,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français (première lecture).",
     "scrutins": [
@@ -450,7 +465,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative au droit de vote par correspondance des personnes détenues (première lecture).",
     "scrutins": [
@@ -462,7 +477,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi permettant aux salariés de participer aux collectes de sang, de plaquettes ou de plasma sur leur temps de travail (première lecture).",
     "scrutins": [
@@ -474,7 +489,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (première lecture).",
     "scrutins": [
@@ -486,7 +501,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant (première lecture).",
     "scrutins": [
@@ -498,7 +513,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°2278, 2025-06-10) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l’ensemble de la proposition de loi sur la profession d’infirmier (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -527,19 +542,24 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble du projet de loi de simplification de la vie économique (première lecture).",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°6184, 2026-04-14) est retenue",
+    "dossierRef": "DLR5L16N49868",
+    "titreDossier": "l'ensemble du projet de loi de simplification de la vie économique (texte de la commission mixte paritaire).",
     "scrutins": [
       {
         "numero": "2458",
         "date": "2025-06-17",
         "titre": "l'ensemble du projet de loi de simplification de la vie économique (première lecture)."
+      },
+      {
+        "numero": "6184",
+        "date": "2026-04-14",
+        "titre": "l'ensemble du projet de loi de simplification de la vie économique (texte de la commission mixte paritaire)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi autorisant la ratification de la résolution LP.3(4) portant amendement de l’article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l’immersion de déchets et autres matières (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -551,7 +571,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi portant programmation nationale pour l'énergie et le climat pour les années 2025 à 2035 (première lecture).",
     "scrutins": [
@@ -563,7 +583,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (première lecture).",
     "scrutins": [
@@ -575,7 +595,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à renforcer la sécurité des professionnels de santé (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -587,7 +607,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°2975, 2025-07-09) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi de programmation pour la refondation de Mayotte (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -604,7 +624,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°2976, 2025-07-09) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi organique relatif au Département-Région de Mayotte (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -621,7 +641,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -633,7 +653,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à renforcer les outils de régulation des meublés de tourisme à l'échelle locale (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -645,7 +665,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi portant création de l'établissement public du commerce et de l'industrie de Corse (première lecture).",
     "scrutins": [
@@ -657,7 +677,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°3055, 2025-10-15) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi portant transposition des accords nationaux interprofessionnels en faveur de l'emploi des salariés expérimentés et relatif à l'évolution du dialogue social (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -674,7 +694,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à réformer le mode d’élection des membres du conseil de Paris et des conseils municipaux de Lyon et de Marseille (nouvelle lecture).",
     "scrutins": [
@@ -686,7 +706,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -698,7 +718,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive (première lecture).",
     "scrutins": [
@@ -710,7 +730,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l’ensemble de la proposition de loi relative au mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et de Marseille (lecture définitive).",
     "scrutins": [
@@ -722,7 +742,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à encourager, à faciliter et à sécuriser l'exercice du mandat d'élu local (première lecture).",
     "scrutins": [
@@ -734,7 +754,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi modifiant la définition pénale du viol et des agressions sexuelles (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -746,7 +766,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie afin de permettre la poursuite de la discussion en vue d'un accord consensuel sur l'avenir institutionnel de la Nouvelle-Calédonie (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -758,7 +778,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à rendre systématique l'information du consommateur sur l'origine des denrées alimentaires par le moyen de l'étiquetage (première lecture).",
     "scrutins": [
@@ -770,7 +790,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi de finances de fin de gestion pour 2025 (première lecture).",
     "scrutins": [
@@ -782,7 +802,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
     "scrutins": [
@@ -794,19 +814,24 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (première lecture).",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°7380, 2026-06-11) est retenue",
+    "dossierRef": "DLR5L17N52977",
+    "titreDossier": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (deuxième lecture).",
     "scrutins": [
       {
         "numero": "4438",
         "date": "2025-11-27",
         "titre": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (première lecture)."
+      },
+      {
+        "numero": "7380",
+        "date": "2026-06-11",
+        "titre": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (deuxième lecture)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi de fin de gestion pour 2025 (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -830,7 +855,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi organique portant réforme du financement de l'audiovisuel public (première lecture).",
     "scrutins": [
@@ -842,7 +867,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à sécuriser le mécanisme de purge des nullités (première lecture).",
     "scrutins": [
@@ -854,7 +879,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à prolonger la dérogation d'usage des titres restaurant pour tout produit alimentaire (première lecture).",
     "scrutins": [
@@ -866,7 +891,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi portant création d'un statut de l'élu local (deuxième lecture).",
     "scrutins": [
@@ -878,7 +903,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°4758, 2025-12-16) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi de financement de la sécurité sociale pour 2026 (lecture définitive).",
     "scrutins": [
@@ -895,7 +920,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française (première lecture).",
     "scrutins": [
@@ -907,7 +932,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative à la protection sociale complémentaire des agents publics territoriaux (première lecture).",
     "scrutins": [
@@ -919,19 +944,24 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (première lecture).",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°7904, 2026-07-01) est retenue",
+    "dossierRef": "DLR5L17N52781",
+    "titreDossier": "l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (deuxième lecture).",
     "scrutins": [
       {
         "numero": "4714",
         "date": "2025-12-11",
         "titre": "l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (première lecture)."
+      },
+      {
+        "numero": "7904",
+        "date": "2026-07-01",
+        "titre": "l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (deuxième lecture)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme (première lecture).",
     "scrutins": [
@@ -943,7 +973,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (première lecture).",
     "scrutins": [
@@ -955,7 +985,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à garantir un renouvellement automatique des titres de séjour de longue durée (première lecture).",
     "scrutins": [
@@ -967,7 +997,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à prendre des mesures d'urgence contre la vie chère en outre-mer dans le secteur des services (première lecture).",
     "scrutins": [
@@ -979,7 +1009,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 (deuxième lecture).",
     "scrutins": [
@@ -991,7 +1021,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à reconnaître le préjudice subi par les personnes condamnées sur le fondement de la législation pénalisant l'avortement, et par toutes les femmes, avant la loi n° 75-17 du 17 janvier 1975 relative à l'interruption volontaire de grossesse (première lecture).",
     "scrutins": [
@@ -1003,7 +1033,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°4947, 2025-12-23) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi spéciale prévue par l'article 45 de la loi organique du 1er août 2001 relative aux lois de finances (première lecture).",
     "scrutins": [
@@ -1020,19 +1050,24 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture).",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°7408, 2026-06-17) est retenue",
+    "dossierRef": "DLR5L17N51968",
+    "titreDossier": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (texte de la commission mixte paritaire).",
     "scrutins": [
       {
         "numero": "4962",
         "date": "2026-01-12",
         "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (première lecture)."
+      },
+      {
+        "numero": "7408",
+        "date": "2026-06-17",
+        "titre": "l'ensemble de la proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics (texte de la commission mixte paritaire)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi relative à l'organisation des jeux Olympiques et Paralympiques de 2030 (première lecture).",
     "scrutins": [
@@ -1044,7 +1079,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à la création d'un centre hospitalier universitaire en Corse (première lecture).",
     "scrutins": [
@@ -1056,7 +1091,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à réduire et à encadrer les frais bancaires sur succession (deuxième lecture).",
     "scrutins": [
@@ -1068,7 +1103,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps (première lecture).",
     "scrutins": [
@@ -1080,7 +1115,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi sur le remboursement intégral des fauteuils roulants par l'Assurance maladie (première lecture).",
     "scrutins": [
@@ -1092,7 +1127,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi de finances de fin de gestion pour 2024 (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -1104,19 +1139,24 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (première lecture).",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8431, 2026-07-21) est retenue",
+    "dossierRef": "DLR5L17N53187",
+    "titreDossier": "l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
     "scrutins": [
       {
         "numero": "5192",
         "date": "2026-01-26",
         "titre": "l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (première lecture)."
+      },
+      {
+        "numero": "8431",
+        "date": "2026-07-21",
+        "titre": "l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
     "scrutins": [
@@ -1128,19 +1168,24 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8434, 2026-07-21) est retenue",
+    "dossierRef": "DLR5L17N52746",
+    "titreDossier": "l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire).",
     "scrutins": [
       {
         "numero": "5240",
         "date": "2026-01-28",
         "titre": "l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture)."
+      },
+      {
+        "numero": "8434",
+        "date": "2026-07-21",
+        "titre": "l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (texte de la commission mixte paritaire)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à mettre fin au devoir conjugal (première lecture).",
     "scrutins": [
@@ -1152,7 +1197,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à réparer les préjudices causés par la transplantation de mineurs de La Réunion en France hexagonale de 1962 à 1984 (première lecture).",
     "scrutins": [
@@ -1164,7 +1209,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
     "scrutins": [
@@ -1176,7 +1221,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
     "scrutins": [
@@ -1188,7 +1233,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative à l'intérêt des enfants (première lecture).",
     "scrutins": [
@@ -1200,7 +1245,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi relatif à l'organisation des jeux Olympiques et Paralympiques de 2030 (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -1212,19 +1257,24 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
-    "dossierRef": null,
-    "titreDossier": "l'ensemble de la proposition de loi visant à relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique (première lecture).",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°7409, 2026-06-17) est retenue",
+    "dossierRef": "DLR5L17N53530",
+    "titreDossier": "l'ensemble de la proposition de loi visant à relancer les investissements dans le secteur de l'hydroélectricité pour contribuer à la transition énergétique (texte de la commission mixte paritaire).",
     "scrutins": [
       {
         "numero": "5354",
         "date": "2026-02-05",
         "titre": "l'ensemble de la proposition de loi visant à relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique (première lecture)."
+      },
+      {
+        "numero": "7409",
+        "date": "2026-06-17",
+        "titre": "l'ensemble de la proposition de loi visant à relancer les investissements dans le secteur de l'hydroélectricité pour contribuer à la transition énergétique (texte de la commission mixte paritaire)."
       }
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi améliorant la protection des personnes ciblées par les réseaux de criminalité organisée (première lecture).",
     "scrutins": [
@@ -1236,7 +1286,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi facilitant l'exercice en France des médecins diplômés au Royaume-Uni avant le Brexit (première lecture).",
     "scrutins": [
@@ -1248,7 +1298,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
     "scrutins": [
@@ -1260,7 +1310,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à l'extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières (première lecture).",
     "scrutins": [
@@ -1272,7 +1322,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi d'expérimentation pour l'instauration d'un enseignement d'éducation à l'alimentation obligatoire à l'école (première lecture).",
     "scrutins": [
@@ -1284,7 +1334,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par titre normalisé (dossier législatif absent des données) — seule la plus récente (scrutin n°790, 2025-02-12) est retenue",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi d'urgence pour Mayotte (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -1301,7 +1351,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°6285, 2026-04-28) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°6285, 2026-04-28) est retenue",
     "dossierRef": "DLR5L17N52230",
     "titreDossier": "Proposition de loi visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté",
     "scrutins": [
@@ -1318,7 +1368,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative à l'exercice de la démocratie agricole (première lecture).",
     "scrutins": [
@@ -1330,7 +1380,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à prendre des mesures d'urgence contre la vie chère et à réguler la concentration des acteurs économiques dans les territoires d'outre-mer (première lecture).",
     "scrutins": [
@@ -1342,7 +1392,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi, adoptée par le Sénat, relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé (première lecture).",
     "scrutins": [
@@ -1354,7 +1404,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°6319, 2026-05-05) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°6319, 2026-05-05) est retenue",
     "dossierRef": "DLR5L17N52985",
     "titreDossier": "Projet de loi relatif à la lutte contre les fraudes sociales et fiscales",
     "scrutins": [
@@ -1371,7 +1421,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro (première lecture).",
     "scrutins": [
@@ -1383,7 +1433,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à lutter contre les pannes d'ascenceur non prises en charge (première lecture).",
     "scrutins": [
@@ -1395,7 +1445,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi prenant des mesures d'urgence pour protéger nos enfants accueillis en crèches privées à but lucratif (première lecture).",
     "scrutins": [
@@ -1407,7 +1457,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à améliorer le traitement des maladies affectant les cultures végétales à l'aide d'aéronefs télépilotés (première lecture).",
     "scrutins": [
@@ -1419,7 +1469,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°6346, 2026-05-06) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°6346, 2026-05-06) est retenue",
     "dossierRef": "DLR5L17N52635",
     "titreDossier": "Projet de loi relatif à la restitution de biens culturels provenant d’États qui, du fait d’une appropriation illicite, en ont été privés",
     "scrutins": [
@@ -1436,7 +1486,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°7405, 2026-06-16) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°7405, 2026-06-16) est retenue",
     "dossierRef": "DLR5L17N53284",
     "titreDossier": "Renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat",
     "scrutins": [
@@ -1453,7 +1503,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi contre toutes les fraudes aux aides publiques (première lecture).",
     "scrutins": [
@@ -1465,7 +1515,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à renforcer la lutte contre les violences sexuelles et sexistes (première lecture).",
     "scrutins": [
@@ -1477,7 +1527,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à améliorer la prise en charge des soins et dispositifs spécifiques au traitement du cancer du sein par l'assurance maladie (deuxième lecture).",
     "scrutins": [
@@ -1489,7 +1539,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°8421, 2026-07-20) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8421, 2026-07-20) est retenue",
     "dossierRef": "DLR5L17N54006",
     "titreDossier": "Pour une montagne vivante et souveraine",
     "scrutins": [
@@ -1506,7 +1556,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°7905, 2026-07-01) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°7905, 2026-07-01) est retenue",
     "dossierRef": "DLR5L17N54083",
     "titreDossier": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
     "scrutins": [
@@ -1523,7 +1573,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à restreindre la vente de protoxyde d’azote aux seuls professionnels et à renforcer les actions de prévention sur les consommations détournées (première lecture).",
     "scrutins": [
@@ -1535,7 +1585,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à interdire les dispositifs électroniques de vapotage à usage unique (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -1547,7 +1597,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°8427, 2026-07-20) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8427, 2026-07-20) est retenue",
     "dossierRef": "DLR5L17N54085",
     "titreDossier": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
     "scrutins": [
@@ -1564,7 +1614,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi, adoptée par le Sénat, pour améliorer la prise en charge de la sclérose latérale amyotrophique et d'autres maladies évolutives graves (première lecture).",
     "scrutins": [
@@ -1576,7 +1626,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à permettre l'élection du maire d'une commune nouvelle en cas de conseil municipal incomplet (première lecture).",
     "scrutins": [
@@ -1588,7 +1638,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative à la sûreté dans les transports (première lecture).",
     "scrutins": [
@@ -1600,7 +1650,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à adapter le fonctionnement des instances de gouvernance des chambres d'agriculture et de la mutualité sociale agricole (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -1612,7 +1662,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°8418, 2026-07-20) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8418, 2026-07-20) est retenue",
     "dossierRef": "DLR5L17N51732",
     "titreDossier": "Proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel",
     "scrutins": [
@@ -1629,24 +1679,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°8280, 2026-07-15) est retenue",
-    "dossierRef": "DLR5L17N51670",
-    "titreDossier": "Fin de vie",
-    "scrutins": [
-      {
-        "numero": "7894",
-        "date": "2026-06-30",
-        "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture)."
-      },
-      {
-        "numero": "8280",
-        "date": "2026-07-15",
-        "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive)."
-      }
-    ]
-  },
-  {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°8042, 2026-07-08) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8042, 2026-07-08) est retenue",
     "dossierRef": "DLR5L17N53940",
     "titreDossier": "Projet de loi sur la justice criminelle et le respect des victimes",
     "scrutins": [
@@ -1663,7 +1696,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°8043, 2026-07-08) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8043, 2026-07-08) est retenue",
     "dossierRef": "DLR5L17N53942",
     "titreDossier": "Projet de loi organique relatif au renforcement des juridictions criminelles",
     "scrutins": [
@@ -1680,7 +1713,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à restaurer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (première lecture).",
     "scrutins": [
@@ -1692,7 +1725,7 @@
     ]
   },
   {
-    "raison": "2 lectures avec vote d'ensemble regroupées par dossier législatif — seule la plus récente (scrutin n°8433, 2026-07-21) est retenue",
+    "raison": "2 lectures avec vote d'ensemble regroupées pour ce dossier — seule la plus récente (scrutin n°8433, 2026-07-21) est retenue",
     "dossierRef": "DLR5L17N53980",
     "titreDossier": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
     "scrutins": [
@@ -1709,7 +1742,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public (première lecture).",
     "scrutins": [
@@ -1721,7 +1754,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble du projet de loi d'orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture (texte de la commission mixte paritaire).",
     "scrutins": [
@@ -1733,7 +1766,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à protéger la population des risques liés aux substances perfluoroalkylées et polyfluoroalkylées (deuxième lecture).",
     "scrutins": [
@@ -1745,7 +1778,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
     "scrutins": [
@@ -1757,7 +1790,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi pour un démarchage téléphonique consenti et une protection renforcée des consommateurs contre les abus (première lecture).",
     "scrutins": [
@@ -1769,7 +1802,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi relative à l'organisation et aux missions des professionnels de santé, vétérinaires, psychothérapeutes et psychologues professionnels et volontaires des services d'incendie et de secours (première lecture).",
     "scrutins": [
@@ -1781,7 +1814,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à endiguer le prolifération du frelon asiatique et à préserver la filière apicole (première lecture).",
     "scrutins": [
@@ -1793,7 +1826,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à simplifier la sortie de l'indivison successorale (première lecture).",
     "scrutins": [
@@ -1805,7 +1838,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale (première lecture).",
     "scrutins": [
@@ -1817,7 +1850,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à lutter contre la disparition des terres agricoles et renforcer la régulation des prix du foncier agricole (première lecture).",
     "scrutins": [
@@ -1829,7 +1862,7 @@
     ]
   },
   {
-    "raison": "scrutin 'ensemble' sans dossier législatif rattaché dans les données AN — regroupé par titre normalisé, à vérifier manuellement",
+    "raison": "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
     "dossierRef": null,
     "titreDossier": "l'ensemble de la proposition de loi visant à assouplir la gestion des compétences \"eau\" et \"assainissement\" (première lecture).",
     "scrutins": [

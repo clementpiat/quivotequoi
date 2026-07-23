@@ -1,607 +1,55 @@
 [
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-la-st-8e219020",
-    "titre": "Renforcer la stabilité économique et la compétitivité du secteur agroalimentaire",
+    "id": "DLR5L17N50686",
+    "titre": "Renforcer le parcours inclusif des élèves en situation de handicap",
+    "theme": "Santé",
+    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
+  },
+  {
+    "id": "DLR5L17N51670",
+    "titre": "Fin de vie",
+    "theme": "Santé",
+    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
+  },
+  {
+    "id": "DLR5L16N49868",
+    "titre": "Projet de loi de simplification de la vie économique",
     "theme": "Travail / Économie",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-au-renforcement-7539099d",
-    "titre": "Renforcement de la sûreté dans les transports",
+    "id": "DLR5L17N52977",
+    "titre": "Nationalisation d'ArcelorMittal France",
+    "theme": "Autre",
+    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
+  },
+  {
+    "id": "DLR5L17N52781",
+    "titre": "Assurer le droit de chaque enfant à disposer d’un avocat dans le cadre d’une mesure d’assistance éducative et de protection de l’enfance",
     "theme": "Société",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-contre-les-fraudes-aux-m-7c96bf83",
-    "titre": "Contre les fraudes aux moyens de paiement scripturaux",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-sortir-la-franc-d678e72d",
-    "titre": "Sortir la France du piège du narcotrafic",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-organique-fixant-le-stat-7c0cc4cf",
-    "titre": "Fixant le statut du procureur de la République anti-criminalité organisée",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-modifier-la-def-51c758af",
-    "titre": "Modifier la définition pénale du viol et des agressions sexuelles",
-    "theme": "Justice",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-portant-diverses-dispositions-d-b676ea09",
-    "titre": "Diverses dispositions d'adaptation au droit de l'Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-le-co-73dfa805",
-    "titre": "Renforcer le contrôle du Parlement en période d'expédition des affaires courantes",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-valoriser-la-re-a022930b",
-    "titre": "Valoriser la réserve communale de sécurité civile",
-    "theme": "Sécurité",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-faire-executer-e0c6edf4",
-    "titre": "Faire exécuter les peines d’emprisonnement ferme",
-    "theme": "Justice",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-la-de-bbce009d",
-    "titre": "Renforcer la démographie professionnelle des orthophonistes",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-harmoniser-le-m-b7dd795d",
-    "titre": "Harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
-    "theme": "Institutions",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-organique-visant-a-harmo-798a02b0",
-    "titre": "Harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
-    "theme": "Institutions",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-convertir-des-c-d51002dd",
-    "titre": "Convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-les-c-d6792d19",
-    "titre": "Renforcer les conditions d'accès à la nationalité française à Mayotte",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-reformer-le-mod-91064963",
-    "titre": "Réformer le mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille",
-    "theme": "Institutions",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-organique-fixant-le-stat-5f03cfc7",
-    "titre": "Fixant le statut du procureur de la République national anti-criminalité organisée",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-le-pa-7e413a03",
-    "titre": "Renforcer le parcours inclusif des enfants à besoins éducatifs particuliers",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-proteger-les-pe-84aa6b7e",
-    "titre": "Protéger les personnes engagées dans un projet parental des discriminations au travail",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-a-la-lutte-cont-df55f399",
-    "titre": "La lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine dans l'enseignement supérieur",
-    "theme": "Éducation",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-preserver-les-d-6dc3528d",
-    "titre": "Préserver les droits des victimes dont la plainte est classée sans suite",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-lutter-contre-l-74cdd688",
-    "titre": "Lutter contre les déserts médicaux, d'initiative transpartisane",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-l-aut-932ee289",
-    "titre": "Renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents",
-    "theme": "Justice",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-de-simplification-du-dro-7a818596",
-    "titre": "De simplification du droit de l'urbanisme et du logement",
-    "theme": "Logement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-lutter-contre-l-6ff298c6",
-    "titre": "Lutter contre la mortalité infantile",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-creer-une-croix-eda71106",
-    "titre": "Créer une croix de la valeur des sapeurs-pompiers volontaires et professionnels",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-lutter-contre-l-e2877f1d",
-    "titre": "Lutter contre la pédocriminalité",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-relatif-au-transfert-a-l-etat-de-98ac6f49",
-    "titre": "Transfert à l’Etat des personnels enseignants de l’enseignement du premier degré dans les îles Wallis et Futuna",
-    "theme": "Éducation",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-garantir-l-egal-5a676b70",
-    "titre": "Garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-au-droit-a-l-ai-6b6632c1",
-    "titre": "Droit à l'aide à mourir",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-restaurer-un-sy-f7e99d1e",
-    "titre": "Restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-garantir-un-cad-fb1ec669",
-    "titre": "Garantir un cadre fiscal stable, juste et lisible pour nos micro-entrepreneurs et nos petites entreprises",
-    "theme": "Budget / Finances",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-faciliter-la-tr-3f8f7a58",
-    "titre": "Faciliter la transformation des bureaux et autres bâtiments en logements",
-    "theme": "Logement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-creant-l-homicide-routie-9868882e",
-    "titre": "Créant l'homicide routier et visant à lutter contre la violence routière",
-    "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-portant-reconnaissance-d-ac5479d7",
-    "titre": "Reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
-    "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-au-droit-de-vot-eb80dc38",
-    "titre": "Droit de vote par correspondance des personnes détenues",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-permettant-aux-salaries-5ce9aeaa",
-    "titre": "Permettant aux salariés de participer aux collectes de sang, de plaquettes ou de plasma sur leur temps de travail",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-experimentant-l-encadrem-3c4ad298",
-    "titre": "Expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer",
-    "theme": "Logement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-accorder-le-ver-4c9c0a07",
-    "titre": "Accorder le versement des allocations familiales dès le premier enfant",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-sur-la-profession-d-infi-46c453d7",
-    "titre": "La profession d’infirmier",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-de-simplification-de-la-vie-econ-f6503cab",
-    "titre": "De simplification de la vie économique",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-autorisant-la-ratification-de-la-0c185c67",
-    "titre": "La ratification de la résolution LP.3(4) portant amendement de l’article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l’immersion de déchets et autres matières",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-portant-programmation-na-7809fd79",
-    "titre": "Programmation nationale pour l'énergie et le climat pour les années 2025 à 2035",
-    "theme": "Environnement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-organique-visant-a-repor-41e2f711",
-    "titre": "Reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-la-se-8a124094",
-    "titre": "Renforcer la sécurité des professionnels de santé",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-de-programmation-pour-la-refonda-be776c19",
-    "titre": "De programmation pour la refondation de Mayotte",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-organique-relatif-au-departement-ded7e016",
-    "titre": "Organique relatif au Département-Région de Mayotte",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-a-la-lutte-cont-75ef82de",
-    "titre": "La lutte contre l'antisémitisme dans l'enseignement supérieur",
-    "theme": "Éducation",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-les-o-966be7bc",
-    "titre": "Renforcer les outils de régulation des meublés de tourisme à l'échelle locale",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-portant-creation-de-l-etablissem-815146e9",
-    "titre": "Création de l'établissement public du commerce et de l'industrie de Corse",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-portant-transposition-des-accord-abebf64f",
-    "titre": "Transposition des accords nationaux interprofessionnels en faveur de l'emploi des salariés expérimentés et relatif à l'évolution du dialogue social",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-reformer-le-mod-1cb31edb",
-    "titre": "Réformer le mode d’élection des membres du conseil de Paris et des conseils municipaux de Lyon et de Marseille",
-    "theme": "Institutions",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-lever-les-contr-127ecef0",
-    "titre": "Lever les contraintes à l'exercice du métier d'agriculteur",
-    "theme": "Environnement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-faciliter-le-ma-e204864f",
-    "titre": "Faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-au-mode-d-elect-e81d19de",
-    "titre": "Mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et de Marseille",
-    "theme": "Institutions",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-encourager-a-fa-298ee4a5",
-    "titre": "Encourager, à faciliter et à sécuriser l'exercice du mandat d'élu local",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-modifiant-la-definition-c571a4fd",
-    "titre": "Modifiant la définition pénale du viol et des agressions sexuelles",
-    "theme": "Justice",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-organique-visant-a-repor-cb338def",
-    "titre": "Reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie afin de permettre la poursuite de la discussion en vue d'un accord consensuel sur l'avenir institutionnel de la Nouvelle-Calédonie",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-rendre-systemat-41a8aaba",
-    "titre": "Rendre systématique l'information du consommateur sur l'origine des denrées alimentaires par le moyen de l'étiquetage",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-de-finances-de-fin-de-gestion-po-e8bf2236",
-    "titre": "De finances de fin de gestion pour 2025",
-    "theme": "Budget / Finances",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-a-l-etablisseme-49cd5491",
-    "titre": "L’établissement de l’égalité d’accès au service public postal en outre-mer",
-    "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-la-nationalisat-19d4886a",
-    "titre": "La nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-de-fin-de-gestion-pour-2025-bbd2fa8b",
-    "titre": "De fin de gestion pour 2025",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-organique-portant-reform-66911c7c",
-    "titre": "Réforme du financement de l'audiovisuel public",
-    "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-securiser-le-me-a66ca2d1",
-    "titre": "Sécuriser le mécanisme de purge des nullités",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-prolonger-la-de-18959b9d",
-    "titre": "Prolonger la dérogation d'usage des titres restaurant pour tout produit alimentaire",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-portant-creation-d-un-st-37ce39e9",
-    "titre": "Création d'un statut de l'élu local",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-de-financement-de-la-securite-so-dea1b80d",
-    "titre": "De financement de la sécurité sociale pour 2026",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-organique-tendant-a-modi-a969ec1d",
-    "titre": "Modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-a-la-protection-3ad5e812",
-    "titre": "La protection sociale complémentaire des agents publics territoriaux",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-assurer-le-droi-9ee0d4f2",
-    "titre": "Assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance",
-    "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-proteger-les-mi-0de47b90",
-    "titre": "Protéger les mineurs isolés et à lutter contre le sans-abrisme",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-pour-retrouver-la-confia-8bf08c97",
-    "titre": "Retrouver la confiance et l'équilibre dans les rapports locatifs",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-garantir-un-ren-8884676a",
-    "titre": "Garantir un renouvellement automatique des titres de séjour de longue durée",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-prendre-des-mes-a82f4539",
-    "titre": "Prendre des mesures d'urgence contre la vie chère en outre-mer dans le secteur des services",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-portant-reparation-des-p-0d6e6fad",
-    "titre": "Réparation des personnes condamnées pour homosexualité entre 1945 et 1982",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-reconnaitre-le-9bdbfb34",
-    "titre": "Reconnaître le préjudice subi par les personnes condamnées sur le fondement de la législation pénalisant l'avortement, et par toutes les femmes, avant la loi n° 75-17 du 17 janvier 1975 relative à l'interruption volontaire de grossesse",
-    "theme": "Justice",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-speciale-prevue-par-l-article-45-ab2cab90",
-    "titre": "Spéciale prévue par l'article 45 de la loi organique du 1er août 2001 relative aux lois de finances",
-    "theme": "Budget / Finances",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-ameliorer-l-acc-de40df72",
+    "id": "DLR5L17N51968",
     "titre": "Améliorer l'accès au logement des travailleurs des services publics",
     "theme": "Travail / Économie",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-du-projet-de-loi-relative-a-l-organisation-des-je-61e39935",
-    "titre": "L'organisation des jeux Olympiques et Paralympiques de 2030",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-la-creation-d-u-d15a83c2",
-    "titre": "La création d'un centre hospitalier universitaire en Corse",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-reduire-et-a-en-1cf166aa",
-    "titre": "Réduire et à encadrer les frais bancaires sur succession",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-optimiser-la-pr-6ed8aba7",
-    "titre": "Optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-sur-le-remboursement-int-18ee9fad",
-    "titre": "Le remboursement intégral des fauteuils roulants par l'Assurance maladie",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-de-finances-de-fin-de-gestion-po-0eefd29f",
-    "titre": "De finances de fin de gestion pour 2024",
-    "theme": "Budget / Finances",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-proteger-les-mi-f5e5e4e5",
-    "titre": "Protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux",
+    "id": "DLR5L17N53187",
+    "titre": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
     "theme": "Numérique",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-exercer-l-acces-dfffe727",
-    "titre": "Exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-moderniser-la-g-398c3cb7",
+    "id": "DLR5L17N52746",
     "titre": "Moderniser la gestion du patrimoine immobilier de l'État",
     "theme": "Autre",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-mettre-fin-au-d-0b041a9e",
-    "titre": "Mettre fin au devoir conjugal",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-reparer-les-pre-44e39e18",
-    "titre": "Réparer les préjudices causés par la transplantation de mineurs de La Réunion en France hexagonale de 1962 à 1984",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-garantir-la-gra-51f5c457",
-    "titre": "Garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-reconnaitre-les-f8b4edf9",
-    "titre": "Reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation",
-    "theme": "Environnement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-a-l-interet-des-f99374ab",
-    "titre": "L'intérêt des enfants",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-relatif-a-l-organisation-des-jeu-9e8792d1",
-    "titre": "L'organisation des jeux Olympiques et Paralympiques de 2030",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-relancer-les-in-7d6415e6",
+    "id": "DLR5L17N53530",
     "titre": "Relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-ameliorant-la-protection-e049e020",
-    "titre": "Améliorant la protection des personnes ciblées par les réseaux de criminalité organisée",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-facilitant-l-exercice-en-bee6ba9f",
-    "titre": "Facilitant l'exercice en France des médecins diplômés au Royaume-Uni avant le Brexit",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-ameliorer-la-pr-96a74d0d",
-    "titre": "Améliorer la protection des commerçants grâce à l'usage d'outils numériques",
-    "theme": "Numérique",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-l-extension-de-f777283b",
-    "titre": "L'extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-d-experimentation-pour-l-c79e8841",
-    "titre": "Expérimentation pour l'instauration d'un enseignement d'éducation à l'alimentation obligatoire à l'école",
-    "theme": "Éducation",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-d-urgence-pour-mayotte-52e0f5e1",
-    "titre": "Urgence pour Mayotte",
     "theme": "Autre",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
@@ -660,24 +108,6 @@
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-a-l-exercice-de-cf77d9a2",
-    "titre": "L'exercice de la démocratie agricole",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-prendre-des-mes-07bc1f27",
-    "titre": "Prendre des mesures d'urgence contre la vie chère et à réguler la concentration des acteurs économiques dans les territoires d'outre-mer",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-adoptee-par-le-senat-rel-00da72ec",
-    "titre": ", adoptée par le Sénat, relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N52985",
     "titre": "Projet de loi relatif à la lutte contre les fraudes sociales et fiscales",
     "theme": "Budget / Finances",
@@ -690,12 +120,6 @@
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-rendre-accessib-c8ba53c6",
-    "titre": "Rendre accessible à tous les étudiants le repas à 1 euro",
-    "theme": "Éducation",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N53067",
     "titre": "Reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance",
     "theme": "Environnement",
@@ -705,18 +129,6 @@
     "id": "DLR5L17N53775",
     "titre": "Encadrer les regroupements pédagogiques intercommunaux afin de garantir l’égalité d’accès à l’école en milieu rural",
     "theme": "Éducation",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-lutter-contre-l-88177168",
-    "titre": "Lutter contre les pannes d'ascenceur non prises en charge",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-prenant-des-mesures-d-ur-b33acf73",
-    "titre": "Prenant des mesures d'urgence pour protéger nos enfants accueillis en crèches privées à but lucratif",
-    "theme": "Autre",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
@@ -738,21 +150,9 @@
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-ameliorer-le-tr-c071cd3b",
-    "titre": "Améliorer le traitement des maladies affectant les cultures végétales à l'aide d'aéronefs télépilotés",
-    "theme": "International",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N52635",
     "titre": "Projet de loi relatif à la restitution de biens culturels provenant d’États qui, du fait d’une appropriation illicite, en ont été privés",
     "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "DLR5L16N49868",
-    "titre": "Projet de loi de simplification de la vie économique",
-    "theme": "Travail / Économie",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
@@ -768,18 +168,6 @@
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "DLR5L17N50686",
-    "titre": "Renforcer le parcours inclusif des élèves en situation de handicap",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-contre-toutes-les-fraude-40a738cc",
-    "titre": "Contre toutes les fraudes aux aides publiques",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N52208",
     "titre": "Accélérer le développement du transport maritime à propulsion vélique",
     "theme": "Société",
@@ -792,21 +180,9 @@
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-renforcer-la-lu-efdb13aa",
-    "titre": "Renforcer la lutte contre les violences sexuelles et sexistes",
-    "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N52924",
     "titre": "Mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers, les maladies rares et les maladies orphelines de l’enfant",
     "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-ameliorer-la-pr-6e740cd8",
-    "titre": "Améliorer la prise en charge des soins et dispositifs spécifiques au traitement du cancer du sein par l'assurance maladie",
-    "theme": "Santé",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
@@ -825,18 +201,6 @@
     "id": "DLR5L17N52104",
     "titre": "Proposition de loi organique portant actualisation du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
     "theme": "Institutions",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-restreindre-la-e297ff6c",
-    "titre": "Restreindre la vente de protoxyde d’azote aux seuls professionnels et à renforcer les actions de prévention sur les consommations détournées",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-interdire-les-d-01e66dd6",
-    "titre": "Interdire les dispositifs électroniques de vapotage à usage unique",
-    "theme": "Autre",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
@@ -930,45 +294,15 @@
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "DLR5L17N52977",
-    "titre": "Nationalisation d'ArcelorMittal France",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N54229",
     "titre": "Réformer les bourses sur critères sociaux et lutter contre la précarité étudiante",
     "theme": "Éducation",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-adoptee-par-le-senat-pou-56302368",
-    "titre": ", adoptée par le Sénat, pour améliorer la prise en charge de la sclérose latérale amyotrophique et d'autres maladies évolutives graves",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N53600",
     "titre": "Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement",
     "theme": "Environnement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "DLR5L17N51968",
-    "titre": "Améliorer l'accès au logement des travailleurs des services publics",
-    "theme": "Travail / Économie",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "DLR5L17N53530",
-    "titre": "Relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-permettre-l-ele-8d7c6f8d",
-    "titre": "Permettre l'élection du maire d'une commune nouvelle en cas de conseil municipal incomplet",
-    "theme": "Institutions",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
@@ -984,32 +318,8 @@
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-a-la-surete-dan-914b4a41",
-    "titre": "La sûreté dans les transports",
-    "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-adapter-le-fonc-4aba0710",
-    "titre": "Adapter le fonctionnement des instances de gouvernance des chambres d'agriculture et de la mutualité sociale agricole",
-    "theme": "Environnement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N51732",
     "titre": "Proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel",
-    "theme": "Société",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "DLR5L17N51670",
-    "titre": "Fin de vie",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "DLR5L17N52781",
-    "titre": "Assurer le droit de chaque enfant à disposer d’un avocat dans le cadre d’une mesure d’assistance éducative et de protection de l’enfance",
     "theme": "Société",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
@@ -1032,21 +342,9 @@
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-restaurer-l-aut-ad177921",
-    "titre": "Restaurer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents",
-    "theme": "Justice",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
     "id": "DLR5L17N53980",
     "titre": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
     "theme": "Sécurité",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-proroger-le-dis-020d6d86",
-    "titre": "Proroger le dispositif d'expérimentation favorisant l'égalité des chances pour l'accès à certaines écoles de service public",
-    "theme": "Éducation",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   },
   {
@@ -1059,78 +357,6 @@
     "id": "DLR5L17N54372",
     "titre": "Projet de loi relatif à la protection des enfants",
     "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "DLR5L17N53187",
-    "titre": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
-    "theme": "Numérique",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "DLR5L17N52746",
-    "titre": "Moderniser la gestion du patrimoine immobilier de l'État",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-du-projet-de-loi-d-orientation-pour-la-souveraine-d32059b3",
-    "titre": "Orientation pour la souveraineté alimentaire et agricole et le renouvellement des générations en agriculture",
-    "theme": "Environnement",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-proteger-la-pop-7fe12ead",
-    "titre": "Protéger la population des risques liés aux substances perfluoroalkylées et polyfluoroalkylées",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-instaurant-un-impot-plan-9bcf7369",
-    "titre": "Instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches",
-    "theme": "Budget / Finances",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-pour-un-demarchage-telep-13edc3bc",
-    "titre": "Un démarchage téléphonique consenti et une protection renforcée des consommateurs contre les abus",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-relative-a-l-organisatio-7d6504d8",
-    "titre": "L'organisation et aux missions des professionnels de santé, vétérinaires, psychothérapeutes et psychologues professionnels et volontaires des services d'incendie et de secours",
-    "theme": "Santé",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-endiguer-le-pro-5637afa6",
-    "titre": "Endiguer le prolifération du frelon asiatique et à préserver la filière apicole",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-simplifier-la-s-396efccb",
-    "titre": "Simplifier la sortie de l'indivison successorale",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-simplifiant-l-ouverture-78b7bcc3",
-    "titre": "Simplifiant l'ouverture des débits de boissons en zone rurale",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-lutter-contre-l-0cd6e679",
-    "titre": "Lutter contre la disparition des terres agricoles et renforcer la régulation des prix du foncier agricole",
-    "theme": "Autre",
-    "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
-  },
-  {
-    "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-assouplir-la-ge-658cbde6",
-    "titre": "Assouplir la gestion des compétences \"eau\" et \"assainissement\"",
-    "theme": "Environnement",
     "resume": "TODO — résumé à rédiger à la main à partir de l'exposé des motifs"
   }
 ]

@@ -38,6 +38,20 @@ Sorties dans `pipeline/output/` :
 Le pipeline met en cache les archives brutes de l'AN dans `pipeline/data/raw/` (gitignoré,
 ~300 Mo) pour ne pas les re-télécharger à chaque exécution.
 
+### Limite connue : couverture temporelle
+
+Dans les données de l'AN, `objet.dossierLegislatif.dossierRef` (la référence qui relie un
+scrutin à sa fiche officielle — titre court, thème, texte déposé) **est absent pour tout scrutin
+antérieur au 26/03/2026** (bascule nette, probablement un changement côté AN, pas une donnée
+manquante ponctuelle). Le pipeline exclut délibérément toute loi dont aucune lecture n'a de
+`dossierRef` — décision prise pour garder une source fiable pour le titre et le futur résumé,
+plutôt que de générer des titres approximatifs pour ~65 % des lois.
+
+Conséquence : les lois retenues ne couvrent actuellement que **le 26/03/2026 au 21/07/2026**
+(60 lois), pas l'ensemble de la législature depuis juillet 2024. `pipeline/output/report.json`
+liste les ~120 lois exclues pour cette raison. À rouvrir si une source alternative de titres
+officiels est trouvée pour la période antérieure.
+
 ## Prochaines étapes
 
 Voir l'ordre de développement suggéré dans `description_initial.md` : app React (liste des lois,
