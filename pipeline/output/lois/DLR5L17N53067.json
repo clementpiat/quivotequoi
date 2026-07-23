@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N53067",
+  "titre": "Reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance",
+  "dateVote": "2026-04-08",
+  "resultat": "adopté",
+  "scrutinNumero": "6069",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Environnement",
+  "chiffres": {
+    "votants": 97,
+    "exprimes": 70,
+    "pour": 70,
+    "contre": 0,
+    "abstentions": 27
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_politique_nationale_adaptation_changement_climatique_adapter_mecanismes_assurance_17e",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6069"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 19,
+      "nonVotants": 1,
+      "absents": 102,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 79,
+      "position": 0.12087912087912088
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 2,
+      "nonVotants": 0,
+      "absents": 60,
+      "position": 0.1267605633802817
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 49,
+      "position": 0.2898550724637681
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3,
+      "nonVotants": 0,
+      "absents": 45,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 25,
+      "position": 0.34210526315789475
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 32,
+      "position": 0.13513513513513514
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 26,
+      "position": 0.2571428571428571
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 21,
+      "position": 0.045454545454545456
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.058823529411764705
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3,
+      "nonVotants": 0,
+      "absents": 14,
+      "position": 0
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 9,
+      "position": 0.1
+    }
+  ]
+}

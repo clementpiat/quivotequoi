@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N53770",
+  "titre": "Simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques",
+  "dateVote": "2026-04-09",
+  "resultat": "adopté",
+  "scrutinNumero": "6131",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Travail / Économie",
+  "chiffres": {
+    "votants": 93,
+    "exprimes": 82,
+    "pour": 82,
+    "contre": 0,
+    "abstentions": 11
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_gestion_commande_publique_17e",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6131"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 107,
+      "position": 0.12295081967213115
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 77,
+      "position": 0.14285714285714285
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 7,
+      "nonVotants": 0,
+      "absents": 64,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 2,
+      "nonVotants": 0,
+      "absents": 59,
+      "position": 0.11594202898550725
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 44,
+      "position": 0.08333333333333333
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 2,
+      "nonVotants": 0,
+      "absents": 28,
+      "position": 0.21052631578947367
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 32,
+      "position": 0.13513513513513514
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 25,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": 0.7142857142857143
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 21,
+      "position": 0.045454545454545456
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 15,
+      "position": 0.11764705882352941
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.058823529411764705
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": 0
+    }
+  ]
+}

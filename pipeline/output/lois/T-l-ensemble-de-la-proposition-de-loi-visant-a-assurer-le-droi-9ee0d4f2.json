@@ -1,0 +1,142 @@
+{
+  "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-assurer-le-droi-9ee0d4f2",
+  "titre": "Assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance",
+  "dateVote": "2025-12-11",
+  "resultat": "adopté",
+  "scrutinNumero": "4714",
+  "procedure": null,
+  "themeSuggere": "Société",
+  "chiffres": {
+    "votants": 270,
+    "exprimes": 269,
+    "pour": 269,
+    "contre": 0,
+    "abstentions": 1
+  },
+  "liens": {
+    "dossierAN": null,
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4714"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 123,
+      "pour": 45,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 78,
+      "position": 0.36585365853658536
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 33,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 57,
+      "position": 0.3626373626373626
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 55,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.7746478873239436
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 65,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 4,
+      "position": 0.9420289855072463
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 40,
+      "position": 0.16326530612244897
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 22,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.5789473684210527
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": 0.3888888888888889
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 21,
+      "position": 0.38235294117647056
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 18,
+      "position": 0.18181818181818182
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 13,
+      "position": 0.23529411764705882
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 16,
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 11,
+      "position": 0.3125
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 9,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 8,
+      "position": 0.1111111111111111
+    }
+  ]
+}

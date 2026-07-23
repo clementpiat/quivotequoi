@@ -1,0 +1,142 @@
+{
+  "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-exercer-l-acces-dfffe727",
+  "titre": "Exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi",
+  "dateVote": "2026-01-27",
+  "resultat": "adopté",
+  "scrutinNumero": "5222",
+  "procedure": null,
+  "themeSuggere": "Travail / Économie",
+  "chiffres": {
+    "votants": 119,
+    "exprimes": 96,
+    "pour": 96,
+    "contre": 0,
+    "abstentions": 23
+  },
+  "liens": {
+    "dossierAN": null,
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5222"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 22,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 100,
+      "position": 0.18032786885245902
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 76,
+      "position": 0.15384615384615385
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 23,
+      "nonVotants": 0,
+      "absents": 48,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 49,
+      "position": 0.2898550724637681
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 46,
+      "position": 0.061224489795918366
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 25,
+      "position": 0.34210526315789475
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 30,
+      "position": 0.16666666666666666
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 24,
+      "position": 0.29411764705882354
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.2727272727272727
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 17,
+      "position": 0
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 16,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 11,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 8,
+      "position": 0.18181818181818182
+    }
+  ]
+}

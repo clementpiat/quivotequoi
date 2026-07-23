@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N54085",
+  "titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
+  "dateVote": "2026-07-20",
+  "resultat": "adopté",
+  "scrutinNumero": "8427",
+  "procedure": "Projet de loi ordinaire",
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 561,
+    "exprimes": 520,
+    "pour": 296,
+    "contre": 224,
+    "abstentions": 41
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 122,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 51,
+      "contre": 15,
+      "abstentions": 16,
+      "nonVotants": 1,
+      "absents": 8,
+      "position": 0.3956043956043956
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 71,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": -1
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 68,
+      "pour": 0,
+      "contre": 66,
+      "abstentions": 2,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": -0.9705882352941176
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 48,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 0,
+      "contre": 38,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": -1
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 19,
+      "contre": 11,
+      "abstentions": 6,
+      "nonVotants": 0,
+      "absents": 1,
+      "position": 0.21621621621621623
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 24,
+      "contre": 3,
+      "abstentions": 4,
+      "nonVotants": 0,
+      "absents": 4,
+      "position": 0.6
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 8,
+      "contre": 4,
+      "abstentions": 11,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 0.17391304347826086
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 2,
+      "position": -0.8823529411764706
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 7,
+      "contre": 1,
+      "abstentions": 2,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 0.6
+    }
+  ]
+}

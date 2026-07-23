@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N53720",
+  "titre": "Renforcer le contrôle, la gouvernance et la responsabilité financière des agences et opérateurs de l’État",
+  "dateVote": "2026-03-26",
+  "resultat": "adopté",
+  "scrutinNumero": "5846",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 53,
+    "exprimes": 48,
+    "pour": 34,
+    "contre": 14,
+    "abstentions": 5
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/controle_gouvernance_reponsabilite_financiere_agences_operateurs_Etat_17e",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5846"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 117,
+      "position": 0.040983606557377046
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 2,
+      "absents": 87,
+      "position": 0.02197802197802198
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 60,
+      "position": -0.15492957746478872
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 4,
+      "nonVotants": 0,
+      "absents": 65,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 48,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 35,
+      "position": -0.05263157894736842
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 24,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 12,
+      "position": 0.6666666666666666
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 34,
+      "position": 0.02857142857142857
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": 0
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 15,
+      "position": 0.11764705882352941
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": -0.058823529411764705
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": 0
+    }
+  ]
+}

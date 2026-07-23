@@ -1,0 +1,142 @@
+{
+  "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-permettre-l-ele-8d7c6f8d",
+  "titre": "Permettre l'élection du maire d'une commune nouvelle en cas de conseil municipal incomplet",
+  "dateVote": "2025-02-10",
+  "resultat": "adopté",
+  "scrutinNumero": "742",
+  "procedure": null,
+  "themeSuggere": "Institutions",
+  "chiffres": {
+    "votants": 97,
+    "exprimes": 97,
+    "pour": 78,
+    "contre": 19,
+    "abstentions": 0
+  },
+  "liens": {
+    "dossierAN": null,
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/742"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 124,
+      "pour": 32,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 92,
+      "position": 0.25806451612903225
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 94,
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 2,
+      "absents": 83,
+      "position": 0.09574468085106383
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 19,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 52,
+      "position": -0.2676056338028169
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 66,
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 58,
+      "position": 0.12121212121212122
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 43,
+      "position": 0.10416666666666667
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 31,
+      "position": 0.18421052631578946
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 29,
+      "position": 0.19444444444444445
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 33,
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 28,
+      "position": 0.15151515151515152
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": 0.043478260869565216
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.058823529411764705
+    },
+    {
+      "groupeId": "PO847173",
+      "effectif": 16,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 14,
+      "position": 0.125
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 11,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": 0.09090909090909091
+    }
+  ]
+}

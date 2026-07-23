@@ -1,0 +1,142 @@
+{
+  "id": "T-l-ensemble-du-projet-de-loi-portant-creation-de-l-etablissem-815146e9",
+  "titre": "Création de l'établissement public du commerce et de l'industrie de Corse",
+  "dateVote": "2025-07-02",
+  "resultat": "adopté",
+  "scrutinNumero": "2900",
+  "procedure": null,
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 60,
+    "exprimes": 59,
+    "pour": 59,
+    "contre": 0,
+    "abstentions": 1
+  },
+  "liens": {
+    "dossierAN": null,
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2900"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 123,
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 113,
+      "position": 0.08130081300813008
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 93,
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 85,
+      "position": 0.07526881720430108
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 61,
+      "position": 0.14084507042253522
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 66,
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 60,
+      "position": 0.09090909090909091
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 42,
+      "position": 0.14285714285714285
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 36,
+      "position": 0.05263157894736842
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 32,
+      "position": 0.1111111111111111
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 23,
+      "position": 0.3235294117647059
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 21,
+      "position": 0.08695652173913043
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0
+    },
+    {
+      "groupeId": "PO847173",
+      "effectif": 16,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 11,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 11,
+      "position": 0
+    }
+  ]
+}

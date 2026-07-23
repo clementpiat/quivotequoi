@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N53980",
+  "titre": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
+  "dateVote": "2026-07-21",
+  "resultat": "adopté",
+  "scrutinNumero": "8433",
+  "procedure": "Projet de loi ordinaire",
+  "themeSuggere": "Sécurité",
+  "chiffres": {
+    "votants": 537,
+    "exprimes": 530,
+    "pour": 351,
+    "contre": 179,
+    "abstentions": 7
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 114,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 8,
+      "position": 0.9344262295081968
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 84,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 6,
+      "position": 0.9230769230769231
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 71,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": -1
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 68,
+      "pour": 0,
+      "contre": 56,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 11,
+      "position": -0.8235294117647058
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 46,
+      "contre": 0,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 1,
+      "position": 0.9583333333333334
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 0,
+      "contre": 36,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 2,
+      "position": -0.9473684210526315
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 33,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 4,
+      "position": 0.8918918918918919
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 32,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 2,
+      "position": 0.9142857142857143
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 18,
+      "contre": 1,
+      "abstentions": 4,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 0.7391304347826086
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 2,
+      "position": -0.8823529411764706
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 2,
+      "position": 0.7
+    }
+  ]
+}

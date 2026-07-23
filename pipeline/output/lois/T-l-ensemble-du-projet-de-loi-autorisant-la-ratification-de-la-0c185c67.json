@@ -1,0 +1,142 @@
+{
+  "id": "T-l-ensemble-du-projet-de-loi-autorisant-la-ratification-de-la-0c185c67",
+  "titre": "La ratification de la résolution LP.3(4) portant amendement de l’article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l’immersion de déchets et autres matières",
+  "dateVote": "2025-06-17",
+  "resultat": "adopté",
+  "scrutinNumero": "2460",
+  "procedure": null,
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 408,
+    "exprimes": 368,
+    "pour": 261,
+    "contre": 107,
+    "abstentions": 40
+  },
+  "liens": {
+    "dossierAN": null,
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2460"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 123,
+      "pour": 79,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 44,
+      "position": 0.6422764227642277
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 93,
+      "pour": 85,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 7,
+      "position": 0.9139784946236559
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 61,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": -0.8591549295774648
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 66,
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 39,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": -0.07575757575757576
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 32,
+      "contre": 0,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.6530612244897959
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 0,
+      "contre": 30,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 8,
+      "position": -0.7894736842105263
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 30,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 6,
+      "position": 0.8333333333333334
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 8,
+      "position": 0.7647058823529411
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 18,
+      "position": -0.13043478260869565
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": -0.4117647058823529
+    },
+    {
+      "groupeId": "PO847173",
+      "effectif": 16,
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": 0.375
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 11,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 9,
+      "position": 0.18181818181818182
+    }
+  ]
+}

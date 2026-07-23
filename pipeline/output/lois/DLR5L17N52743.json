@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N52743",
+  "titre": "Garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseur",
+  "dateVote": "2026-05-12",
+  "resultat": "adopté",
+  "scrutinNumero": "6563",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Société",
+  "chiffres": {
+    "votants": 146,
+    "exprimes": 146,
+    "pour": 146,
+    "contre": 0,
+    "abstentions": 0
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/information_protection_victimes_violences_sexuelles_17e",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6563"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 31,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 91,
+      "position": 0.2540983606557377
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 34,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 56,
+      "position": 0.37362637362637363
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 55,
+      "position": 0.22535211267605634
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 68,
+      "pour": 23,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 45,
+      "position": 0.3382352941176471
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 39,
+      "position": 0.1875
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 28,
+      "position": 0.2631578947368421
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 33,
+      "position": 0.10810810810810811
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 26,
+      "position": 0.2571428571428571
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 21,
+      "position": 0.08695652173913043
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 13,
+      "position": 0.23529411764705882
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 14,
+      "position": 0.17647058823529413
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 9,
+      "position": 0.1
+    }
+  ]
+}

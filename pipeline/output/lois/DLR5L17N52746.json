@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N52746",
+  "titre": "Moderniser la gestion du patrimoine immobilier de l'État",
+  "dateVote": "2026-07-21",
+  "resultat": "adopté",
+  "scrutinNumero": "8434",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 364,
+    "exprimes": 362,
+    "pour": 276,
+    "contre": 86,
+    "abstentions": 2
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8434"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 62,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 60,
+      "position": 0.5081967213114754
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 68,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 22,
+      "position": 0.7472527472527473
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 49,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": -0.6901408450704225
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 68,
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 2,
+      "nonVotants": 0,
+      "absents": 40,
+      "position": 0.38235294117647056
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": 0.5416666666666666
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 0,
+      "contre": 26,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 12,
+      "position": -0.6842105263157895
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 8,
+      "position": 0.7837837837837838
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 5,
+      "position": 0.8285714285714286
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 4,
+      "position": 0.8260869565217391
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 6,
+      "position": -0.6470588235294118
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 3,
+      "position": 0.8235294117647058
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 7,
+      "position": 0.3
+    }
+  ]
+}

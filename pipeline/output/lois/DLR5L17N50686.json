@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N50686",
+  "titre": "Renforcer le parcours inclusif des élèves en situation de handicap",
+  "dateVote": "2026-05-11",
+  "resultat": "adopté",
+  "scrutinNumero": "6512",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Santé",
+  "chiffres": {
+    "votants": 125,
+    "exprimes": 108,
+    "pour": 108,
+    "contre": 0,
+    "abstentions": 17
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_parcours_inclusif_eleves_handicap",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6512"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 93,
+      "position": 0.23770491803278687
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 36,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 54,
+      "position": 0.3956043956043956
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 16,
+      "nonVotants": 0,
+      "absents": 54,
+      "position": 0.014084507042253521
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 68,
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 57,
+      "position": 0.16176470588235295
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 42,
+      "position": 0.125
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 29,
+      "position": 0.23684210526315788
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 32,
+      "position": 0.13513513513513514
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 31,
+      "position": 0.11428571428571428
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": 0.043478260869565216
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 15,
+      "position": 0.058823529411764705
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 13,
+      "position": 0.23529411764705882
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 9,
+      "position": 0.1
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N51037",
+  "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+  "dateVote": "2026-07-07",
+  "resultat": "adopté",
+  "scrutinNumero": "7987",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 517,
+    "exprimes": 512,
+    "pour": 313,
+    "contre": 199,
+    "abstentions": 5
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 122,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 55,
+      "contre": 12,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 23,
+      "position": 0.4725274725274725
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 69,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 2,
+      "position": -0.971830985915493
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 68,
+      "pour": 0,
+      "contre": 62,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 6,
+      "position": -0.9117647058823529
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 48,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 0,
+      "contre": 29,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 9,
+      "position": -0.7631578947368421
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 28,
+      "contre": 1,
+      "abstentions": 5,
+      "nonVotants": 0,
+      "absents": 3,
+      "position": 0.7297297297297297
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 31,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 4,
+      "position": 0.8857142857142857
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 9,
+      "contre": 8,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 6,
+      "position": 0.043478260869565216
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 3,
+      "position": 0.8235294117647058
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 17,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": -1
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 6,
+      "contre": 1,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 3,
+      "position": 0.5
+    }
+  ]
+}

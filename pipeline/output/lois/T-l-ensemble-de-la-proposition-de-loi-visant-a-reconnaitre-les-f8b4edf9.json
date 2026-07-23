@@ -1,0 +1,142 @@
+{
+  "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-reconnaitre-les-f8b4edf9",
+  "titre": "Reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation",
+  "dateVote": "2026-01-29",
+  "resultat": "adopté",
+  "scrutinNumero": "5266",
+  "procedure": null,
+  "themeSuggere": "Environnement",
+  "chiffres": {
+    "votants": 69,
+    "exprimes": 69,
+    "pour": 69,
+    "contre": 0,
+    "abstentions": 0
+  },
+  "liens": {
+    "dossierAN": null,
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5266"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 111,
+      "position": 0.08196721311475409
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 75,
+      "position": 0.16483516483516483
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 58,
+      "position": 0.18309859154929578
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 63,
+      "position": 0.08695652173913043
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 45,
+      "position": 0.08163265306122448
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 34,
+      "position": 0.10526315789473684
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 32,
+      "position": 0.1111111111111111
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 30,
+      "position": 0.11764705882352941
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 20,
+      "position": 0.09090909090909091
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": 0.4117647058823529
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 16,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 11,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 10,
+      "position": 0
+    }
+  ]
+}

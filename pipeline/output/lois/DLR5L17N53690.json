@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N53690",
+  "titre": "Proposition de loi visant à permettre le remboursement des honoraires d'expert-comptable aux candidats",
+  "dateVote": "2026-03-30",
+  "resultat": "adopté",
+  "scrutinNumero": "5849",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 42,
+    "exprimes": 42,
+    "pour": 42,
+    "contre": 0,
+    "abstentions": 0
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53690",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5849"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 109,
+      "position": 0.09836065573770492
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 79,
+      "position": 0.12087912087912088
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 63,
+      "position": 0.11267605633802817
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 66,
+      "position": 0.043478260869565216
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 46,
+      "position": 0.041666666666666664
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 37,
+      "position": 0.02631578947368421
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 35,
+      "position": 0.05405405405405406
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 34,
+      "position": 0.02857142857142857
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": 0
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.058823529411764705
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.058823529411764705
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": 0
+    }
+  ]
+}

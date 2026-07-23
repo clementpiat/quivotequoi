@@ -1,0 +1,142 @@
+{
+  "id": "T-l-ensemble-de-la-proposition-de-loi-visant-a-mettre-fin-au-d-0b041a9e",
+  "titre": "Mettre fin au devoir conjugal",
+  "dateVote": "2026-01-28",
+  "resultat": "adopté",
+  "scrutinNumero": "5243",
+  "procedure": null,
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 107,
+    "exprimes": 106,
+    "pour": 106,
+    "contre": 0,
+    "abstentions": 1
+  },
+  "liens": {
+    "dossierAN": null,
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5243"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 107,
+      "position": 0.12295081967213115
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 78,
+      "position": 0.13186813186813187
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 51,
+      "position": 0.28169014084507044
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 52,
+      "position": 0.2463768115942029
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 41,
+      "position": 0.16326530612244897
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 29,
+      "position": 0.23684210526315788
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 1,
+      "nonVotants": 0,
+      "absents": 25,
+      "position": 0.2777777777777778
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 27,
+      "position": 0.20588235294117646
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 21,
+      "position": 0.045454545454545456
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 13,
+      "position": 0.23529411764705882
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 16,
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 13,
+      "position": 0.1875
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 11,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 10,
+      "position": 0
+    }
+  ]
+}

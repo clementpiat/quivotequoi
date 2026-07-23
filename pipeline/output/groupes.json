@@ -1,0 +1,98 @@
+[
+  {
+    "id": "PO845425",
+    "nom": "Droite Républicaine",
+    "sigle": "DR",
+    "couleur": "#8CB0DC",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO845439",
+    "nom": "Écologiste et Social",
+    "sigle": "EcoS",
+    "couleur": "#77AA79",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO845407",
+    "nom": "Ensemble pour la République",
+    "sigle": "EPR",
+    "couleur": "#7B4591",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO845514",
+    "nom": "Gauche Démocrate et Républicaine",
+    "sigle": "GDR",
+    "couleur": "#830E21",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO845470",
+    "nom": "Horizons & Indépendants",
+    "sigle": "HOR",
+    "couleur": "#B5E2F9",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO845413",
+    "nom": "La France insoumise - Nouveau Front Populaire",
+    "sigle": "LFI-NFP",
+    "couleur": "#C00D0D",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO845454",
+    "nom": "Les Démocrates",
+    "sigle": "Dem",
+    "couleur": "#F07E26",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO845485",
+    "nom": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "couleur": "#FFD96F",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO840056",
+    "nom": "Non inscrit",
+    "sigle": "NI",
+    "couleur": "#8D949A",
+    "dateDebut": "2024-07-01",
+    "dateFin": null
+  },
+  {
+    "id": "PO845401",
+    "nom": "Rassemblement National",
+    "sigle": "RN",
+    "couleur": "#313567",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO845419",
+    "nom": "Socialistes et apparentés",
+    "sigle": "SOC",
+    "couleur": "#F5B4CE",
+    "dateDebut": "2024-07-18",
+    "dateFin": null
+  },
+  {
+    "id": "PO872880",
+    "nom": "Union des droites pour la République",
+    "sigle": "UDR",
+    "couleur": "#3367A7",
+    "dateDebut": "2025-09-05",
+    "dateFin": null
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "id": "DLR5L17N53315",
+  "titre": "Proposition de loi visant à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées",
+  "dateVote": "2026-04-10",
+  "resultat": "adopté",
+  "scrutinNumero": "6135",
+  "procedure": "Proposition de loi ordinaire",
+  "themeSuggere": "Autre",
+  "chiffres": {
+    "votants": 55,
+    "exprimes": 55,
+    "pour": 41,
+    "contre": 14,
+    "abstentions": 0
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53315",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6135"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 114,
+      "position": 0.06557377049180328
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 21,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 69,
+      "position": 0.23076923076923078
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 62,
+      "position": -0.1267605633802817
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 64,
+      "position": 0.07246376811594203
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 48,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 44,
+      "position": 0.08333333333333333
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 34,
+      "position": -0.10526315789473684
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 37,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 36,
+      "position": 0.02702702702702703
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 35,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 33,
+      "position": 0.02857142857142857
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 21,
+      "position": 0.045454545454545456
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 17,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": -0.058823529411764705
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 10,
+      "position": 0
+    }
+  ]
+}
