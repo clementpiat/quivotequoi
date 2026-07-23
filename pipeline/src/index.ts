@@ -26,6 +26,17 @@ async function main() {
 
   const lois = buildLois(selection, sources.dossiers.dir);
 
+  // resumes.json est la source de vérité pour le thème une fois relu/corrigé à la main (ou par le
+  // premier passage de rédaction) : on applique ses thèmes aux lois avant d'écrire lois.json et
+  // lois/<id>.json, pour qu'une relance du pipeline ne réécrase pas une correction avec
+  // l'heuristique de départ.
+  const resumesPath = path.join(OUTPUT_DIR, "resumes.json");
+  const resumes = buildSummarySkeleton(lois, resumesPath);
+  const themeParId = new Map(resumes.map((r) => [r.id, r.theme]));
+  for (const loi of lois) {
+    loi.themeSuggere = themeParId.get(loi.id) ?? loi.themeSuggere;
+  }
+
   mkdirSync(OUTPUT_DIR, { recursive: true });
   // Repartir d'un dossier vide pour éviter les fichiers orphelins d'une précédente exécution
   // (ex. lois dont l'id a changé de schéma). resumes.json n'est pas touché ici : il est fusionné
@@ -49,8 +60,6 @@ async function main() {
     writeFileSync(path.join(OUTPUT_DIR, "lois", `${loi.id}.json`), JSON.stringify(loi, null, 2));
   }
 
-  const resumesPath = path.join(OUTPUT_DIR, "resumes.json");
-  const resumes = buildSummarySkeleton(lois, resumesPath);
   writeFileSync(resumesPath, JSON.stringify(resumes, null, 2));
 
   writeFileSync(path.join(OUTPUT_DIR, "report.json"), JSON.stringify(report, null, 2));

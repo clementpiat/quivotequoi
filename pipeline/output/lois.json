@@ -4,7 +4,7 @@
     "titre": "Renforcer le parcours inclusif des élèves en situation de handicap",
     "dateVote": "2026-05-11",
     "resultat": "adopté",
-    "theme": "Santé",
+    "theme": "Éducation",
     "chiffres": {
       "votants": 125,
       "exprimes": 108,
@@ -46,7 +46,7 @@
     "titre": "Nationalisation d'ArcelorMittal France",
     "dateVote": "2026-06-11",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Travail / Économie",
     "chiffres": {
       "votants": 202,
       "exprimes": 155,
@@ -60,7 +60,7 @@
     "titre": "Assurer le droit de chaque enfant à disposer d’un avocat dans le cadre d’une mesure d’assistance éducative et de protection de l’enfance",
     "dateVote": "2026-07-01",
     "resultat": "adopté",
-    "theme": "Société",
+    "theme": "Justice",
     "chiffres": {
       "votants": 292,
       "exprimes": 292,
@@ -74,7 +74,7 @@
     "titre": "Améliorer l'accès au logement des travailleurs des services publics",
     "dateVote": "2026-06-17",
     "resultat": "adopté",
-    "theme": "Travail / Économie",
+    "theme": "Logement",
     "chiffres": {
       "votants": 466,
       "exprimes": 452,
@@ -102,7 +102,7 @@
     "titre": "Moderniser la gestion du patrimoine immobilier de l'État",
     "dateVote": "2026-07-21",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Budget / Finances",
     "chiffres": {
       "votants": 364,
       "exprimes": 362,
@@ -116,7 +116,7 @@
     "titre": "Relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique",
     "dateVote": "2026-06-17",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Environnement",
     "chiffres": {
       "votants": 465,
       "exprimes": 349,
@@ -144,7 +144,7 @@
     "titre": "Renforcer l’effectivité des droits voisins de la presse",
     "dateVote": "2026-03-26",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Numérique",
     "chiffres": {
       "votants": 109,
       "exprimes": 109,
@@ -158,7 +158,7 @@
     "titre": "Simplifier la sortie de l’indivision successorale",
     "dateVote": "2026-03-26",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Justice",
     "chiffres": {
       "votants": 65,
       "exprimes": 65,
@@ -186,7 +186,7 @@
     "titre": "Proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations",
     "dateVote": "2026-03-26",
     "resultat": "adopté",
-    "theme": "Institutions",
+    "theme": "Environnement",
     "chiffres": {
       "votants": 89,
       "exprimes": 78,
@@ -214,7 +214,7 @@
     "titre": "Renforcer le contrôle, la gouvernance et la responsabilité financière des agences et opérateurs de l’État",
     "dateVote": "2026-03-26",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Budget / Finances",
     "chiffres": {
       "votants": 53,
       "exprimes": 48,
@@ -228,7 +228,7 @@
     "titre": "Proposition de loi visant à permettre le remboursement des honoraires d'expert-comptable aux candidats",
     "dateVote": "2026-03-30",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Institutions",
     "chiffres": {
       "votants": 42,
       "exprimes": 42,
@@ -242,7 +242,7 @@
     "titre": "Proposition de loi visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté",
     "dateVote": "2026-04-28",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Justice",
     "chiffres": {
       "votants": 235,
       "exprimes": 235,
@@ -270,7 +270,7 @@
     "titre": "Simplifier le millefeuille territorial par la collectivité unique",
     "dateVote": "2026-04-08",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Institutions",
     "chiffres": {
       "votants": 243,
       "exprimes": 231,
@@ -340,7 +340,7 @@
     "titre": "Proposition de loi visant à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées",
     "dateVote": "2026-04-10",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Travail / Économie",
     "chiffres": {
       "votants": 55,
       "exprimes": 55,
@@ -368,7 +368,7 @@
     "titre": "Faciliter l’exercice en France des médecins diplômés au Royaume-Uni avant le Brexit",
     "dateVote": "2026-05-04",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Santé",
     "chiffres": {
       "votants": 72,
       "exprimes": 72,
@@ -396,7 +396,7 @@
     "titre": "Accélérer le développement du transport maritime à propulsion vélique",
     "dateVote": "2026-05-12",
     "resultat": "adopté",
-    "theme": "Société",
+    "theme": "Environnement",
     "chiffres": {
       "votants": 175,
       "exprimes": 175,
@@ -410,7 +410,7 @@
     "titre": "Garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseur",
     "dateVote": "2026-05-12",
     "resultat": "adopté",
-    "theme": "Société",
+    "theme": "Justice",
     "chiffres": {
       "votants": 146,
       "exprimes": 146,
@@ -424,7 +424,7 @@
     "titre": "Mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers, les maladies rares et les maladies orphelines de l’enfant",
     "dateVote": "2026-05-13",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Santé",
     "chiffres": {
       "votants": 123,
       "exprimes": 120,
@@ -438,7 +438,7 @@
     "titre": "Pour une montagne vivante et souveraine",
     "dateVote": "2026-07-20",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Environnement",
     "chiffres": {
       "votants": 472,
       "exprimes": 468,
@@ -452,7 +452,7 @@
     "titre": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
     "dateVote": "2026-07-01",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Sécurité",
     "chiffres": {
       "votants": 490,
       "exprimes": 488,
@@ -480,7 +480,7 @@
     "titre": "Abrogation du Code noir",
     "dateVote": "2026-05-28",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Société",
     "chiffres": {
       "votants": 254,
       "exprimes": 254,
@@ -522,7 +522,7 @@
     "titre": "Proposition de loi portant pérennisation du contrat de professionnalisation expérimental",
     "dateVote": "2026-05-28",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Travail / Économie",
     "chiffres": {
       "votants": 98,
       "exprimes": 94,
@@ -536,7 +536,7 @@
     "titre": "Protéger les enfants et lutter contre les violences en milieu scolaire",
     "dateVote": "2026-06-01",
     "resultat": "adopté",
-    "theme": "Société",
+    "theme": "Éducation",
     "chiffres": {
       "votants": 187,
       "exprimes": 187,
@@ -550,7 +550,7 @@
     "titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
     "dateVote": "2026-07-20",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Travail / Économie",
     "chiffres": {
       "votants": 561,
       "exprimes": 520,
@@ -578,7 +578,7 @@
     "titre": "Reconnaître la responsabilité de l’État et indemniser les victimes du chlordécone",
     "dateVote": "2026-06-02",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Santé",
     "chiffres": {
       "votants": 236,
       "exprimes": 236,
@@ -606,7 +606,7 @@
     "titre": "Proposition de loi visant à améliorer les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l'exercice des missions d'expert judiciaire",
     "dateVote": "2026-06-03",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Justice",
     "chiffres": {
       "votants": 115,
       "exprimes": 113,
@@ -620,7 +620,7 @@
     "titre": "Réduire les risques sanitaires liés aux contaminations au cadmium dans l’alimentation",
     "dateVote": "2026-06-03",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Santé",
     "chiffres": {
       "votants": 170,
       "exprimes": 166,
@@ -634,7 +634,7 @@
     "titre": "Garantir l'interdiction de la vaisselle en plastique dans la restauration collective accueillant du jeune public et liée à la petite enfance",
     "dateVote": "2026-06-04",
     "resultat": "adopté",
-    "theme": "Société",
+    "theme": "Environnement",
     "chiffres": {
       "votants": 91,
       "exprimes": 89,
@@ -648,7 +648,7 @@
     "titre": "Mesures de justice en faveur de la revalorisation des pensions de retraites agricoles",
     "dateVote": "2026-06-04",
     "resultat": "adopté",
-    "theme": "Justice",
+    "theme": "Travail / Économie",
     "chiffres": {
       "votants": 88,
       "exprimes": 83,
@@ -676,7 +676,7 @@
     "titre": "Renforcer la solidarité envers les retraités pauvres",
     "dateVote": "2026-06-11",
     "resultat": "adopté",
-    "theme": "International",
+    "theme": "Société",
     "chiffres": {
       "votants": 168,
       "exprimes": 165,
@@ -704,7 +704,7 @@
     "titre": "Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement",
     "dateVote": "2026-06-15",
     "resultat": "adopté",
-    "theme": "Environnement",
+    "theme": "Institutions",
     "chiffres": {
       "votants": 40,
       "exprimes": 35,
@@ -774,7 +774,7 @@
     "titre": "Projet de loi organique relatif au renforcement des juridictions criminelles",
     "dateVote": "2026-07-08",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Justice",
     "chiffres": {
       "votants": 440,
       "exprimes": 439,
@@ -788,7 +788,7 @@
     "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
     "dateVote": "2026-07-07",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Sécurité",
     "chiffres": {
       "votants": 517,
       "exprimes": 512,
@@ -816,7 +816,7 @@
     "titre": "Accélérer la prévention cardio-neuro-vasculaire et anticiper un risque sanitaire et social majeur",
     "dateVote": "2026-07-20",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Santé",
     "chiffres": {
       "votants": 462,
       "exprimes": 462,
@@ -830,7 +830,7 @@
     "titre": "Projet de loi relatif à la protection des enfants",
     "dateVote": "2026-07-21",
     "resultat": "adopté",
-    "theme": "Autre",
+    "theme": "Société",
     "chiffres": {
       "votants": 558,
       "exprimes": 385,
