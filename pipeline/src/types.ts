@@ -134,7 +134,7 @@ export interface Loi {
   resultat: "adopté" | "rejeté" | string;
   scrutinNumero: string;
   procedure: string | null;
-  themeSuggere: string;
+  theme: string;
   chiffres: {
     votants: number;
     exprimes: number;

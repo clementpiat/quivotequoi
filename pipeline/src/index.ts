@@ -34,7 +34,7 @@ async function main() {
   const resumes = buildSummarySkeleton(lois, resumesPath);
   const themeParId = new Map(resumes.map((r) => [r.id, r.theme]));
   for (const loi of lois) {
-    loi.themeSuggere = themeParId.get(loi.id) ?? loi.themeSuggere;
+    loi.theme = themeParId.get(loi.id) ?? loi.theme;
   }
 
   mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -46,12 +46,12 @@ async function main() {
 
   writeFileSync(path.join(OUTPUT_DIR, "groupes.json"), JSON.stringify(groupes, null, 2));
 
-  const loisIndex = lois.map(({ id, titre, dateVote, resultat, themeSuggere, chiffres }) => ({
+  const loisIndex = lois.map(({ id, titre, dateVote, resultat, theme, chiffres }) => ({
     id,
     titre,
     dateVote,
     resultat,
-    theme: themeSuggere,
+    theme,
     chiffres,
   }));
   writeFileSync(path.join(OUTPUT_DIR, "lois.json"), JSON.stringify(loisIndex, null, 2));

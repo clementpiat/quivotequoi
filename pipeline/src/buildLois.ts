@@ -31,7 +31,7 @@ export function buildLois(selection: ScrutinSelectionne[], dossiersDir: string):
       resultat: scrutin.sort.code,
       scrutinNumero: scrutin.numero,
       procedure: dossier?.procedureParlementaire?.libelle ?? null,
-      themeSuggere: guessTheme(titre, scrutin.titre),
+      theme: guessTheme(titre, scrutin.titre),
       chiffres: {
         votants: toInt(scrutin.syntheseVote.nombreVotants),
         exprimes: toInt(scrutin.syntheseVote.suffragesExprimes),

@@ -20,7 +20,7 @@ export function buildSummarySkeleton(lois: Loi[], existingPath: string): ResumeE
     return {
       id: loi.id,
       titre: loi.titre,
-      theme: previous?.theme ?? loi.themeSuggere,
+      theme: previous?.theme ?? loi.theme,
       resume: previous?.resume ?? TODO,
     } satisfies ResumeEntry;
   });
