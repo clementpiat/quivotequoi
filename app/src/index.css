@@ -148,16 +148,6 @@ button {
   border-color: var(--border);
 }
 
-.tag-adopte {
-  background: color-mix(in srgb, var(--pour) 15%, transparent);
-  color: var(--pour);
-}
-
-.tag-rejete {
-  background: color-mix(in srgb, var(--contre) 15%, transparent);
-  color: var(--contre);
-}
-
 .loi-card {
   display: block;
   text-decoration: none;

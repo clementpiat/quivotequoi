@@ -1,4 +1,4 @@
-export const TAILLE_PAQUET_ALEATOIRE = 15;
+export const TAILLE_PAQUET_ALEATOIRE = 10;
 
 export const REPONSE_MIN = -3;
 export const REPONSE_MAX = 3;

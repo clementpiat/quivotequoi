@@ -31,8 +31,6 @@ export function FicheLoi() {
   if (erreur) return <p>Loi introuvable.</p>;
   if (!loi) return <p className="muted">Chargement…</p>;
 
-  const adoptee = loi.resultat === "adopté";
-
   return (
     <div>
       <p>
@@ -42,7 +40,6 @@ export function FicheLoi() {
       </p>
       <div className="loi-card-top">
         <span className="tag">{loi.theme}</span>
-        <span className={`tag ${adoptee ? "tag-adopte" : "tag-rejete"}`}>{loi.resultat}</span>
       </div>
       <h1>{loi.titre}</h1>
       <p className="muted">

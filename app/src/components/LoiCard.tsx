@@ -6,12 +6,10 @@ function formatDate(iso: string): string {
 }
 
 export function LoiCard({ loi }: { loi: LoiIndexEntry }) {
-  const adoptee = loi.resultat === "adopté";
   return (
     <Link to={`/lois/${loi.id}`} className="card loi-card">
       <div className="loi-card-top">
         <span className="tag">{loi.theme}</span>
-        <span className={`tag ${adoptee ? "tag-adopte" : "tag-rejete"}`}>{loi.resultat}</span>
       </div>
       <h3>{loi.titre}</h3>
       <p className="muted">{formatDate(loi.dateVote)}</p>
