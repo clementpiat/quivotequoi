@@ -18,7 +18,9 @@ propos. PWA, image de résultat partageable et Web Share API sont volontairement
 
 ## Pipeline de données
 
-Prérequis : Node.js 22 (voir `.nvmrc`).
+Prérequis : Node.js ≥ 22.12 (voir `.nvmrc`). Si tu utilises nvm, lance `nvm use` à la racine du
+dépôt avant toute commande npm ci-dessous — sinon `npm run dev`/`build` échouent avec une erreur
+`SyntaxError` peu explicite si ton shell utilise une version de Node plus ancienne par défaut.
 
 ```bash
 cd pipeline
@@ -57,7 +59,9 @@ officiels est trouvée pour la période antérieure.
 
 ## App React
 
-Prérequis : Node.js 22 (voir `.nvmrc`).
+Prérequis : Node.js ≥ 22.12 (voir `.nvmrc`). Si tu utilises nvm, lance `nvm use` à la racine du
+dépôt avant toute commande npm ci-dessous — sinon `npm run dev`/`build` échouent avec une erreur
+`SyntaxError` peu explicite si ton shell utilise une version de Node plus ancienne par défaut.
 
 ```bash
 cd app
