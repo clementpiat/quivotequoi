@@ -1,0 +1,29 @@
+.filtres {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 16px 0 20px;
+}
+
+.filtres label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.filtres select {
+  font: inherit;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text-h);
+}
+
+.liste-lois {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}

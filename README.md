@@ -11,7 +11,10 @@ l'Assemblée nationale, sélectionne les scrutins portant sur l'ensemble d'un te
 calcule les positions des groupes politiques selon la méthodologie décrite dans
 `description_initial.md`, et exporte des JSON statiques dans `pipeline/output/`.
 
-L'app React/Vite consommant ces données n'est pas encore développée.
+L'**app React/Vite** (`app/`) couvre le parcours complet : accueil, liste des lois filtrable,
+fiche loi (résumé + vote par groupe), questionnaire, résultats de proximité, méthodologie, à
+propos. PWA, image de résultat partageable et Web Share API sont volontairement différés (voir
+`app/README.md`).
 
 ## Pipeline de données
 
@@ -52,7 +55,19 @@ Conséquence : les lois retenues ne couvrent actuellement que **le 26/03/2026 au
 liste les ~120 lois exclues pour cette raison. À rouvrir si une source alternative de titres
 officiels est trouvée pour la période antérieure.
 
+## App React
+
+Prérequis : Node.js 22 (voir `.nvmrc`).
+
+```bash
+cd app
+npm install
+npm run dev      # sync les données depuis pipeline/output/ puis lance le serveur de dev
+```
+
+Voir `app/README.md` pour le détail.
+
 ## Prochaines étapes
 
-Voir l'ordre de développement suggéré dans `description_initial.md` : app React (liste des lois,
-fiche loi, questionnaire, calcul de proximité), PWA, partage.
+PWA (manifest + service worker), génération d'image de résultat partageable (canvas) + Web Share
+API, et finaliser les `TODO` de la page À propos (lien dépôt, pseudo/GitHub, Buy Me a Coffee).

@@ -1,0 +1,70 @@
+.vote-slider {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.vote-slider-scale {
+  display: flex;
+  gap: 6px;
+  width: 100%;
+  max-width: 420px;
+}
+
+.vote-slider-btn {
+  flex: 1;
+  height: 48px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text-h);
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.vote-slider-btn.cote-contre {
+  color: var(--contre);
+}
+
+.vote-slider-btn.cote-pour {
+  color: var(--pour);
+}
+
+.vote-slider-btn.selected.cote-contre {
+  background: var(--contre);
+  color: #fff;
+  border-color: var(--contre);
+}
+
+.vote-slider-btn.selected.cote-pour {
+  background: var(--pour);
+  color: #fff;
+  border-color: var(--pour);
+}
+
+.vote-slider-btn.selected.cote-neutre {
+  background: var(--neutre);
+  color: #fff;
+  border-color: var(--neutre);
+}
+
+.vote-slider-labels {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 420px;
+  font-size: 0.8rem;
+}
+
+.vote-slider-label-actuel {
+  font-weight: 600;
+  color: var(--text-h);
+  min-height: 1.2em;
+}
+
+.vote-slider-passer {
+  margin-top: 6px;
+}
