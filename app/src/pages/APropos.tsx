@@ -13,7 +13,11 @@ export function APropos() {
 
       <h2>Code source</h2>
       <p>
-        Projet open source — TODO : lien vers le dépôt GitHub.
+        Projet open source —{" "}
+        <a href="https://github.com/clementpiat/quivotequoi" target="_blank" rel="noreferrer">
+          github.com/clementpiat/quivotequoi
+        </a>
+        .
       </p>
 
       <h2>Qui fait ça</h2>
