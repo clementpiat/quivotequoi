@@ -78,11 +78,11 @@ export function Questionnaire() {
       <div className="questionnaire-nav">
         {currentIndex > 0 && (
           <button type="button" className="questionnaire-nav-btn" onClick={reculer}>
-            ← Question précédente
+            ← Vote précédent
           </button>
         )}
         <button type="button" className="questionnaire-nav-btn questionnaire-nav-suivante" onClick={avancer}>
-          Question suivante →
+          Vote suivant →
         </button>
       </div>
     </div>
