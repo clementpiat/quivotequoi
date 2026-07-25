@@ -32,3 +32,22 @@ export function melangerAvecSeed<T>(items: T[], seed: string): T[] {
   }
   return copie;
 }
+
+/**
+ * Ordonne les lois pour le questionnaire en commençant par les plus connues du grand public
+ * (notoriete décroissante, voir pipeline/src/buildNotoriete.ts), pour ne pas ouvrir le
+ * questionnaire sur un texte technique qui ferait fuir l'utilisateur. À l'intérieur d'un même
+ * palier de notoriété, l'ordre reste mélangé (et varie d'une session à l'autre via la seed), pour
+ * garder un parcours varié plutôt qu'une liste figée identique pour tout le monde.
+ */
+export function ordonnerParNotorieteAvecSeed<T extends { notoriete: number }>(items: T[], seed: string): T[] {
+  const parPalier = new Map<number, T[]>();
+  for (const item of items) {
+    const liste = parPalier.get(item.notoriete) ?? [];
+    liste.push(item);
+    parPalier.set(item.notoriete, liste);
+  }
+
+  const paliersDecroissants = [...parPalier.keys()].sort((a, b) => b - a);
+  return paliersDecroissants.flatMap((palier) => melangerAvecSeed(parPalier.get(palier)!, `${seed}-${palier}`));
+}

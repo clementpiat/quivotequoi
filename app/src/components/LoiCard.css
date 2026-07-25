@@ -4,6 +4,20 @@
   gap: 8px;
 }
 
+.loi-card-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.tag-adopte {
+  color: var(--navy);
+}
+
+.tag-rejete {
+  color: var(--red);
+}
+
 .loi-card-titre {
   font: 600 18px / 1.35 var(--serif);
   color: var(--ink);

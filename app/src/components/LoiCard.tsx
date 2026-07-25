@@ -59,9 +59,14 @@ export function LoiCard({
   const groupeById = new Map(groupes.map((g) => [g.id, g]));
   const url = detail ? (detail.liens.dossierAN ?? detail.liens.scrutinAN) : null;
 
+  const adoptee = loi.resultat === "adopté";
+
   return (
     <div className="card loi-card">
-      <span className="tag">{loi.theme}</span>
+      <div className="loi-card-top">
+        <span className="tag">{loi.theme}</span>
+        <span className={`tag ${adoptee ? "tag-adopte" : "tag-rejete"}`}>{loi.resultat}</span>
+      </div>
       <h3 className="loi-card-titre">{loi.titre}</h3>
       {resume && <p className="loi-card-resume">{resume.resume}</p>}
       <div className="loi-card-footer">

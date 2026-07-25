@@ -1,4 +1,5 @@
 import { existsSync, readFileSync } from "node:fs";
+import { computeNotorieteHeuristic } from "./buildNotoriete.js";
 import type { Loi, ResumeEntry } from "./types.js";
 
 const TODO = "TODO — résumé à rédiger à la main à partir de l'exposé des motifs";
@@ -15,12 +16,15 @@ export function buildSummarySkeleton(lois: Loi[], existingPath: string): ResumeE
     for (const entry of previous) existing.set(entry.id, entry);
   }
 
+  const notorieteHeuristique = computeNotorieteHeuristic(lois);
+
   return lois.map((loi) => {
     const previous = existing.get(loi.id);
     return {
       id: loi.id,
       titre: loi.titre,
       theme: previous?.theme ?? loi.theme,
+      notoriete: previous?.notoriete ?? notorieteHeuristique.get(loi.id)!,
       resume: previous?.resume ?? TODO,
     } satisfies ResumeEntry;
   });

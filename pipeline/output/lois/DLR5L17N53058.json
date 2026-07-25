@@ -1,0 +1,143 @@
+{
+  "id": "DLR5L17N53058",
+  "titre": "Prendre des mesures d’urgence contre la vie chère en outre-mer dans le secteur des services",
+  "dateVote": "2025-12-11",
+  "resultat": "adopté",
+  "scrutinNumero": "4755",
+  "procedure": "Proposition de loi ordinaire",
+  "theme": "Autre",
+  "notoriete": 2,
+  "chiffres": {
+    "votants": 98,
+    "exprimes": 85,
+    "pour": 85,
+    "contre": 0,
+    "abstentions": 13
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/prendre_mesures_urgence_contre_vie_chere_outre_mer_secteur_services_17e",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4755"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 123,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 7,
+      "nonVotants": 1,
+      "absents": 115,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 91,
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 87,
+      "position": 0.03296703296703297
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 22,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 49,
+      "position": 0.30985915492957744
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 47,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 22,
+      "position": 0.6811594202898551
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 49,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 30,
+      "position": 0.21052631578947367
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 4,
+      "nonVotants": 0,
+      "absents": 32,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 34,
+      "position": 0
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 21,
+      "position": 0.045454545454545456
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 13,
+      "position": 0.23529411764705882
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 16,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2,
+      "nonVotants": 0,
+      "absents": 14,
+      "position": 0
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 9,
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 9,
+      "position": 0
+    }
+  ]
+}

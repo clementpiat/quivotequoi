@@ -1,5 +1,7 @@
 import { readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
+import { buildDossierTitleIndex } from "./matchDossierByTitle.js";
+import { buildScrutinToDossierIndex } from "./matchDossierByVoteRef.js";
 import type { ReportEntry, ScrutinRaw } from "./types.js";
 
 // Un scrutin "sur l'ensemble d'un texte" a un titre qui commence par cette forme.
@@ -132,10 +134,16 @@ export function loadAllScrutins(scrutinsDir: string): ScrutinRaw["scrutin"][] {
   });
 }
 
-export function selectScrutinsEnsemble(allScrutins: ScrutinRaw["scrutin"][]): {
+export function selectScrutinsEnsemble(
+  allScrutins: ScrutinRaw["scrutin"][],
+  dossiersDir: string,
+): {
   selection: ScrutinSelectionne[];
   report: ReportEntry[];
 } {
+  const dossierTitleIndex = buildDossierTitleIndex(dossiersDir);
+  const scrutinToDossier = buildScrutinToDossierIndex(dossiersDir);
+
   const ensembleScrutins = allScrutins.filter(
     (s) => ENSEMBLE_REGEX.test(s.titre) && !RESOLUTION_REGEX.test(s.titre),
   );
@@ -158,7 +166,7 @@ export function selectScrutinsEnsemble(allScrutins: ScrutinRaw["scrutin"][]): {
     const dossierRefs = new Set(
       scrutins.map((s) => s.objet.dossierLegislatif?.dossierRef ?? null).filter((r): r is string => r != null),
     );
-    const dossierRef = dossierRefs.size === 1 ? [...dossierRefs][0]! : null;
+    let dossierRef = dossierRefs.size === 1 ? [...dossierRefs][0]! : null;
 
     const whole = scrutins.filter((s) => !PARTIE_REGEX.test(s.titre));
     const partial = scrutins.filter((s) => PARTIE_REGEX.test(s.titre));
@@ -179,17 +187,57 @@ export function selectScrutinsEnsemble(allScrutins: ScrutinRaw["scrutin"][]): {
     const dernier = [...whole].sort((a, b) => (a.dateScrutin < b.dateScrutin ? 1 : -1))[0]!;
 
     if (!dossierRef) {
-      // Aucun dossierRef trouvé, même après fusion par titre : on ne peut pas relier ce texte à
-      // sa fiche officielle (titre court, thème, exposé des motifs pour le résumé). Sur décision
-      // explicite, ces lois sont exclues plutôt que retenues avec un id synthétique — voir
-      // README.md pour le biais temporel que ça introduit (dossierRef absent avant 26/03/2026).
-      report.push({
-        raison: "exclu : aucun dossier législatif référencé dans les données AN pour ce texte (ni directement, ni via une lecture ultérieure du même texte)",
-        dossierRef: null,
-        titreDossier: dernier.objet.libelle,
-        scrutins: whole.map((s) => ({ numero: s.numero, date: s.dateScrutin, titre: s.titre })),
-      });
-      continue;
+      // Aucun dossierRef trouvé nativement, même après fusion par titre entre lectures : le
+      // scrutin est antérieur au 26/03/2026, date à partir de laquelle l'AN inclut cette
+      // référence dans l'export des scrutins (voir README.md). Le dossier existe malgré tout
+      // dans l'export des dossiers législatifs (téléchargé en entier, pas seulement les dossiers
+      // référencés par un scrutin récent) : on tente de le retrouver, d'abord via la référence de
+      // vote posée par l'AN elle-même sur le dossier (fiable, voir matchDossierByVoteRef.ts), puis
+      // par similarité de titre (rattrapage plus incertain) avant d'exclure.
+      const parVoteRef = scrutinToDossier.get(dernier.numero) ?? [];
+      const candidatsVoteRef = [...new Set(parVoteRef)];
+
+      if (candidatsVoteRef.length === 1) {
+        dossierRef = candidatsVoteRef[0]!;
+        report.push({
+          raison: "dossier législatif retrouvé via la référence de vote du dossier (dossierRef absent du scrutin, scrutin antérieur au 26/03/2026)",
+          dossierRef,
+          titreDossier: dernier.objet.libelle,
+          scrutins: whole.map((s) => ({ numero: s.numero, date: s.dateScrutin, titre: s.titre })),
+        });
+      } else if (candidatsVoteRef.length > 1) {
+        report.push({
+          raison: `exclu : le scrutin n°${dernier.numero} est référencé par la référence de vote de ${candidatsVoteRef.length} dossiers législatifs distincts (${candidatsVoteRef.join(", ")}) — non résolu automatiquement, à vérifier manuellement`,
+          dossierRef: null,
+          titreDossier: dernier.objet.libelle,
+          scrutins: whole.map((s) => ({ numero: s.numero, date: s.dateScrutin, titre: s.titre })),
+        });
+        continue;
+      } else {
+        const titleMatch = dossierTitleIndex.match(dernier.objet.libelle);
+
+        if (titleMatch.status === "matched") {
+          dossierRef = titleMatch.dossierRef;
+          report.push({
+            raison: "dossier législatif retrouvé par correspondance de titre (dossierRef absent du scrutin, scrutin antérieur au 26/03/2026) — à vérifier",
+            dossierRef,
+            titreDossier: dernier.objet.libelle,
+            scrutins: whole.map((s) => ({ numero: s.numero, date: s.dateScrutin, titre: s.titre })),
+          });
+        } else {
+          const raison =
+            titleMatch.status === "ambiguous"
+              ? `exclu : titre du scrutin correspond à ${titleMatch.candidates.length} dossiers législatifs distincts par similarité (${titleMatch.candidates.join(", ")}) — non résolu automatiquement, à vérifier manuellement`
+              : "exclu : aucun dossier législatif référencé ni retrouvé (ni via référence de vote, ni par similarité de titre) pour ce texte (ni directement, ni via une lecture ultérieure du même texte)";
+          report.push({
+            raison,
+            dossierRef: null,
+            titreDossier: dernier.objet.libelle,
+            scrutins: whole.map((s) => ({ numero: s.numero, date: s.dateScrutin, titre: s.titre })),
+          });
+          continue;
+        }
+      }
     }
 
     selection.push({ scrutin: dernier, id: dossierRef, dossierRef });
@@ -204,5 +252,36 @@ export function selectScrutinsEnsemble(allScrutins: ScrutinRaw["scrutin"][]): {
     }
   }
 
-  return { selection, report };
+  // Le rattrapage par titre (voir matchDossierByTitle.ts) peut faire converger deux clusters
+  // distincts vers le même dossierRef : `clusterByDossier` ne les avait pas fusionnés car leurs
+  // titres de scrutin ne sont pas strictement identiques une fois nettoyés (ex. "(première
+  // lecture)" vs "(lecture définitive)" avec un texte remanié entre les deux, comme un projet de
+  // loi de finances rejeté en première lecture puis adopté en lecture définitive) — mais une fois
+  // résolus au même dossier officiel, ce sont bien les mêmes lois et il ne doit en rester qu'une.
+  const parDossierRef = new Map<string, ScrutinSelectionne[]>();
+  for (const s of selection) {
+    const list = parDossierRef.get(s.dossierRef) ?? [];
+    list.push(s);
+    parDossierRef.set(s.dossierRef, list);
+  }
+
+  const dedupliquee: ScrutinSelectionne[] = [];
+  for (const entries of parDossierRef.values()) {
+    if (entries.length === 1) {
+      dedupliquee.push(entries[0]!);
+      continue;
+    }
+    const dernier = [...entries].sort((a, b) =>
+      a.scrutin.dateScrutin < b.scrutin.dateScrutin ? 1 : -1,
+    )[0]!;
+    dedupliquee.push(dernier);
+    report.push({
+      raison: `${entries.length} scrutins résolus vers le même dossier législatif via la correspondance par titre (non regroupés par la fusion par titre exact) — seul le plus récent (scrutin n°${dernier.scrutin.numero}, ${dernier.scrutin.dateScrutin}) est retenu`,
+      dossierRef: dernier.dossierRef,
+      titreDossier: dernier.scrutin.objet.libelle,
+      scrutins: entries.map((e) => ({ numero: e.scrutin.numero, date: e.scrutin.dateScrutin, titre: e.scrutin.titre })),
+    });
+  }
+
+  return { selection: dedupliquee, report };
 }

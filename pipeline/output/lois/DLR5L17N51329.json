@@ -6,6 +6,7 @@
   "scrutinNumero": "5832",
   "procedure": "Proposition de loi ordinaire",
   "theme": "Justice",
+  "notoriete": 1,
   "chiffres": {
     "votants": 65,
     "exprimes": 65,

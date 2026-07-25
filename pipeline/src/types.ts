@@ -82,6 +82,11 @@ export interface ActeLegislatifRaw {
   };
   organeRef: string | null;
   dateActe: string | null;
+  // Présent sur les actes de type "Décision" qui concluent un vote en séance : référence(s) vers
+  // le(s) scrutin(s) correspondant(s), au format "VTANR5L17V{numéro}" — voir matchDossierByVoteRef.ts.
+  voteRefs?: {
+    voteRef: string | string[];
+  } | null;
   actesLegislatifs?: {
     acteLegislatif: ActeLegislatifRaw | ActeLegislatifRaw[];
   } | null;
@@ -135,6 +140,7 @@ export interface Loi {
   scrutinNumero: string;
   procedure: string | null;
   theme: string;
+  notoriete: number; // 1 (niche) .. 5 (très connu du grand public) — voir buildNotoriete.ts
   chiffres: {
     votants: number;
     exprimes: number;
@@ -153,6 +159,7 @@ export interface ResumeEntry {
   id: string;
   titre: string;
   theme: string;
+  notoriete: number; // 1 (niche) .. 5 (très connu du grand public) — voir buildNotoriete.ts
   resume: string;
 }
 

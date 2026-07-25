@@ -1,0 +1,143 @@
+{
+  "id": "DLR5L17N50450",
+  "titre": "Proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie",
+  "dateVote": "2024-11-06",
+  "resultat": "adopté",
+  "scrutinNumero": "266",
+  "procedure": "Projet ou proposition de loi organique",
+  "theme": "Autre",
+  "notoriete": 4,
+  "chiffres": {
+    "votants": 297,
+    "exprimes": 297,
+    "pour": 297,
+    "contre": 0,
+    "abstentions": 0
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50450",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/266"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 125,
+      "pour": 68,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 57,
+      "position": 0.544
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 94,
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 58,
+      "position": 0.3723404255319149
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 52,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 19,
+      "position": 0.7323943661971831
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 66,
+      "pour": 37,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 29,
+      "position": 0.5606060606060606
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 47,
+      "pour": 18,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 29,
+      "position": 0.3829787234042553
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 19,
+      "position": 0.5
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 16,
+      "position": 0.5555555555555556
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 15,
+      "position": 0.5588235294117647
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 23,
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 9,
+      "position": 0.6086956521739131
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 6,
+      "position": 0.6470588235294118
+    },
+    {
+      "groupeId": "PO847173",
+      "effectif": 16,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 14,
+      "position": 0.125
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 8,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 6,
+      "position": 0.25
+    }
+  ]
+}

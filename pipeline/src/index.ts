@@ -15,7 +15,7 @@ async function main() {
   const allScrutins = loadAllScrutins(sources.scrutins.dir);
   console.log(`[index] ${allScrutins.length} scrutins chargés (17e législature)`);
 
-  const { selection, report } = selectScrutinsEnsemble(allScrutins);
+  const { selection, report } = selectScrutinsEnsemble(allScrutins, sources.dossiers.dir);
   console.log(`[index] ${selection.length} lois retenues (scrutins d'ensemble, un par dossier)`);
   if (report.length > 0) {
     console.log(`[index] ${report.length} cas signalés dans report.json pour revue humaine`);
@@ -26,15 +26,17 @@ async function main() {
 
   const lois = buildLois(selection, sources.dossiers.dir);
 
-  // resumes.json est la source de vérité pour le thème une fois relu/corrigé à la main (ou par le
-  // premier passage de rédaction) : on applique ses thèmes aux lois avant d'écrire lois.json et
-  // lois/<id>.json, pour qu'une relance du pipeline ne réécrase pas une correction avec
-  // l'heuristique de départ.
+  // resumes.json est la source de vérité pour le thème et la notoriété une fois relus/corrigés à
+  // la main (ou par le premier passage de rédaction) : on les applique aux lois avant d'écrire
+  // lois.json et lois/<id>.json, pour qu'une relance du pipeline ne réécrase pas une correction
+  // avec l'heuristique de départ.
   const resumesPath = path.join(OUTPUT_DIR, "resumes.json");
   const resumes = buildSummarySkeleton(lois, resumesPath);
   const themeParId = new Map(resumes.map((r) => [r.id, r.theme]));
+  const notorieteParId = new Map(resumes.map((r) => [r.id, r.notoriete]));
   for (const loi of lois) {
     loi.theme = themeParId.get(loi.id) ?? loi.theme;
+    loi.notoriete = notorieteParId.get(loi.id) ?? loi.notoriete;
   }
 
   mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -46,12 +48,13 @@ async function main() {
 
   writeFileSync(path.join(OUTPUT_DIR, "groupes.json"), JSON.stringify(groupes, null, 2));
 
-  const loisIndex = lois.map(({ id, titre, dateVote, resultat, theme, chiffres }) => ({
+  const loisIndex = lois.map(({ id, titre, dateVote, resultat, theme, notoriete, chiffres }) => ({
     id,
     titre,
     dateVote,
     resultat,
     theme,
+    notoriete,
     chiffres,
   }));
   writeFileSync(path.join(OUTPUT_DIR, "lois.json"), JSON.stringify(loisIndex, null, 2));

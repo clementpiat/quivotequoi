@@ -1,0 +1,143 @@
+{
+  "id": "DLR5L17N51672",
+  "titre": "Soins palliatifs et d’accompagnement",
+  "dateVote": "2026-02-25",
+  "resultat": "adopté",
+  "scrutinNumero": "5728",
+  "procedure": "Proposition de loi ordinaire",
+  "theme": "Santé",
+  "notoriete": 5,
+  "chiffres": {
+    "votants": 560,
+    "exprimes": 491,
+    "pour": 491,
+    "contre": 0,
+    "abstentions": 69
+  },
+  "liens": {
+    "dossierAN": "https://www.assemblee-nationale.fr/dyn/17/dossiers/soins_palliatifs_et_accompagnement_17e",
+    "scrutinAN": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5728"
+  },
+  "positionsParGroupe": [
+    {
+      "groupeId": "PO845401",
+      "effectif": 122,
+      "pour": 122,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845407",
+      "effectif": 92,
+      "pour": 88,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 1,
+      "absents": 3,
+      "position": 0.9565217391304348
+    },
+    {
+      "groupeId": "PO845413",
+      "effectif": 71,
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 67,
+      "nonVotants": 0,
+      "absents": 2,
+      "position": 0.028169014084507043
+    },
+    {
+      "groupeId": "PO845419",
+      "effectif": 69,
+      "pour": 69,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845425",
+      "effectif": 49,
+      "pour": 47,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 2,
+      "position": 0.9591836734693877
+    },
+    {
+      "groupeId": "PO845439",
+      "effectif": 38,
+      "pour": 34,
+      "contre": 0,
+      "abstentions": 2,
+      "nonVotants": 0,
+      "absents": 2,
+      "position": 0.8947368421052632
+    },
+    {
+      "groupeId": "PO845454",
+      "effectif": 36,
+      "pour": 36,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845470",
+      "effectif": 34,
+      "pour": 34,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845485",
+      "effectif": 22,
+      "pour": 22,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO845514",
+      "effectif": 17,
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 6,
+      "position": 0.6470588235294118
+    },
+    {
+      "groupeId": "PO872880",
+      "effectif": 17,
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 0,
+      "position": 1
+    },
+    {
+      "groupeId": "PO840056",
+      "effectif": 10,
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0,
+      "nonVotants": 0,
+      "absents": 1,
+      "position": 0.9
+    }
+  ]
+}

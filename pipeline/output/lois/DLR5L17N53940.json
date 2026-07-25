@@ -6,6 +6,7 @@
   "scrutinNumero": "8042",
   "procedure": "Projet de loi ordinaire",
   "theme": "Justice",
+  "notoriete": 4,
   "chiffres": {
     "votants": 440,
     "exprimes": 439,

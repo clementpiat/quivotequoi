@@ -27,6 +27,7 @@ export interface LoiIndexEntry {
   dateVote: string;
   resultat: string;
   theme: string;
+  notoriete: number; // 1 (niche) .. 5 (très connu du grand public)
   chiffres: {
     votants: number;
     exprimes: number;
@@ -50,5 +51,6 @@ export interface ResumeEntry {
   id: string;
   titre: string;
   theme: string;
+  notoriete: number; // 1 (niche) .. 5 (très connu du grand public)
   resume: string;
 }
