@@ -1,9 +1,10 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { getLoiDetail, getLoisIndex, getResumes } from "../data/client";
 import { useQuestionnaire } from "../state/QuestionnaireContext";
 import { VoteSlider } from "../components/VoteSlider";
 import { ordonnerParAccessibiliteAvecSeed } from "../lib/seed";
+import { SEUIL_RESULTATS } from "../lib/constants";
 import type { Loi, LoiIndexEntry, ResumeEntry } from "../types";
 import "./Questionnaire.css";
 
@@ -38,6 +39,20 @@ export function Questionnaire() {
   useEffect(() => {
     if (loisIndex && currentIndex >= ordre.length) navigate("/resultats", { replace: true });
   }, [loisIndex, currentIndex, ordre.length, navigate]);
+
+  // Dès que le nombre de réponses (hors "pas d'avis"/passées) atteint le seuil de déblocage, on
+  // file directement aux résultats plutôt que de forcer à répondre aux lois restantes. On ne
+  // déclenche qu'au moment où le compte *franchit* le seuil (pas à chaque rendu une fois au-delà)
+  // pour ne pas renvoyer aux résultats en boucle quand l'utilisateur revient continuer le
+  // questionnaire depuis la page Résultats.
+  const nombreReponses = Object.values(answers).filter((v) => typeof v === "number").length;
+  const nombreReponsesPrecedent = useRef(nombreReponses);
+  useEffect(() => {
+    if (nombreReponsesPrecedent.current < SEUIL_RESULTATS && nombreReponses >= SEUIL_RESULTATS) {
+      navigate("/resultats");
+    }
+    nombreReponsesPrecedent.current = nombreReponses;
+  }, [nombreReponses, navigate]);
 
   if (!loisIndex || !loiId) return <p className="muted">Chargement…</p>;
 

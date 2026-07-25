@@ -13,7 +13,8 @@ calcule les positions des groupes politiques selon la méthodologie décrite dan
 
 L'**app React/Vite** (`app/`) couvre le parcours complet : accueil, liste des lois filtrable,
 fiche loi (résumé + vote par groupe), questionnaire, résultats de proximité, méthodologie, à
-propos. PWA, image de résultat partageable et Web Share API sont volontairement différés (voir
+propos. Installable en **PWA** (manifest + service worker, fonctionne hors ligne après une
+première visite). Image de résultat partageable et Web Share API restent différées (voir
 `app/README.md`).
 
 ## Pipeline de données
@@ -98,5 +99,5 @@ Voir `app/README.md` pour le détail.
 
 ## Prochaines étapes
 
-PWA (manifest + service worker), génération d'image de résultat partageable (canvas) + Web Share
-API, et finaliser les `TODO` de la page À propos (lien dépôt, pseudo/GitHub, Buy Me a Coffee).
+Génération d'image de résultat partageable (canvas) + Web Share API, et finaliser les `TODO` de
+la page À propos (lien dépôt, pseudo/GitHub, Buy Me a Coffee).

@@ -25,8 +25,18 @@ export function Resultats() {
 
   useEffect(() => {
     getLoisIndex().then((index) => setTotalLois(index.length));
-    // Les non-inscrits ne forment pas un groupe politique cohérent : on les exclut des résultats.
-    getGroupes().then((tousLesGroupes) => setGroupes(tousLesGroupes.filter((g) => g.sigle !== "NI")));
+    getGroupes().then((tousLesGroupes) =>
+      setGroupes(
+        tousLesGroupes.filter((g) => {
+          // Les non-inscrits ne forment pas un groupe politique cohérent.
+          if (g.sigle === "NI") return false;
+          // L'UDR n'existe que depuis le 5/09/2025 (scission) : sa position ne reposerait que sur
+          // une minorité des lois du jeu de données (~60 %), donc pas comparable aux autres groupes.
+          if (g.sigle === "UDR") return false;
+          return true;
+        }),
+      ),
+    );
   }, []);
 
   useEffect(() => {
