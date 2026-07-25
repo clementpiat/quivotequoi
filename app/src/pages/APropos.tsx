@@ -8,7 +8,7 @@ export function APropos() {
         effectifs des groupes parlementaires — pas à leurs programmes ou à leurs déclarations.
       </p>
       <p>
-        Tout tourne dans ton navigateur : aucune réponse au questionnaire n'est envoyée ni stockée où que ce soit.
+        Tout tourne dans le navigateur : aucune réponse au questionnaire n'est envoyée ni stockée où que ce soit.
       </p>
 
       <h2>Code source</h2>

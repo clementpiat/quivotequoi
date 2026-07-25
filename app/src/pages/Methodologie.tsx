@@ -17,24 +17,10 @@ export function Methodologie() {
       <p>
         Seuls les scrutins portant sur <strong>l'ensemble d'un texte</strong> (projet ou proposition de loi) sont
         retenus — pas les amendements, les articles isolés ni les motions de procédure. Quand un texte a fait
-        l'objet de plusieurs lectures, seul le <strong>dernier vote à l'Assemblée</strong> est gardé (lecture
-        définitive ou texte de commission mixte paritaire en priorité).
+        l'objet de plusieurs lectures, seul le <strong>dernier vote à l'Assemblée</strong> est gardé.
       </p>
       <p>
-        Les propositions de résolution (création de commission d'enquête, résolutions européennes...) sont exclues :
-        elles ne créent pas de norme, contrairement aux projets et propositions de loi.
-      </p>
-
-      <h2>Ordre du questionnaire</h2>
-      <p>
-        Les lois les plus <strong>accessibles</strong> sont posées en premier : sur un panel large, beaucoup de
-        textes sont techniques par nature (c'est le métier de député), et ouvrir le questionnaire dessus peut
-        décourager. Chaque loi reçoit un score de <strong>compréhensibilité</strong> (1 à 5, à quel point le titre et
-        le résumé se comprennent sans connaissance juridique ou administrative particulière) qui détermine l'ordre en
-        priorité, et un score de <strong>notoriété</strong> (1 à 5, approximé par le nombre de député·es ayant pris
-        part au vote) qui départage les lois à compréhensibilité égale. Ces deux scores sont une estimation — d'abord
-        automatique, puis relue — et non une mesure exacte ; à l'intérieur d'un même palier, l'ordre reste mélangé et
-        varie d'une session à l'autre.
+        Les propositions de résolution (création de commission d'enquête, résolutions européennes...) sont exclues.
       </p>
 
       <h2>Ta position</h2>
@@ -49,15 +35,15 @@ export function Methodologie() {
       <h2>Position des groupes</h2>
       <p>Pour chaque scrutin et chaque groupe, chaque député compte pour :</p>
       <ul>
-        <li>Pour = +1</li>
-        <li>Contre = −1</li>
-        <li>Abstention = 0</li>
-        <li>Non-votant = 0</li>
-        <li>Absent (membre du groupe n'ayant pas pris part au scrutin) = 0</li>
+        <li>Pour = 1</li>
+        <li>Contre = 0</li>
+        <li>Abstention = 0.5</li>
+        <li>Non-votant = 0.5</li>
+        <li>Absent (membre du groupe n'ayant pas pris part au scrutin) = 0.5</li>
       </ul>
       <p>
         La position du groupe est la <strong>moyenne sur l'ensemble de ses membres</strong> (effectif du groupe à la
-        date du scrutin, tel que fourni par les données) : un score continu entre −1 et +1 par groupe et par loi.
+        date du scrutin, tel que fourni par les données) : un score continu entre 0 et 1 par groupe et par loi.
         Les député·es <strong>non inscrit·es</strong> ne formant pas un groupe politique cohérent, ils sont exclus des
         résultats.
       </p>
@@ -91,8 +77,7 @@ export function Methodologie() {
         La proximité mesurée concerne les <strong>groupes parlementaires de la législature 2024-2027</strong>, pas
         les candidats à une élection à venir. Un vote « pour » ou « contre » ne dit pas tout de la position d'un
         député sur un sujet (discipline de groupe, négociations, amendements rejetés en amont...). Le nombre de lois
-        couvertes reste partiel : certains scrutins n'ont pas pu être reliés avec certitude à leur dossier
-        législatif officiel et sont donc exclus plutôt que retenus avec un titre approximatif.
+        couvertes reste partiel.
       </div>
     </div>
   );
