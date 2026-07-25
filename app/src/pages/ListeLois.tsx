@@ -6,7 +6,7 @@ import type { LoiIndexEntry, ResumeEntry } from "../types";
 import "./ListeLois.css";
 
 export function ListeLois() {
-  const { answers } = useQuestionnaire();
+  const { answers, voter } = useQuestionnaire();
   const [lois, setLois] = useState<LoiIndexEntry[] | null>(null);
   const [resumes, setResumes] = useState<Map<string, ResumeEntry>>(new Map());
 
@@ -22,9 +22,17 @@ export function ListeLois() {
         {lois ? `Voici les ${lois.length} propositions sur lesquelles tu peux te positionner.` : "Chargement…"}
       </p>
       <div className="liste-lois">
-        {lois?.map((loi) => (
-          <LoiCard key={loi.id} loi={loi} resume={resumes.get(loi.id)} reponse={answers[loi.id]} />
-        ))}
+        {[...(lois ?? [])]
+          .sort((a, b) => b.comprehensibilite - a.comprehensibilite)
+          .map((loi) => (
+            <LoiCard
+              key={loi.id}
+              loi={loi}
+              resume={resumes.get(loi.id)}
+              reponse={answers[loi.id]}
+              onVoter={(valeur) => voter(loi.id, valeur)}
+            />
+          ))}
       </div>
     </div>
   );

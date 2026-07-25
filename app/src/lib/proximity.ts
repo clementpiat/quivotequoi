@@ -1,7 +1,12 @@
+import type { ReponseValeur } from "./constants";
 import type { Loi } from "../types";
 
-/** loiId -> réponse entre -2 (contre) et +2 (pour). Une loi absente de l'objet = "passée". */
-export type Answers = Record<string, number>;
+/**
+ * loiId -> réponse entre -2 (contre) et +2 (pour), ou "pas-avis". Une loi absente de l'objet =
+ * "passée". Les réponses "pas-avis" sont, comme les lois passées, exclues du calcul de proximité
+ * (voir computeProximity) — à la différence de 0 (Neutre), qui est une position à part entière.
+ */
+export type Answers = Record<string, ReponseValeur>;
 
 export interface LoiDetailResult {
   loiId: string;
@@ -41,7 +46,10 @@ function scoreEtPoids(reponse: number): { score: number; poids: number } {
  * Les lois passées sont exclues du calcul.
  */
 export function computeProximity(answers: Answers, loisRepondues: Loi[]): ProximityComputation {
-  const answered = loisRepondues.filter((l) => l.id in answers);
+  const reponsesNumeriques = new Map(
+    Object.entries(answers).filter((entry): entry is [string, number] => typeof entry[1] === "number"),
+  );
+  const answered = loisRepondues.filter((l) => reponsesNumeriques.has(l.id));
   if (answered.length === 0) return { valide: false, raison: "aucune-reponse" };
 
   const groupeIds = new Set<string>();
@@ -55,7 +63,7 @@ export function computeProximity(answers: Answers, loisRepondues: Loi[]): Proxim
     for (const l of answered) {
       const position = l.positionsParGroupe.find((p) => p.groupeId === groupeId);
       if (!position) continue;
-      const reponse = answers[l.id]!;
+      const reponse = reponsesNumeriques.get(l.id)!;
       const { score, poids } = scoreEtPoids(reponse);
       const ecart = Math.abs(score - position.position);
       details.push({ loiId: l.id, reponse, positionGroupe: position.position, ecart, poids });

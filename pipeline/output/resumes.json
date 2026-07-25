@@ -4,6 +4,7 @@
     "titre": "Renforcer la stabilité économique et la compétitivité du secteur agroalimentaire",
     "theme": "Travail / Économie",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "resume": "Le texte prolonge jusqu'au 15 avril 2028 le seuil de revente à perte majoré de 10 % (SRP+10), qui impose aux distributeurs de vendre certaines denrées alimentaires au minimum à leur prix d'achat majoré de 10 %, afin de limiter la guerre des prix entre producteurs, transformateurs et distributeurs. Il supprime en parallèle l'encadrement des promotions sur les produits de droguerie, parfumerie et hygiène, et aligne sur cette même date la fin de l'expérimentation de l'encadrement des promotions sur les produits alimentaires."
   },
   {
@@ -11,6 +12,7 @@
     "titre": "Contre les fraudes aux moyens de paiement scripturaux",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "Le texte crée un fichier national recensant les coordonnées bancaires des comptes estimés frauduleux ou susceptibles de l'être, alimenté par les prestataires de services de paiement et géré par la Banque de France, afin de mieux détecter et bloquer les transactions frauduleuses. Il élargit les finalités du fichier national des chèques irréguliers (FNCI) pour y inclure explicitement les chèques contrefaits ou falsifiés, et permet aux banquiers de consulter ce fichier au moment de la présentation d'un chèque au paiement, afin de pouvoir différer son encaissement en cas de doute avant un rejet définitif."
   },
   {
@@ -18,6 +20,7 @@
     "titre": "Proposition de loi visant à sortir la France du piège du narcotrafic",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Le texte crée un nouveau parquet national anti-stupéfiants (Pnast), chargé de coordonner la lutte judiciaire contre le trafic de drogue à l'échelle nationale, et renforce l'Office anti-stupéfiants (Ofast) en le plaçant sous la double tutelle des ministères de l'intérieur et des finances avec une compétence exclusive sur les affaires de narcotrafic. Il crée de nouveaux outils contre le blanchiment : une procédure d'injonction pour richesse inexpliquée obligeant les personnes suspectées à justifier l'origine de leurs biens, un gel judiciaire des avoirs des trafiquants, et un assujettissement des vendeurs de véhicules de luxe aux obligations de lutte contre le blanchiment. Il étend les prérogatives des services de renseignement, notamment via une expérimentation de deux ans de la technique de renseignement algorithmique, et renforce l'arsenal pénal (extension du statut de repenti, création d'un « dossier coffre » pour protéger les techniques d'enquête sensibles, facilitation des infiltrations et achats sous couverture)."
   },
   {
@@ -25,6 +28,7 @@
     "titre": "Modifier la définition pénale du viol et des agressions sexuelles",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 5,
     "resume": "Le texte modifie la définition pénale du viol et des agressions sexuelles dans le code pénal en y introduisant la notion de non-consentement, en complément des critères existants de violence, contrainte, menace ou surprise qui sont conservés. Il précise que le consentement doit être donné librement, qu'il peut être retiré avant ou pendant l'acte, qu'il est apprécié au regard des circonstances environnantes et qu'il ne peut être déduit du silence ou de l'absence de résistance de la victime. L'absence de consentement peut également être déduite de l'exploitation d'un état de vulnérabilité, temporaire ou permanente, de la personne."
   },
   {
@@ -32,6 +36,7 @@
     "titre": "Diverses dispositions d’adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, de transport, de santé et de circulation des personnes",
     "theme": "Santé",
     "notoriete": 3,
+    "comprehensibilite": 1,
     "resume": "Le texte transpose et met en œuvre, dans des domaines variés, plusieurs règlements et directives européens adoptés entre 2023 et 2024. Il transcrit en droit interne des règles relatives aux marchés financiers (interdiction du paiement pour flux d'ordres, point d'accès unique européen aux informations financières, obligations vertes européennes), au secteur bancaire (remontée des pertes en cas de défaillance d'un groupe bancaire, virements instantanés) et aux gestionnaires de crédits. Il adapte également l'accès des conducteurs au fichier des véhicules assurés, restreint l'accès au registre des bénéficiaires effectifs des sociétés conformément à une décision de la Cour de justice de l'UE, et corrige diverses dispositions du code de commerce relatives aux commissaires aux comptes et à la publication d'informations de durabilité."
   },
   {
@@ -39,6 +44,7 @@
     "titre": "Renforcer le contrôle du Parlement en période d’expédition des affaires courantes",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Le texte renforce le contrôle du Parlement sur l'action du Gouvernement lorsque celui-ci expédie les affaires courantes, par exemple après une démission ou une motion de censure. Il donne aux présidents des assemblées et de leurs commissions permanentes un intérêt à agir pour contester, par un recours pour excès de pouvoir, les actes réglementaires ou individuels pris pendant cette période. Il oblige le Gouvernement à transmettre sans délai à l'Assemblée nationale et au Sénat les ordonnances, décrets et actes réglementaires pris durant cette période, à les informer de ses déplacements, conférences et communiqués de presse, et prévoit la remise d'un rapport bilan au Parlement par le gouvernement suivant."
   },
   {
@@ -46,6 +52,7 @@
     "titre": "Valoriser la réserve communale de sécurité civile",
     "theme": "Sécurité",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "resume": "La loi supprime le plafond actuel de quinze jours ouvrables par an pour les activités de la réserve communale de sécurité civile, laissant la commune et le réserviste fixer ensemble cette durée. Elle réduit à 24 heures, en cas de crise majeure, le délai dont dispose un employeur pour notifier son refus qu'un salarié s'absente afin de participer à la réserve. Elle permet également aux élèves et étudiants réservistes de faire valider les compétences acquises dans le cadre de leur engagement."
   },
   {
@@ -53,6 +60,7 @@
     "titre": "Faire exécuter les peines d'emprisonnement ferme",
     "theme": "Justice",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "La loi redonne aux juges la possibilité de prononcer des peines d'emprisonnement ferme inférieures à un mois et supprime la quasi-obligation d'aménager les peines de moins d'un an qui existait auparavant. Elle maintient la possibilité, pour le juge, d'aménager au cas par cas une peine allant jusqu'à deux ans, par une décision spécialement motivée, si le condamné justifie d'une activité professionnelle, de sa participation à la vie familiale, d'un suivi médical ou d'efforts sérieux de réinsertion. L'objectif est de redonner aux magistrats un pouvoir d'appréciation individualisée plutôt qu'un système d'aménagement quasi systématique."
   },
   {
@@ -60,6 +68,7 @@
     "titre": "Renforcer la démographie professionnelle des orthophonistes",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "Le texte augmente progressivement le nombre annuel d'étudiants admis en formation d'orthophonie, de 975 places actuellement à 1 463 places d'ici 2030, pour répondre à la pénurie de professionnels (30 orthophonistes pour 100 000 habitants) et aux listes d'attente des patients. Il crée un statut de maître de stage universitaire en orthophonie pour mieux encadrer les étudiants, et étend aux orthophonistes le contrat d'engagement de service public, qui offre une allocation mensuelle en échange d'un engagement à exercer au moins deux ans dans un territoire donné. Une clause de revoyure est prévue pour évaluer les effets du dispositif dans cinq ans."
   },
   {
@@ -67,6 +76,7 @@
     "titre": "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
     "theme": "Institutions",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "resume": "Ce texte organique tire les conséquences, sur le plan électoral, de l'extension du scrutin de liste aux communes de moins de 1 000 habitants décidée par une loi ordinaire du même paquet législatif. Il modifie le code électoral pour supprimer les dispositions organiques limitant certaines règles relatives au droit de vote et d'éligibilité des citoyens de l'Union européenne aux seules communes soumises à ce mode de scrutin particulier, afin d'harmoniser les règles applicables à toutes les communes."
   },
   {
@@ -74,6 +84,7 @@
     "titre": "Convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "Le texte rend les centrales à charbon converties vers des combustibles émettant moins de 550 grammes de dioxyde de carbone par kilowattheure éligibles au mécanisme de capacité électrique, en les considérant comme de nouvelles installations de production. Il prévoit que leur désignation comme lauréates des procédures concurrentielles de ce mécanisme vaille automatiquement autorisation d'exploiter, afin d'accélérer leur conversion. L'objectif affiché est de garantir la sécurité d'approvisionnement électrique tout en réduisant les émissions de CO2, en préservant les emplois liés à ces sites, comme celui de Saint-Avold en Moselle."
   },
   {
@@ -81,6 +92,7 @@
     "titre": "Renforcer les conditions d'accès à la nationalité française à Mayotte",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 5,
     "resume": "Le texte durcit les conditions d'accès à la nationalité française par la naissance à Mayotte : il exige désormais que les deux parents (et non plus un seul) aient résidé en France de manière régulière et ininterrompue pendant au moins un an (contre trois mois auparavant) au moment de la naissance de l'enfant, pour que ce dernier puisse acquérir la nationalité française à sa majorité ou par déclaration anticipée."
   },
   {
@@ -88,6 +100,7 @@
     "titre": "Réformer le mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille",
     "theme": "Institutions",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "resume": "La loi instaure deux scrutins distincts et simultanés pour élire, d'une part, les membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille, et d'autre part, les conseillers d'arrondissement, chacun avec sa propre liste de candidats. Elle fixe à 25 % la prime majoritaire accordée à la liste arrivée en tête pour le conseil municipal et permet à un candidat de se présenter simultanément sur les deux listes. Le maire d'arrondissement pourra assister au conseil municipal et être entendu sur les délibérations concernant son arrondissement. Ces règles s'appliqueront lors du prochain renouvellement général des conseils municipaux, en 2026."
   },
   {
@@ -95,6 +108,7 @@
     "titre": "Proposition de loi organique fixant le statut du procureur national anti-stupéfiants",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 1,
     "resume": "Le texte fixe, au niveau organique, le statut du procureur national anti-stupéfiants, une fonction créée pour incarner, coordonner et animer la lutte judiciaire contre le trafic de drogue, sur le modèle du parquet national antiterroriste et du parquet national financier. Il modifie l'ordonnance de 1958 relative au statut de la magistrature pour soumettre ce nouveau procureur aux mêmes règles de droit commun que les autres procureurs nationaux en matière de durée d'exercice des fonctions."
   },
   {
@@ -102,6 +116,7 @@
     "titre": "Renforcer le parcours inclusif des élèves en situation de handicap",
     "theme": "Éducation",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Cette loi généralise un livret de parcours inclusif informatisé pour les élèves en situation de handicap, permettant aux représentants légaux de partager des informations sur l'enfant et d'en contrôler l'accès (les données médicales strictes en étant exclues), consultable notamment par les accompagnants d'élèves en situation de handicap (AESH). Elle crée un observatoire national chargé de suivre la scolarisation et l'insertion professionnelle de ces élèves, avec un rapport gouvernemental annuel, et prévoit une formation initiale des enseignants volontaires à l'accueil des élèves à besoins éducatifs particuliers."
   },
   {
@@ -109,6 +124,7 @@
     "titre": "Protéger les personnes engagées dans un projet parental des discriminations au travail",
     "theme": "Travail / Économie",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "resume": "Le texte ajoute le « projet parental » à la liste des motifs de discrimination interdits par le code du travail et par la loi du 27 mai 2008, aux côtés de critères existants comme la grossesse ou la situation de famille. Il vise à protéger dans leur emploi les personnes engagées dans un parcours d'assistance médicale à la procréation ou d'adoption, contre des mesures telles que retards de promotion, refus d'aménagement d'horaires pour des rendez-vous médicaux ou licenciements liés à ce parcours."
   },
   {
@@ -116,6 +132,7 @@
     "titre": "Proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur",
     "theme": "Éducation",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Le texte impose aux établissements d'enseignement supérieur d'assurer une formation à la lutte contre l'antisémitisme et le racisme, en complément des missions déjà fixées par le code de l'éducation. Il crée dans chaque établissement une mission « égalité et diversité » chargée de la promotion de l'égalité, de la lutte contre le racisme et l'antisémitisme, et de la prévention et du traitement des actes de discrimination et de haine, ainsi qu'un dispositif de signalement anonyme pour les victimes et témoins. Les présidents d'établissement doivent signaler sans délai au procureur de la République tout acte de racisme ou d'antisémitisme susceptible de constituer une infraction pénale, et les pouvoirs d'investigation et de poursuite disciplinaire des conseils académiques sont renforcés."
   },
   {
@@ -123,6 +140,7 @@
     "titre": "Préserver les droits des victimes dépositaires de plaintes classées sans suite",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "Le texte rend obligatoire la notification aux victimes de l'avis de classement sans suite de leur plainte, alors que cette notification n'était auparavant garantie que sur demande. Il permet à la victime de choisir le mode de réception de cet avis (lettre recommandée avec accusé de réception, courrier électronique ou autre moyen), ce choix étant consigné au procès-verbal. Il impose enfin que la motivation du classement sans suite soit rédigée en termes simples et accessibles, afin que la victime en comprenne les raisons juridiques et matérielles."
   },
   {
@@ -130,6 +148,7 @@
     "titre": "Contre les déserts médicaux, d'initiative transpartisane",
     "theme": "Santé",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "Le texte crée une autorisation d'installation pour les médecins, délivrée par l'agence régionale de santé après consultation de l'ordre départemental : elle est accordée de droit dans les zones sous-dotées, mais soumise, ailleurs, à la cessation d'activité d'un praticien de la même spécialité sur le territoire. Il supprime la majoration de tarifs appliquée aux patients qui n'ont pas de médecin traitant, quelle qu'en soit la raison. Il impose une offre minimale de formation de première année de médecine dans chaque département ainsi que la présence d'au moins un CHU par région, et rétablit l'obligation de permanence des soins pour les médecins."
   },
   {
@@ -137,6 +156,7 @@
     "titre": "Restaurer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents",
     "theme": "Justice",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "resume": "La loi renforce les sanctions visant les parents défaillants : elle crée une circonstance aggravante au délit de soustraction aux obligations parentales lorsque celle-ci a conduit le mineur à commettre des infractions, et permet au juge des enfants de prononcer une amende civile contre les parents qui ne se présentent pas aux convocations. Elle étend la responsabilité solidaire des deux parents pour les dommages causés par leurs enfants mineurs, y compris lorsqu'ils sont séparés. Elle crée une procédure de comparution immédiate pour les mineurs de seize ans et plus dans les affaires les plus graves, et restreint la possibilité d'atténuer automatiquement la peine des mineurs récidivistes de plus de seize ans pour les infractions les plus graves."
   },
   {
@@ -144,6 +164,7 @@
     "titre": "Simplification du droit de l'urbanisme et du logement",
     "theme": "Logement",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Le texte simplifie plusieurs procédures d'urbanisme et de construction pour les collectivités territoriales : il assouplit les obligations de solarisation et de végétalisation des bâtiments publics, supprime la caducité des schémas de cohérence territoriale (SCoT), et facilite l'évolution des plans locaux d'urbanisme (PLU) en relevant de 20 % à 50 % le seuil de majoration de construction déclenchant une procédure de révision. Il donne davantage de souplesse pour produire du logement, notamment en facilitant la transformation des zones d'activité ou tertiaires en logements, et généralise le recours au permis d'aménager dit « multisites » pour les opérations complexes. Il accélère aussi le traitement des recours contre les autorisations d'urbanisme en réduisant le délai de recours gracieux et en mettant fin à son caractère suspensif."
   },
   {
@@ -151,6 +172,7 @@
     "titre": "Lutter contre la mortalité infantile",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Face à la hausse de la mortalité infantile en France depuis 2020 et à la fermeture de nombreuses maternités, ce texte crée un registre national des naissances intégrant les bulletins d'état civil et les certificats de santé de l'enfant, afin de mieux piloter la santé périnatale. Il instaure un moratoire de trois ans sur les fermetures de maternités, notamment celles pratiquant moins de 300 accouchements par an, le temps d'une évaluation territorialisée de leur accessibilité et de leur sécurité, et rend obligatoires des formations régulières et certifiées aux gestes d'urgence obstétrique dans chaque maternité."
   },
   {
@@ -158,6 +180,7 @@
     "titre": "Créer une croix de la valeur des sapeurs-pompiers volontaires et professionnels",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "resume": "Le texte crée une croix de la valeur des sapeurs-pompiers volontaires et professionnels, destinée à récompenser leur bravoure et leur engagement opérationnel exceptionnel en intervention, alors qu'ils ne disposaient jusqu'ici que d'une médaille d'ancienneté. Elle serait décernée par le ministre de l'intérieur sur proposition du chef de corps, après avis de l'autorité préfectorale, sans donner lieu à indemnité ni pension, les modalités précises d'attribution et de promotion étant fixées par arrêté ministériel."
   },
   {
@@ -165,6 +188,7 @@
     "titre": "Lutter contre la pédocriminalité",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "Le texte étend aux personnes majeures se faisant passer pour des mineurs en ligne la protection pénale jusqu'ici réservée aux mineurs contre la sollicitation, la diffusion ou l'incitation à produire des images à caractère pédopornographique. Il comble ainsi un vide juridique qui empêchait de condamner les auteurs de tels actes lorsque les enquêteurs, menant des cyber-infiltrations, se faisaient passer pour des mineurs sans en être."
   },
   {
@@ -172,6 +196,7 @@
     "titre": "Projet de loi relatif au transfert à l’Etat des personnels enseignants de l’enseignement du premier degré dans les îles Wallis et Futuna",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Le texte autorise le gouvernement à légiférer par ordonnance pour organiser le transfert à l'État des enseignants du premier degré de Wallis-et-Futuna, aujourd'hui employés par la direction de l'enseignement catholique dans le cadre d'une convention de concession. Il doit permettre l'intégration de ces personnels dans des corps de la fonction publique de l'État, tout en leur laissant la possibilité de conserver, pour leur retraite, leur affiliation à la Caisse des prestations sociales des îles Wallis et Futuna. Un projet de loi de ratification de l'ordonnance doit être déposé devant le Parlement dans les six mois suivant sa publication."
   },
   {
@@ -179,6 +204,7 @@
     "titre": "Soins palliatifs et d’accompagnement",
     "theme": "Santé",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "resume": "Le texte remplace, dans le code de la santé publique, la notion de soins palliatifs par celle, plus large, de soins palliatifs et d'accompagnement, avec pour objectif une prise en charge globale de la personne malade garantissant un accès équitable sur tout le territoire. Il crée une nouvelle catégorie d'établissement, la « maison d'accompagnement et de soins palliatifs », structure intermédiaire entre le domicile et l'hôpital, et impose aux agences régionales de santé de garantir l'effectivité de ce droit, avec un recours possible devant la justice administrative. Une loi de programmation des soins palliatifs et d'accompagnement doit être adoptée avant fin 2025 puis tous les cinq ans, et la formation des professionnels de santé sur le sujet est renforcée."
   },
   {
@@ -186,6 +212,7 @@
     "titre": "Fin de vie",
     "theme": "Santé",
     "notoriete": 5,
+    "comprehensibilite": 5,
     "resume": "Le texte crée un droit à l'aide à mourir pour les personnes majeures atteintes d'une affection grave et incurable qui en font la demande volontaire, après un examen médical et le recueil d'un consentement éclairé. La substance létale peut être auto-administrée par le patient ou, s'il en est physiquement incapable, administrée par un médecin ou un infirmier. Une commission de contrôle et d'évaluation, composée de médecins, magistrats et autres experts, est créée pour suivre les procédures, et les professionnels de santé disposent d'une clause de conscience leur permettant de refuser d'y participer. La prise en charge est assurée par l'assurance maladie."
   },
   {
@@ -193,6 +220,7 @@
     "titre": "Restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l'âge de départ et le nombre d'annuités",
     "theme": "Travail / Économie",
     "notoriete": 4,
+    "comprehensibilite": 5,
     "resume": "Cette proposition de loi, déposée par des députés du Rassemblement national, visait à abroger la réforme des retraites de 2023 en rétablissant l'âge légal de départ à 62 ans (au lieu de 64) et en ramenant la durée de cotisation requise à 168 trimestres, soit 42 annuités (au lieu de 172 trimestres, 43 annuités), de façon progressive selon les générations. Elle prévoyait un gage financier pour assurer sa recevabilité budgétaire. Le texte a été rejeté par l'Assemblée nationale le 31 octobre 2024, dès la première lecture."
   },
   {
@@ -200,6 +228,7 @@
     "titre": "Garantir un cadre fiscal stable, juste et lisible pour nos micro-entrepreneurs et nos petites entreprises",
     "theme": "Budget / Finances",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "resume": "Le texte annule l'abaissement des seuils de franchise en base de TVA qui devait s'appliquer aux micro-entrepreneurs et petites entreprises : il maintient ces seuils à leur niveau antérieur, soit 85 000 euros de chiffre d'affaires annuel pour les activités commerciales et 37 500 euros pour les prestations de services, au lieu d'un abaissement à 25 000 euros initialement prévu. Des plafonds spécifiques sont également rétablis pour certaines professions (avocats, auteurs, artistes-interprètes), fixés à 50 000 euros pour l'activité principale et 35 000 euros pour les activités connexes."
   },
   {
@@ -207,6 +236,7 @@
     "titre": "Reconnaissance de la Nation envers les rapatriés d’Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
     "theme": "Société",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Sur le modèle de la loi de 2022 relative aux harkis, ce texte reconnaît la responsabilité de l'État dans l'indignité des conditions d'accueil réservées aux rapatriés d'Indochine arrivés en France entre 1954 et 1974, hébergés dans des camps comme ceux de Sainte-Livrade-sur-Lot et Noyant-d'Allier où leurs libertés individuelles ont été restreintes. Il institue une journée nationale d'hommage le 14 août ainsi que des lieux de mémoire, et ouvre un droit à réparation sous forme de somme forfaitaire, calculée selon la durée de séjour dans ces structures, pour les personnes concernées, leurs conjoints et leurs enfants."
   },
   {
@@ -214,6 +244,7 @@
     "titre": "Proposition de loi relative au droit de vote par correspondance des personnes détenues",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "resume": "Ce texte modifie les règles d'inscription électorale des personnes détenues souhaitant voter par correspondance. Il supprime la possibilité de s'inscrire dans la commune chef-lieu du département ou dans la commune d'implantation de l'établissement pénitentiaire, jugée trop éloignée des attaches réelles des détenus, et impose désormais une inscription sur la liste électorale de la commune où la personne détenue avait élu domicile avant son incarcération, ou celle où réside un de ses ascendants ou descendants."
   },
   {
@@ -221,6 +252,7 @@
     "titre": "Permettre aux salariés de participer aux collectes de sang, de plaquettes ou de plasma sur leur temps de travail",
     "theme": "Travail / Économie",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "resume": "Le texte crée un droit, pour tout salarié du secteur privé comme public, de s'absenter de son entreprise pour participer à une collecte de sang total, de plaquettes ou de plasma. Cette absence, dont la durée couvre le trajet, l'entretien préalable, le prélèvement et la période de repos nécessaire, n'entraîne pas de perte de rémunération et n'est pas comptée comme du temps de travail effectif ; l'employeur peut demander au salarié un justificatif de son don à son retour."
   },
   {
@@ -228,6 +260,7 @@
     "titre": "Proposition de loi expérimentant l’encadrement des loyers et améliorant l’habitat dans les outre-mer",
     "theme": "Logement",
     "notoriete": 3,
+    "comprehensibilite": 1,
     "resume": "Le texte vise à prolonger d'un an la durée de l'expérimentation de l'encadrement des loyers, en rouvrant jusqu'au 25 novembre 2026 le délai pendant lequel les collectivités d'outre-mer peuvent candidater à ce dispositif qui permet de plafonner les loyers abusifs dans les zones tendues. Il modifie également les règles de zonage de la politique de la ville pour que les critères d'éligibilité aux quartiers prioritaires ne défavorisent plus les territoires ultramarins, qui ont perdu une part importante de leurs quartiers prioritaires lors d'une réforme récente. Enfin, il crée dans chaque collectivité d'outre-mer régie par l'article 73 de la Constitution un centre scientifique et technique du bâtiment chargé d'homologuer les matériaux de construction adaptés aux contraintes climatiques locales."
   },
   {
@@ -235,6 +268,7 @@
     "titre": "Accorder le versement des allocations familiales dès le premier enfant",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "resume": "Le texte étend le bénéfice des allocations familiales, jusque-là versées à partir du deuxième enfant, aux familles n'ayant qu'un seul enfant à charge, comme c'est déjà le cas dans les territoires d'outre-mer. La mesure vise à mieux compenser les charges financières liées à l'entretien et à l'éducation d'un enfant dès la première naissance, notamment pour les familles monoparentales, dont le nombre augmente."
   },
   {
@@ -242,6 +276,7 @@
     "titre": "Profession d'infirmier",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "resume": "Ce texte redéfinit la profession d'infirmier diplômé d'État en inscrivant dans le code de la santé publique quatre missions : la réalisation et l'évaluation des soins, le suivi du parcours de santé, la prévention et l'éducation thérapeutique, et la participation à la formation et à la recherche. Il reconnaît la consultation infirmière et le diagnostic infirmier, et donne aux infirmiers la possibilité de prescrire certains produits de santé et examens complémentaires, dont la liste sera fixée par arrêté ministériel. Il élargit par ailleurs les lieux d'exercice de la pratique infirmière avancée à la protection maternelle et infantile, à la santé scolaire et à l'aide sociale à l'enfance, et l'ouvre aux infirmiers anesthésistes, de bloc opératoire et puériculteurs."
   },
   {
@@ -249,6 +284,7 @@
     "titre": "Projet de loi de simplification de la vie économique",
     "theme": "Travail / Économie",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Cette loi de 84 articles vise à réduire les démarches administratives imposées aux entreprises. Elle instaure notamment le principe \"le silence de l'administration vaut acceptation\" pour les PME dans certaines procédures d'évaluation, généralise la dématérialisation des marchés publics via une plateforme unique d'ici 2030, et simplifie les procédures d'urbanisme et environnementales pour les projets industriels, énergétiques et numériques jugés stratégiques, comme les centres de données. Le Conseil constitutionnel a censuré plusieurs dispositions ajoutées en cours de débat, jugées sans lien avec le texte initial."
   },
   {
@@ -256,6 +292,7 @@
     "titre": "Projet de loi autorisant la ratification de la résolution LP.3(4) portant amendement de l’article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l’immersion de déchets et autres matières",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 1,
     "resume": "Le texte autorise la ratification d'un amendement de 2009 au Protocole de Londres de 1996, qui encadre la prévention de la pollution des mers par immersion de déchets. Cet amendement permet l'exportation transfrontalière de dioxyde de carbone capté à des fins de stockage géologique sous-marin, à condition qu'un accord ait été conclu entre les pays concernés portant notamment sur la répartition des responsabilités en matière de permis. La France ne disposant pas encore de capacités suffisantes de stockage sur son territoire, cette ratification vise à permettre l'export du CO2 capturé par l'industrie française vers des sites de stockage étrangers, notamment en mer du Nord, afin de contribuer aux objectifs français de réduction d'émissions à horizon 2030 et 2050."
   },
   {
@@ -263,6 +300,7 @@
     "titre": "Proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "resume": "Le texte reporte au plus tard au 30 novembre 2025 les élections des membres du congrès et des assemblées de province de la Nouvelle-Calédonie, initialement prévues au plus tard le 15 décembre 2024. Les mandats des membres actuels du congrès et des assemblées de province sont prorogés jusqu'à la première réunion des assemblées nouvellement élues, de même que les fonctions des membres des organes du congrès en cours à la date de promulgation de la loi."
   },
   {
@@ -270,6 +308,7 @@
     "titre": "Projet de loi de programmation pour la refondation de Mayotte",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Ce texte de programmation pour Mayotte, présenté après le cyclone Chido, complète la loi d'urgence de février 2025 par des mesures structurelles réparties en six titres. Il durcit les conditions d'accès au séjour (allongement des délais de résidence requis pour les titres de séjour liés à un enfant français ou à des liens personnels et familiaux), centralise à Mamoudzou l'enregistrement des reconnaissances de paternité et de maternité pour lutter contre les fraudes, et crée des locaux de rétention adaptés aux familles avec mineurs. Il prévoit aussi la convergence progressive vers le droit commun des prestations sociales et des prélèvements, ainsi qu'une réforme du cadre institutionnel et du mode de scrutin du département."
   },
   {
@@ -277,6 +316,7 @@
     "titre": "Département-Région de Mayotte",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Le texte accompagne, sur le plan organique, la transformation de Mayotte en une collectivité unique appelée Département-Région de Mayotte, décidée par ailleurs dans le projet de loi de programmation pour la refondation de Mayotte. Il adapte en conséquence le code général des collectivités territoriales et le code électoral : renommage de la collectivité, incompatibilité entre le mandat de conseiller de l'assemblée de Mayotte et les fonctions de magistrat judiciaire, intégration des futurs conseillers de l'assemblée de Mayotte parmi les élus habilités à parrainer un candidat à l'élection présidentielle. Ces dispositions doivent entrer en vigueur au plus tard le 1er janvier 2027, sous réserve de la publication de l'ordonnance de refondation de Mayotte."
   },
   {
@@ -284,6 +324,7 @@
     "titre": "Projet de loi portant transposition des accords nationaux interprofessionnels en faveur de l’emploi des salariés expérimentés et relatif à l’évolution du dialogue social",
     "theme": "Travail / Économie",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Le texte transpose deux accords nationaux interprofessionnels conclus par les partenaires sociaux en novembre 2024. Il crée une obligation de négocier périodiquement, dans les branches et dans les entreprises d'au moins trois cents salariés, sur l'emploi et les conditions de travail des salariés expérimentés, et instaure à titre expérimental, pour cinq ans, un contrat de valorisation de l'expérience réservé aux demandeurs d'emploi seniors. Il facilite les aménagements de fin de carrière (passage à temps partiel dans le cadre de la retraite progressive, cumul emploi-retraite), supprime la limite du nombre de mandats successifs des représentants du personnel au comité social et économique, et inscrit dans la loi une condition d'affiliation spécifique à l'assurance chômage pour les primo-entrants sur le marché du travail."
   },
   {
@@ -291,6 +332,7 @@
     "titre": "Proposition de loi visant à lever les contraintes à l’exercice du métier d’agriculteur",
     "theme": "Environnement",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Le texte revient sur plusieurs surtranspositions françaises de règles européennes en matière de produits phytosanitaires : il réautorise le conseil sur ces produits par les vendeurs, rend facultatif le conseil stratégique phytosanitaire, permet l'usage de drones pour la pulvérisation dans des conditions strictes et abroge l'interdiction française des produits contenant des néonicotinoïdes pour revenir au droit européen. Il simplifie aussi les règles environnementales (ICPE) applicables aux bâtiments d'élevage, en relevant les seuils déclenchant l'enquête publique et en assouplissant les modalités de consultation, facilite les projets de stockage d'eau agricole en révisant la hiérarchie des usages de l'eau et la définition des zones humides, et invite les préfets à privilégier la voie administrative sur la voie judiciaire pour les infractions environnementales mineures constatées par l'Office français de la biodiversité."
   },
   {
@@ -298,6 +340,7 @@
     "titre": "Proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "resume": "Le texte permet de prolonger, au-delà de trente jours, le maintien en rétention administrative d'un étranger faisant l'objet d'une interdiction du territoire ou d'une mesure d'éloignement lorsqu'il a été condamné pour des faits de terrorisme, des infractions sexuelles ou violentes graves (meurtre, tortures, traite des êtres humains, proxénétisme) ou liées au crime organisé, à condition que l'éloignement demeure une perspective raisonnable. Il étend par ailleurs le caractère suspensif de l'appel formé par le préfet contre une décision de justice libérant une personne retenue, lorsque celle-ci relève de ces mêmes catégories d'infractions."
   },
   {
@@ -305,6 +348,7 @@
     "titre": "Proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie pour permettre la mise en oeuvre de l'accord du 12 juillet 2025",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "resume": "Le texte reporte au plus tard au 28 juin 2026 les élections des membres du congrès et des assemblées de province de la Nouvelle-Calédonie, initialement prévues au plus tard le 30 novembre 2025, afin de laisser le temps nécessaire à la poursuite des discussions sur la mise en œuvre de l'accord du 12 juillet 2025. Les mandats des membres actuels sont prorogés jusqu'à la première réunion des assemblées nouvellement élues, de même que les fonctions des membres des organes du congrès en cours."
   },
   {
@@ -312,6 +356,7 @@
     "titre": "Rendre systématique l’information du consommateur sur l’origine des denrées alimentaires par le moyen de l’étiquetage",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 5,
     "resume": "Cette proposition de loi visait à rendre obligatoire l'indication, par étiquetage, du pays d'origine de tout produit agricole, alimentaire ou de la mer, brut ou transformé, ainsi que l'origine de tout ingrédient représentant 10 % ou plus de la composition d'un produit transformé. Elle prévoyait une peine d'un an d'emprisonnement et 150 000 euros d'amende en cas de manquement, et restreignait l'usage du drapeau tricolore ou de symboles évoquant une origine française sur l'emballage de produits transformés dont l'ingrédient principal ne serait pas français. Rejetée par l'Assemblée nationale, elle n'est pas devenue loi."
   },
   {
@@ -319,6 +364,7 @@
     "titre": "Projet de loi de finances de fin de gestion pour 2025",
     "theme": "Budget / Finances",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Ce projet de loi de finances rectificative ajuste le budget de l'État pour la fin de l'année 2025. Il modifie la répartition entre les régions de la part de l'accise affectée au financement de la création de places dans les instituts de formation en soins infirmiers (IFSI), ajuste les règles d'affectation de ressources à des tiers, et rectifie le montant de la taxe sur la valeur ajoutée affectée au compte de concours financiers finançant l'audiovisuel public. Il procède par ailleurs à des ouvertures et annulations de crédits budgétaires pour l'ensemble des missions de l'État afin d'ajuster les dépenses aux besoins constatés en fin de gestion."
   },
   {
@@ -326,6 +372,7 @@
     "titre": "L'établissement de l’égalité d’accès au service public postal en outre-mer",
     "theme": "Société",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Le texte étend le principe de péréquation tarifaire postale, jusque-là limité au territoire métropolitain, à l'ensemble des collectivités d'outre-mer (Réunion, Martinique, Guadeloupe, Guyane, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, Polynésie française, Nouvelle-Calédonie, Wallis-et-Futuna). Il modifie le code des postes et des communications électroniques afin que les envois postaux à destination ou en provenance de ces territoires bénéficient du même tarif qu'en France métropolitaine, quelle que soit leur tranche de poids, alors qu'auparavant seuls les envois de moins de 100 grammes en bénéficiaient. L'objectif affiché est de mettre fin à des tarifs de colis pouvant être jusqu'à 3,5 fois plus élevés que ceux appliqués dans l'Hexagone."
   },
   {
@@ -333,6 +380,7 @@
     "titre": "Nationalisation d'ArcelorMittal France",
     "theme": "Travail / Économie",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "resume": "La loi organise la nationalisation d'ArcelorMittal France, avec une commission administrative chargée d'évaluer la valeur de la société en vue de l'indemnisation de ses actionnaires actuels. La structure nationalisée serait régie par l'ordonnance de 2014 relative à la gouvernance des sociétés à participation publique. Adopté une première fois par l'Assemblée nationale puis rejeté par le Sénat, le texte a été réadopté en deuxième lecture par les députés le 11 juin 2026 et reste en attente d'un nouvel examen sénatorial."
   },
   {
@@ -340,6 +388,7 @@
     "titre": "Proposition de loi organique portant réforme du financement de l'audiovisuel public",
     "theme": "Société",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Le texte pérennise le financement des sociétés de l'audiovisuel public (France Télévisions, Radio France, France Médias Monde, Institut national de l'audiovisuel, TV5 Monde) par une fraction du produit de la TVA, en modifiant la loi organique relative aux lois de finances (LOLF) pour permettre l'affectation directe d'une taxe à ces organismes. Il crée par ailleurs un mécanisme de financement spécifique pour la chaîne culturelle européenne Arte-France, sous forme de prélèvement sur recettes de l'État. L'objectif est d'éviter que ce financement bascule sur le budget général de l'État à compter de 2025, ce qui, selon le texte, fragiliserait l'indépendance éditoriale de l'audiovisuel public."
   },
   {
@@ -347,6 +396,7 @@
     "titre": "Sécuriser le mécanisme de purge des nullités",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 1,
     "resume": "À la suite d'une décision du Conseil constitutionnel de 2023 qui a censuré l'impossibilité pour un tribunal correctionnel saisi par renvoi du juge d'instruction de constater certaines nullités, le texte modifie plusieurs articles du code de procédure pénale (175, 178, 179, 181, 269-1, 305-1 et 385) pour permettre à une partie d'invoquer une nullité de procédure qu'elle n'aurait pu connaître avant la clôture de l'instruction, y compris après cette clôture. Cette solution, qui reprend celle retenue par le Conseil constitutionnel, est étendue aux procédures devant le tribunal de police et en matière criminelle, ainsi qu'aux territoires d'outre-mer, afin de sécuriser juridiquement le mécanisme de purge des nullités."
   },
   {
@@ -354,6 +404,7 @@
     "titre": "Prolonger la dérogation d’usage des titres restaurant pour tout produit alimentaire",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 5,
     "resume": "Le texte prolonge d'un an, jusqu'au 31 décembre 2025, la dérogation permettant aux salariés d'utiliser leurs titres-restaurant pour acheter des produits alimentaires non directement consommables (pâtes, riz, farine, etc.), et non plus seulement des produits prêts à consommer. Cette extension, introduite en 2022 pour soutenir le pouvoir d'achat face à l'inflation, devait initialement s'arrêter au 31 décembre 2024."
   },
   {
@@ -361,6 +412,7 @@
     "titre": "Projet de loi de financement de la sécurité sociale pour 2026",
     "theme": "Santé",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Le projet de loi de financement de la sécurité sociale pour 2026 rectifie les comptes sociaux de l'année 2025, dont le déficit prévisionnel est révisé à 23 milliards d'euros, et fixe les objectifs de recettes et de dépenses pour 2026 avec un retour à un léger excédent recherché pour l'ensemble des administrations de sécurité sociale. Il maintient le niveau de l'objectif national de dépenses d'assurance maladie (Ondam), gèle pour un an les seuils de revenus donnant droit à des taux réduits de CSG, et crée une contribution temporaire de 2,05 % à la charge des organismes complémentaires de santé (mutuelles, assurances) pour l'année 2026. Il renforce également le recouvrement des cotisations sociales impayées par les entreprises et modifie le régime de contribution patronale sur certains dispositifs d'épargne salariale et d'intéressement."
   },
   {
@@ -368,6 +420,7 @@
     "titre": "Proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 2,
     "resume": "Cette loi organique modifie le statut d'autonomie de la Polynésie française afin de faciliter l'intervention des communes polynésiennes dans certains domaines, notamment social, aujourd'hui soumise à une autorisation préalable de l'assemblée de la Polynésie française qui n'a quasiment jamais été mobilisée depuis plus de vingt ans. Les communes, en particulier celles des archipels éloignés dépourvues de services déconcentrés du Pays, pourront ainsi intervenir sans attendre cette autorisation, la Polynésie française n'étant pas pour autant tenue d'y apporter un concours financier."
   },
   {
@@ -375,6 +428,7 @@
     "titre": "Proposition de loi relative à la protection sociale complémentaire des agents publics territoriaux",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "Le texte transpose dans la loi les principaux points de l'accord collectif national du 11 juillet 2023 sur la protection sociale complémentaire des agents publics territoriaux. Il généralise les contrats collectifs à adhésion obligatoire pour la couverture prévoyance (maladie, invalidité) des 1,9 million d'agents territoriaux, et fixe la participation financière minimale de l'employeur à la moitié de la cotisation, contre un montant de référence de seulement 7 euros par mois auparavant. Il clarifie aussi les règles de prise en charge des pathologies antérieures à l'adhésion et prévoit une entrée en vigueur progressive, au plus tard le 1er janvier 2027."
   },
   {
@@ -382,6 +436,7 @@
     "titre": "Assurer le droit de chaque enfant à disposer d’un avocat dans le cadre d’une mesure d’assistance éducative et de protection de l’enfance",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "resume": "La loi garantit à tout enfant faisant l'objet d'une mesure d'assistance éducative le droit d'être assisté par un avocat, y compris lorsqu'il est très jeune ou présente des difficultés cognitives, en supprimant toute condition de discernement pour bénéficier de cette assistance. Le mineur peut désormais choisir lui-même son avocat plutôt que de se voir imposer un avocat commis d'office. La désignation d'un administrateur ad hoc devient facultative, et la prise en charge financière des frais d'avocat est distinguée de celle relevant de l'aide sociale à l'enfance."
   },
   {
@@ -389,6 +444,7 @@
     "titre": "Protéger les mineurs isolés et à lutter contre le sans-abrisme",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Le texte rend suspensif le recours formé par une personne se déclarant mineure contre une décision administrative de refus de minorité, et impose le maintien de son accueil provisoire d'urgence jusqu'à la décision judiciaire définitive, afin qu'aucun jeune contestant son âge ne se retrouve à la rue pendant la procédure. Il crée également un Observatoire national du sans-abrisme, chargé de recenser les données sur les personnes sans domicile - notamment les mineurs isolés - et de publier chaque année un rapport remis au Gouvernement et au Parlement."
   },
   {
@@ -396,6 +452,7 @@
     "titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "resume": "Le texte pérennise le dispositif d'encadrement des loyers, jusqu'ici expérimental, et l'ouvre aux communes situées en zone tendue ainsi qu'aux communes limitrophes appartenant au même établissement intercommunal, sans obligation de décret ministériel préalable. Il encadre davantage le complément de loyer, en le plafonnant à 20 % du loyer de référence majoré et en imposant sa publication dans les annonces immobilières, tout en doublant le montant des amendes applicables aux bailleurs contrevenants et en reversant leur produit aux communes qui appliquent le dispositif. Il protège enfin les locataires ayant engagé une contestation de leur loyer contre un congé délivré par le bailleur dans les mois précédant l'échéance du bail."
   },
   {
@@ -403,6 +460,7 @@
     "titre": "Garantir un renouvellement automatique des titres de séjour de longue durée",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Le texte instaure le renouvellement automatique par l'administration des cartes de séjour pluriannuelles (jusqu'à quatre ans) et des cartes de résident (dix ans), sauf si l'administration dispose de raisons juridiques de s'y opposer, qu'il lui appartient alors de démontrer. L'objectif est de simplifier une procédure de renouvellement jugée coûteuse et chronophage, tant pour les personnes concernées que pour l'administration."
   },
   {
@@ -410,6 +468,7 @@
     "titre": "Prendre des mesures d’urgence contre la vie chère en outre-mer dans le secteur des services",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Ce texte s'attaque à la vie chère outre-mer dans le secteur des services, au-delà des seuls prix alimentaires. Il étend la péréquation tarifaire postale à l'ensemble du territoire national quel que soit le poids des envois, alors qu'elle ne s'appliquait auparavant aux territoires ultramarins que pour les envois de moins de 100 grammes. Il instaure des tarifs plafonds « résident » pour les billets d'avion, garantissant notamment aux bénéficiaires de l'aide à la continuité territoriale un reste à charge ne dépassant pas 50 % du prix moyen du billet, et interdit aux banques de pratiquer, dans les territoires ultramarins, des tarifs supérieurs à ceux appliqués en moyenne dans l'Hexagone pour les mêmes services, sous peine de sanctions de l'Autorité de contrôle prudentiel et de résolution."
   },
   {
@@ -417,6 +476,7 @@
     "titre": "Proposition de loi visant à reconnaître le préjudice subi par les personnes condamnées sur le fondement de la législation pénalisant l’avortement, et par toutes les femmes, avant la loi n° 75-17 du 17 janvier 1975 relative à l’interruption volontaire de la grossesse",
     "theme": "Justice",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "Le texte fait reconnaître par la Nation que l'application, avant la loi Veil de 1975, des dispositions pénalisant le recours, la pratique, l'accès et l'information sur l'avortement a porté atteinte à la santé, à l'autonomie sexuelle et reproductive et aux droits des femmes, causant des décès ainsi que des souffrances physiques et morales ; il reconnaît en particulier le préjudice subi par les personnes condamnées pour avoir pratiqué des avortements. Il crée une commission nationale indépendante, composée notamment de parlementaires, de magistrats, de professionnels de santé et de représentants d'associations, chargée de recueillir et transmettre la mémoire de ces atteintes aux droits."
   },
   {
@@ -424,6 +484,7 @@
     "titre": "Projet de loi spéciale prévue par l'article 45 de la loi organique n°2001-692 du 1er août 2001 relative aux lois de finances",
     "theme": "Budget / Finances",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Le texte autorise l'État à continuer de percevoir les impôts existants et à recourir à l'emprunt à compter du 1er janvier 2026, en l'absence d'adoption de la loi de finances pour l'année avant cette date. Il reconduit à titre provisoire, jusqu'au vote du budget, les prélèvements sur recettes de l'État au profit des collectivités territoriales et de l'Union européenne, selon les modalités prévues par la dernière loi de finances votée. Cette loi spéciale, prévue par l'article 45 de la loi organique relative aux lois de finances, vise à assurer la continuité de la vie nationale et le fonctionnement des services publics dans l'attente de l'adoption du budget 2026."
   },
   {
@@ -431,6 +492,7 @@
     "titre": "Améliorer l'accès au logement des travailleurs des services publics",
     "theme": "Logement",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "La loi vise à faciliter l'accès au logement des agents publics (enseignants, soignants, policiers, etc.) dans les territoires où ils peinent à se loger. Elle augmente l'offre de logements sociaux qui leur sont réservés en facilitant l'attribution de logements liés à leur fonction et en permettant aux employeurs publics d'obtenir davantage de droits de réservation de logements en contrepartie d'un apport en terrain. Un dispositif spécifique élargit également l'accès à des logements sociaux réservés pour certains métiers liés à la sécurité."
   },
   {
@@ -438,6 +500,7 @@
     "titre": "Projet de loi relatif à l’organisation des jeux Olympiques et Paralympiques de 2030",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "resume": "Le texte adapte le droit français pour l'organisation des jeux Olympiques et Paralympiques d'hiver 2030 dans les Alpes françaises, sur le modèle de la loi de 2018 pour Paris 2024. Il reconnaît au Comité international olympique, au Comité international paralympique et au comité d'organisation (COJOP) la qualité d'organisateurs et leurs droits d'exploitation, et permet aux régions Auvergne-Rhône-Alpes et Provence-Alpes-Côte d'Azur d'accorder une garantie financière en cas de déficit du COJOP. Il crée une charte du volontariat olympique, étend le contrôle de la Cour des comptes et de l'Agence française anticorruption aux organismes chargés des jeux, et prévoit des dérogations temporaires en matière d'urbanisme, d'environnement et d'expropriation pour accélérer la construction des infrastructures nécessaires."
   },
   {
@@ -445,6 +508,7 @@
     "titre": "Création d’un centre hospitalier universitaire en Corse",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "resume": "Le texte impose l'obligation légale de doter chaque région d'au moins un centre hospitalier universitaire (CHU), la Corse étant actuellement la seule région de France, départements d'outre-mer compris, à n'en posséder aucun. Il fixe un calendrier de mise en œuvre : un décret devra définir les étapes de création, d'ici le 1er janvier 2030, d'abord d'un centre hospitalier régional puis d'un centre hospitalier universitaire en Corse, ce dernier reposant sur une convention avec l'Università di Corsica Pasquale Paoli."
   },
   {
@@ -452,6 +516,7 @@
     "titre": "Optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps",
     "theme": "Santé",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Cette loi élargit l'accès à un logement décent pour les familles d'un enfant atteint d'une maladie grave, interdit aux bailleurs de résilier unilatéralement leur bail, et suspend les obligations de remboursement de crédit pour les bénéficiaires de l'allocation journalière de présence parentale. Elle adapte cette allocation aux situations de garde alternée et prévoit un réexamen de sa durée après un minimum de six mois. Elle étend aussi l'hébergement temporaire non médicalisé aux parents d'enfants hospitalisés, accélère à titre expérimental dans dix départements l'attribution de l'allocation d'éducation de l'enfant handicapé, garantit une prise en charge intégrale des accompagnements psychologiques des enfants concernés et instaure la gratuité du stationnement dans les établissements de santé pour ces familles."
   },
   {
@@ -459,6 +524,7 @@
     "titre": "Remboursement intégral des fauteuils roulants par l’Assurance maladie",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 5,
     "resume": "Ce texte instaure le remboursement intégral par l'assurance maladie de tous les fauteuils roulants, ainsi que de leurs accessoires, options et réparations, dès lors qu'ils sont prescrits par un médecin selon les besoins de la personne, sans plafond de prix qui exclurait certains modèles de la prise en charge comme le prévoyait une réforme alors en discussion. La nomenclature des produits remboursables doit être révisée régulièrement pour intégrer les évolutions technologiques et le matériel destiné à la pratique du handisport, et le texte réhabilite un observatoire chargé de suivre les prix des aides techniques."
   },
   {
@@ -466,6 +532,7 @@
     "titre": "Projet de loi de finances de fin de gestion pour 2024",
     "theme": "Budget / Finances",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Ce texte budgétaire ajuste en fin d'année les crédits et les prévisions de recettes de l'État pour 2024, sans modifier le scénario macroéconomique retenu (croissance de 1,1 % du PIB, déficit public de 6,1 %). Il ouvre 4,2 milliards d'euros de crédits supplémentaires pour financer des dépenses imprévues (soutien à la Nouvelle-Calédonie, aide à l'Ukraine, allocation aux adultes handicapés, bourses étudiantes, Jeux olympiques et paralympiques), tout en annulant 5,6 milliards d'euros de crédits sur le même périmètre, principalement en mobilisant la réserve de précaution. Il ajuste également certaines recettes, notamment la fraction de TVA affectée au financement de l'audiovisuel public."
   },
   {
@@ -473,6 +540,7 @@
     "titre": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
     "theme": "Numérique",
     "notoriete": 4,
+    "comprehensibilite": 5,
     "resume": "Le texte interdit l'accès aux réseaux sociaux et plateformes vidéo jugés les plus à risque avant l'âge de 15 ans, ce seuil étant précisé par décret après avis de l'Arcom. Pour les autres plateformes, l'inscription des 13-15 ans est conditionnée à l'accord exprès d'un représentant légal, qui peut fixer les contenus autorisés et la durée d'utilisation quotidienne ; tout contrat conclu en violation de ces règles est nul de plein droit. Le texte interdit aussi l'usage du téléphone portable au lycée à partir de la rentrée 2026-2027 et encourage l'absence d'exposition aux écrans pour les enfants de moins de trois ans dans les structures d'accueil."
   },
   {
@@ -480,6 +548,7 @@
     "titre": "Exercer l’accès à l’emploi, pérenniser et étendre progressivement l’expérimentation Territoires zéro chômeur longue durée comme solution de retour à l’emploi pour les personnes privées durablement d’emploi",
     "theme": "Travail / Économie",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Le texte pérennise et étend progressivement l'expérimentation Territoires zéro chômeur de longue durée, qui permet à des personnes privées durablement d'emploi d'accéder à un contrat à durée indéterminée à temps choisi au sein d'entreprises à but d'emploi (EBE), en s'appuyant sur des comités locaux pour l'emploi chargés d'identifier les besoins des territoires. Il autorise l'habilitation de nouveaux territoires au-delà des 83 déjà engagés dans le dispositif. L'objectif est de démontrer que, moyennant une adaptation des postes, chaque personne volontaire peut retrouver un emploi durable, sans concurrencer les structures existantes d'insertion par l'activité économique."
   },
   {
@@ -487,6 +556,7 @@
     "titre": "Moderniser la gestion du patrimoine immobilier de l'État",
     "theme": "Budget / Finances",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Le texte transfère une large partie du parc immobilier de l'État à une nouvelle foncière publique, détenue à 100 % par l'État mais gérée de façon autonome. Cette foncière facture désormais un loyer aux administrations occupantes, y compris aux ministères, afin de rendre visible le coût réel de l'occupation des locaux et d'inciter à une utilisation plus rationnelle des surfaces."
   },
   {
@@ -494,6 +564,7 @@
     "titre": "Mettre fin au devoir conjugal",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "resume": "Le texte inscrit dans le code civil l'obligation pour chaque époux de respecter le consentement de l'autre et précise explicitement qu'un divorce pour faute ne peut plus être prononcé au motif de l'absence ou du refus de relations sexuelles au sein du couple. Cette réforme fait suite à la condamnation de la France par la Cour européenne des droits de l'homme en janvier 2025, dans une affaire où un divorce aux torts exclusifs d'une épouse avait été fondé sur son refus d'entretenir des relations sexuelles avec son mari."
   },
   {
@@ -501,6 +572,7 @@
     "titre": "Réparer les préjudices causés par la transplantation de mineurs de La Réunion en France hexagonale de 1962 à 1984",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "La loi crée une commission de reconnaissance des ex-mineurs réunionnais transplantés en France hexagonale entre 1962 et 1984 (les « enfants de la Creuse »), chargée de veiller à la mise en œuvre des recommandations du rapport officiel sur ce sujet. Elle institue une journée nationale d'hommage à ces enfants, ainsi que des « maisons de l'accueil et de la protection de l'enfance », dont au moins une dans le département de la Creuse. Elle définit enfin les conditions d'une allocation de réparation financée par un fonds de solidarité géré par le conseil départemental de La Réunion, pour les ex-mineurs identifiés qui en font la demande."
   },
   {
@@ -508,6 +580,7 @@
     "titre": "Garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail",
     "theme": "Travail / Économie",
     "notoriete": 1,
+    "comprehensibilite": 5,
     "resume": "Le texte impose aux hôpitaux publics la gratuité du stationnement pour les patients pendant toute la durée de leur prise en charge, pour les personnels sur leur temps de travail, et pour les visiteurs à hauteur de deux heures par jour ; au-delà, il plafonne les tarifs à 15 euros par jour et 100 euros par mois. Il crée un mécanisme de financement complémentaire pour les hôpitaux qui respectent ce principe de gratuité, et prévoit un délai de deux ans pour les établissements ayant délégué la gestion de leur parking à un opérateur privé, le temps de renégocier leur contrat. Un rapport annuel des agences régionales de santé doit vérifier la bonne application de la mesure."
   },
   {
@@ -515,6 +588,7 @@
     "titre": "L’intérêt des enfants",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "resume": "Le texte renforce les contrôles des établissements et lieux d'accueil de la protection de l'enfance, désormais réalisés au moins tous les trois ans (contre cinq actuellement pour les structures accueillant des enfants de moins de six ans), et interdit les établissements privés à but lucratif dans ce secteur. Il crée une ordonnance de protection provisoire permettant au procureur de la République, en cas de danger, de confier un enfant à un parent ou à un tiers digne de confiance et d'interdire à certaines personnes tout contact avec lui, en complément du placement classique. Il étend enfin aux enfants confiés à un tiers digne de confiance ou à un accueillant bénévole les mêmes droits que ceux placés en établissement ou en famille d'accueil (complémentaire santé solidaire, bourses d'études supérieures), et élargit la compétence du juge des enfants aux questions de droit de visite et d'hébergement."
   },
   {
@@ -522,6 +596,7 @@
     "titre": "Relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique",
     "theme": "Environnement",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "resume": "La loi réorganise le régime juridique des installations hydroélectriques de plus de 4,5 mégawatts : les concessions actuelles sont progressivement remplacées par un régime d'autorisation associé à des droits d'occupation du domaine public, l'État indemnisant les concessionnaires sortants sur la base d'une évaluation indépendante. Elle oblige EDF à proposer sur le marché des produits représentatifs de sa production hydroélectrique, à un prix qui ne peut être inférieur au coût de production. Elle crée un comité de suivi consultatif sur l'eau et l'hydroélectricité, et prévoit des dispositions destinées à favoriser le développement de nouvelles stations de transfert d'énergie par pompage (STEP)."
   },
   {
@@ -529,6 +604,7 @@
     "titre": "Améliorer la protection des personnes ciblées par les réseaux de criminalité organisée",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "resume": "Le texte crée dans le code de la sécurité intérieure un mécanisme de protection pour les personnes dont les propos ou les actions, en lien avec la lutte contre la criminalité organisée et notamment le trafic de stupéfiants, les exposent à un danger grave pour leur vie ou leur intégrité physique, ainsi que pour leurs proches. Une commission nationale, inspirée de celle existant pour les repentis et témoins, détermine les mesures de protection et de réinsertion, qui peuvent inclure l'usage d'une identité d'emprunt ; la demande est déposée auprès d'un agent habilité et spécialement formé, saisi par le ministre de l'intérieur ou directement par la personne concernée. En cas d'urgence, les services compétents peuvent prendre les mesures nécessaires sans attendre la décision de la commission."
   },
   {
@@ -536,6 +612,7 @@
     "titre": "Faciliter l’exercice en France des médecins diplômés au Royaume-Uni avant le Brexit",
     "theme": "Santé",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "Cette loi rouvre une voie d'exercice de la médecine en France aux personnes ayant commencé leurs études de médecine au Royaume-Uni avant la fin de la période de transition du Brexit (31 décembre 2020), pour lesquelles la reconnaissance automatique de diplôme avait disparu avec la sortie du Royaume-Uni de l'Union européenne. Elle concerne les ressortissants français, andorrans, de l'UE/EEE et britanniques dans cette situation, sans les dispenser des démarches d'inscription à l'Ordre des médecins ni, selon les cas, d'une reconnaissance individuelle de leur spécialité."
   },
   {
@@ -543,6 +620,7 @@
     "titre": "Améliorer la protection des commerçants grâce à l’usage d’outils numériques",
     "theme": "Numérique",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "Ce texte autorise les commerçants et centres commerciaux particulièrement exposés au vol à utiliser des technologies d'analyse automatique des images captées par leurs systèmes de vidéoprotection existants, afin de détecter des comportements suspects et de lutter contre le vol à l'étalage. Il encadre strictement cet usage : ces outils ne peuvent pas recourir à la reconnaissance biométrique ni permettre d'identifier une personne de manière unique, et doivent respecter la loi Informatique et Libertés de 1978."
   },
   {
@@ -550,6 +628,7 @@
     "titre": "Extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "resume": "Le texte étend le droit de préemption commercial des communes, qui leur permet de racheter en priorité un bail commercial, un fonds de commerce ou un terrain commercial pour préserver la diversité des commerces de centre-ville, aux cessions de la majorité des parts d'une société civile immobilière (SCI) propriétaire d'un local commercial. Il vise à combler une lacune juridique qui permettait jusqu'ici de contourner ce droit de préemption lorsque le local commercial était détenu via une SCI plutôt qu'en direct."
   },
   {
@@ -557,6 +636,7 @@
     "titre": "Projet de loi d'urgence pour Mayotte",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "resume": "Adopté en urgence après le passage du cyclone Chido en décembre 2024, ce texte facilite la reconstruction de Mayotte en autorisant des constructions temporaires d'hébergement dispensées de formalités d'urbanisme, en accélérant les procédures d'autorisation et les marchés publics liés à la reconstruction, et en habilitant le gouvernement à légiférer par ordonnance pour résoudre les difficultés foncières. Il facilite les dons aux associations et collectivités pour financer la réparation des dommages, sur le modèle de la reconstruction de Notre-Dame. Il prévoit également des mesures de soutien immédiat à la population sinistrée : suspension temporaire du recouvrement des impôts et cotisations sociales, prolongation des droits au chômage et renforcement de l'activité partielle."
   },
   {
@@ -564,6 +644,7 @@
     "titre": "Création du cadre d'emploi des personnels de santé des services d’incendie et de secours",
     "theme": "Santé",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "resume": "Le texte crée un cadre d'emploi spécifique pour les professionnels de santé (médecins, pharmaciens, infirmiers, psychologues, vétérinaires) exerçant au sein des services d'incendie et de secours. Il précise les compétences de ces personnels, notamment celles des médecins sapeurs-pompiers, et permet l'intégration directe des personnels du service de santé des armées dans ce nouveau cadre. Il prévoit également des campagnes d'information pour valoriser ces métiers et encourager le volontariat, ainsi qu'un rapport du gouvernement sur les risques psychosociaux touchant les personnels des services d'incendie et de secours."
   },
   {
@@ -571,6 +652,7 @@
     "titre": "Renforcer l’effectivité des droits voisins de la presse",
     "theme": "Numérique",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "Le texte renforce les droits voisins des éditeurs et agences de presse vis-à-vis des plateformes numériques. Il confie à l'Arcom le pouvoir de fixer les conditions d'application de ces droits, d'arbitrer les négociations en cas de désaccord et de sanctionner les plateformes non conformes, à hauteur de 1 % maximum de leur chiffre d'affaires mondial. Il impose par ailleurs qu'au moins 25 % de la rémunération perçue par les éditeurs et agences de presse soit reversée aux journalistes et autres auteurs, avec une obligation de transparence sur les sommes versées par les plateformes."
   },
   {
@@ -578,6 +660,7 @@
     "titre": "Simplifier la sortie de l’indivision successorale",
     "theme": "Justice",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "resume": "Le texte modifie plusieurs règles du droit des successions afin de faciliter la sortie des situations d'indivision, notamment lorsqu'elles résultent de successions vacantes ou non réglées. Il abaisse le seuil de majorité nécessaire pour vendre un bien indivis, en le faisant passer des deux tiers à plus de la moitié des droits, sous contrôle du juge. Il crée aussi une base de données recensant les biens abandonnés pour les collectivités locales et permet d'expérimenter dans d'autres départements le mécanisme de partage judiciaire direct utilisé en Alsace-Moselle."
   },
   {
@@ -585,6 +668,7 @@
     "titre": "Renforcer la place des agriculteurs dans l’aménagement du territoire et à sécuriser l’exercice des activités agricoles face au changement climatique",
     "theme": "Environnement",
     "notoriete": 2,
+    "comprehensibilite": 2,
     "resume": "Le texte impose d'associer les organismes agricoles à l'élaboration des documents d'urbanisme (SCOT, PLU) lorsque ceux-ci réduisent les surfaces agricoles, en particulier celles bénéficiant de signes de qualité. Il prévoit également que les activités agricoles dont les horaires sont exceptionnellement modifiés en raison d'aléas climatiques soient réputées se poursuivre dans les mêmes conditions, ce qui protège les exploitants des recours pour troubles anormaux de voisinage."
   },
   {
@@ -592,6 +676,7 @@
     "titre": "Proposition de loi visant à soutenir les collectivités territoriales dans la prévention et la gestion des inondations",
     "theme": "Environnement",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "resume": "Le texte vise à mieux outiller les communes et intercommunalités pour prévenir et gérer les inondations. Il simplifie les règles applicables à l'entretien courant des cours d'eau par les collectivités, et accélère l'instruction et le label des programmes d'action de prévention des inondations (PAPI) en leur reconnaissant une raison impérative d'intérêt public majeur. Il crée en outre une réserve d'ingénierie ainsi qu'un guichet unique en préfecture pour accompagner les communes touchées."
   },
   {
@@ -599,6 +684,7 @@
     "titre": "Renforcer l’enseignement à la défense nationale dans le cadre du parcours de citoyenneté",
     "theme": "Éducation",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "Le texte renforce l'enseignement de défense dans le parcours de citoyenneté des élèves, y compris dans les établissements privés sous contrat. Il permet aux correspondants défense désignés par les communes d'intervenir dans cet enseignement et instaure un référentiel de contenu validé par le ministère de l'Éducation nationale après avis du Conseil supérieur des programmes. Le dispositif est étendu à la Nouvelle-Calédonie, à la Polynésie française et à Wallis-et-Futuna."
   },
   {
@@ -606,6 +692,7 @@
     "titre": "Renforcer le contrôle, la gouvernance et la responsabilité financière des agences et opérateurs de l’État",
     "theme": "Budget / Finances",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "resume": "Le texte renforce le contrôle exercé sur les agences et opérateurs de l'État, qui gèrent au total environ 73 milliards d'euros de fonds publics. Il institue un contrôle parlementaire, rattaché à la commission des finances de l'Assemblée nationale, sur les rémunérations les plus élevées versées au sein de ces organismes, et rend obligatoire la conclusion de contrats d'objectifs et de performance. Il impose enfin que l'État dispose d'une majorité au sein des organes délibérants des structures qu'il finance principalement, à l'exception des organismes d'enseignement supérieur ou de recherche."
   },
   {
@@ -613,6 +700,7 @@
     "titre": "Proposition de loi visant à permettre le remboursement des honoraires d'expert-comptable aux candidats",
     "theme": "Institutions",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "resume": "Le texte permet aux candidats à une élection de se faire rembourser les honoraires d'expert-comptable liés à la présentation de leur compte de campagne. Il modifie le code électoral pour inclure ces frais de certification comptable dans le compte de campagne, les rendant éligibles au remboursement forfaitaire de l'État. La mesure a été adoptée dans les mêmes termes par le Sénat et l'Assemblée nationale afin de s'appliquer rapidement, notamment aux élections municipales de mars 2026."
   },
   {
@@ -620,6 +708,7 @@
     "titre": "Proposition de loi visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "resume": "Cette loi élargit la liste des lieux de privation de liberté, dont les geôles et dépôts des juridictions judiciaires, que les parlementaires et les bâtonniers peuvent visiter sans autorisation préalable. Elle leur permet de se faire accompagner (collaborateurs parlementaires, avocats) et autorise les parlementaires à s'entretenir confidentiellement avec une personne détenue si celle-ci y consent. Le droit de visite des établissements psychiatriques accueillant des patients en soins sans consentement est étendu aux bâtonniers."
   },
   {
@@ -627,6 +716,7 @@
     "titre": "Exercice de la démocratie agricole",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Le texte permet aux administrateurs de coopératives agricoles ayant choisi l'activité de distribution de participer aux bureaux des chambres d'agriculture et au conseil d'administration de Chambres d'agriculture France, dont ils étaient exclus depuis la loi EGALIM au nom de la séparation entre vente et conseil ; ils s'engagent en contrepartie à ne pas prendre part aux débats sur l'activité de conseil. Il simplifie par ailleurs les conditions d'inscription sur les listes électorales de la Mutualité sociale agricole (MSA) en supprimant l'exclusion des cotisants ayant une dette de plus de six mois, tout en maintenant cette condition pour être éligible. Il ajuste enfin le calendrier des élections des délégués et administrateurs de la MSA de 2025, dont les mandats avaient été décalés par la crise sanitaire de 2020."
   },
   {
@@ -634,6 +724,7 @@
     "titre": "Prendre des mesures d’urgence contre la vie chère et réguler la concentration des acteurs économiques dans les territoires d’outre-mer",
     "theme": "Travail / Économie",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "resume": "Le texte modifie le code de commerce pour intégrer pleinement les observatoires des prix, des marges et des revenus (OPMR) à la négociation annuelle sur la baisse des prix des produits de première nécessité dans les territoires d'outre-mer ; en l'absence d'accord un mois après l'ouverture des négociations, le préfet peut réglementer les prix sur la base des prix les plus bas pratiqués en France hexagonale. Il renforce les sanctions en cas de non-publication des comptes par les sociétés, abaisse à 5 millions d'euros le seuil déclenchant le contrôle des opérations de concentration économique outre-mer, et rend obligatoire une autorisation d'exploitation commerciale pour tout magasin de plus de 300 mètres carrés."
   },
   {
@@ -641,6 +732,7 @@
     "titre": "Instauration d’un nombre minimum de soignants par patient hospitalisé",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Ce texte inscrit dans le code de la santé publique un ratio minimal de personnel soignant (infirmiers et aides-soignants) par lit ouvert ou par passage pour les activités ambulatoires, différencié selon les spécialités et fixé par décret après avis de la Haute Autorité de santé pour une durée maximale de cinq ans. Dans les établissements du service public hospitalier, l'organisation des soins doit être approuvée par les commissions médicales et infirmières, et le chef d'établissement doit alerter l'agence régionale de santé si le ratio n'est pas respecté pendant plus de trois jours consécutifs."
   },
   {
@@ -648,6 +740,7 @@
     "titre": "Projet de loi relatif à la lutte contre les fraudes sociales et fiscales",
     "theme": "Budget / Finances",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Cette loi renforce les moyens de lutte contre la fraude aux finances publiques. Elle alourdit les sanctions administratives et pénales, notamment lorsque la fraude est commise en bande organisée ou facilitée par un tiers, et crée une procédure de \"flagrance sociale\" pour les infractions de travail dissimulé. Elle organise un partage élargi de données entre administrations, dont l'accès aux coordonnées bancaires liées aux aides publiques via une interface gérée par l'administration fiscale, et renforce le contrôle des organismes de formation et l'usage du compte personnel de formation."
   },
   {
@@ -655,6 +748,7 @@
     "titre": "Simplifier le millefeuille territorial par la collectivité unique",
     "theme": "Institutions",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "resume": "Le texte transforme la Collectivité européenne d'Alsace en une collectivité territoriale à statut particulier, qui exerce à la fois les compétences d'un département et d'une région et sort à ce titre du périmètre administratif de la région Grand Est. Une disposition initiale, qui visait à créer une procédure générale permettant à d'autres territoires volontaires de fusionner région et département de la même manière, a été supprimée lors de l'examen en commission."
   },
   {
@@ -662,6 +756,7 @@
     "titre": "Rendre accessible à tous les étudiants le repas à 1 euro",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 5,
     "resume": "Le texte généralise le dispositif du repas à 1 euro à l'ensemble des étudiants, sans condition de ressources, alors qu'il était jusque-là réservé aux étudiants boursiers et aux étudiants en situation de précarité. Il impose aux centres régionaux des œuvres universitaires et scolaires (CROUS) de proposer, dans l'ensemble de leurs sites de restauration, au moins une offre de repas dont le prix ne peut dépasser 1 euro."
   },
   {
@@ -669,6 +764,7 @@
     "titre": "Reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance",
     "theme": "Environnement",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "resume": "Le texte inscrit dans la loi un plan national d'adaptation au changement climatique et une trajectoire de réchauffement de référence, qui devront être pris en compte dans les documents locaux d'urbanisme. Il remplace le principe de reconstruction à l'identique par celui d'une reconstruction résiliente dans les zones exposées aux risques naturels, en conditionnant le versement des indemnités catastrophe naturelle à la réalisation de travaux réduisant la vulnérabilité des bâtiments. Il autorise aussi les assureurs à moduler la surprime appliquée aux biens situés en zones à risques élevés, avec un réexamen du taux tous les cinq ans."
   },
   {
@@ -676,6 +772,7 @@
     "titre": "Encadrer les regroupements pédagogiques intercommunaux afin de garantir l’égalité d’accès à l’école en milieu rural",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Le texte encadre juridiquement les regroupements pédagogiques intercommunaux (RPI) qui organisent l'école en milieu rural. Il impose l'avis du directeur académique des services de l'éducation nationale avant l'approbation d'un RPI par les communes concernées et simplifie le contenu obligatoire des conventions constitutives (durée, conditions de retrait ou de dissolution, répartition des charges, organisation du transport scolaire). Il étend par ailleurs les règles de capacité d'accueil aux RPI conventionnels et garantit la présence, au sein des conseils d'école, des maires des communes qui n'ont pas d'école sur leur territoire."
   },
   {
@@ -683,6 +780,7 @@
     "titre": "Lutter contre les pannes d'ascenseurs non prises en charge",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "resume": "Le texte impose aux sociétés chargées de l'entretien des ascenseurs d'intervenir dans un délai de deux jours ouvrés après signalement d'une panne, puis de résoudre le sinistre sous huit jours ouvrés sauf motif impérieux, sous peine d'une astreinte de 1 000 euros par jour de retard. Il les oblige également à constituer un stock de pièces détachées permettant de faire face à l'usure des équipements, sous peine d'amendes pouvant atteindre plusieurs pourcents de leur chiffre d'affaires mondial. Si la panne n'est pas résolue dans les deux jours, la société doit organiser, à ses frais, l'accompagnement des occupants à mobilité réduite pour leur ravitaillement et leur accès aux soins ; à défaut, la commune peut s'y substituer et lui en facturer le coût."
   },
   {
@@ -690,6 +788,7 @@
     "titre": "Mesures d’urgence pour protéger nos enfants accueillis en crèches privées à but lucratif",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "Le texte interdit aux fonds d'investissement d'acquérir, de gérer ou de commercialiser des titres ou parts d'entreprises gérant des crèches, sous peine de sanctions pouvant aller jusqu'à une amende comprise entre 1 % et 5 % du chiffre d'affaires du fonds concerné. Il relève le plafond des sanctions financières applicables aux crèches qui ne respectent pas les règles de sécurité et de qualité d'accueil, celui-ci passant d'un maximum de 5 % à une fourchette comprise entre 5 % et 15 %. Il interdit par ailleurs les formations entièrement à distance pour l'obtention du CAP Petite Enfance, jugées insuffisantes pour garantir aux futurs professionnels une pratique réelle auprès des enfants."
   },
   {
@@ -697,6 +796,7 @@
     "titre": "Renforcer la pénalisation de l’organisation de rave-parties",
     "theme": "Justice",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Le texte crée un délit pour l'organisation non déclarée de rave-parties, puni de six mois d'emprisonnement et de 5 000 euros d'amende, et instaure une amende pour les simples participants ; les associations menant des actions de réduction des risques sont exclues de ces sanctions. Il abaisse par ailleurs, de plusieurs centaines à 250 participants, le seuil au-delà duquel une déclaration préalable en préfecture est obligatoire pour ce type d'événement festif. Il crée enfin une charte d'organisation destinée à favoriser le dialogue entre autorités publiques, organisateurs et élus locaux."
   },
   {
@@ -704,6 +804,7 @@
     "titre": "Simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques",
     "theme": "Travail / Économie",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "resume": "Cette loi modifie plusieurs règles de la commande publique. Elle précise que les accords-cadres ne comportent pas d'exclusivité automatique pour leur titulaire, permettant aux acheteurs publics de recourir ponctuellement à d'autres prestataires, et autorise le recours à un tiers en cas de défaillance d'un titulaire. Elle porte de 10 % à 30 % le taux minimal d'avance obligatoire versée aux PME sur les marchés publics, et crée un label \"Achat public local et responsable\" ainsi qu'une obligation de rapport annuel pour les centrales d'achat."
   },
   {
@@ -711,6 +812,7 @@
     "titre": "Proposition de loi visant à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées",
     "theme": "Travail / Économie",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "resume": "Cette loi crée une procédure simplifiée, sans passage devant un juge, pour recouvrer les créances commerciales certaines, liquides et exigibles entre commerçants. Un commissaire de justice adresse au débiteur un commandement de payer ; si celui-ci ne conteste pas la dette, le commissaire dresse un procès-verbal que le greffier du tribunal de commerce rend exécutoire, permettant le recouvrement direct sans procès. En cas de contestation, l'affaire est renvoyée devant le juge."
   },
   {
@@ -718,6 +820,7 @@
     "titre": "Améliorer le traitement des maladies affectant les cultures végétales à l’aide d’aéronefs télépilotés",
     "theme": "International",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "Le texte assouplit l'interdiction de principe de la pulvérisation aérienne de produits phytopharmaceutiques pour autoriser, sous certaines conditions, le recours à des drones sur les vignes en forte pente, les bananeraies et les vignes-mères de porte-greffes, pour des produits à faible risque ou autorisés en agriculture biologique, lorsque cet usage présente des avantages manifestes pour la santé des personnes travaillant sur les parcelles ou pour l'environnement par rapport à l'épandage terrestre. Il permet également la mise en œuvre de programmes d'essais de pulvérisation par drone sur d'autres types de parcelles et de cultures, évalués par l'Agence nationale de sécurité sanitaire de l'alimentation (Anses), pouvant conduire à une extension du dispositif si leurs résultats sont favorables."
   },
   {
@@ -725,6 +828,7 @@
     "titre": "Projet de loi relatif à la restitution de biens culturels provenant d’États qui, du fait d’une appropriation illicite, en ont été privés",
     "theme": "Société",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Cette loi crée une procédure permettant de sortir des collections publiques françaises des biens culturels ayant fait l'objet d'une appropriation illicite, afin de les restituer aux États dont ils proviennent. Chaque demande est examinée par un comité scientifique bilatéral dans un délai de deux ans, les commissions parlementaires compétentes étant informées de la procédure et les rapports publiés sauf opposition de l'État demandeur. Le texte élargit aussi la procédure judiciaire d'annulation d'acquisition pour les biens volés ou illicitement exportés, et s'applique aux demandes de restitution déjà en cours d'examen."
   },
   {
@@ -732,6 +836,7 @@
     "titre": "Renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat",
     "theme": "Sécurité",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "La loi renforce la surveillance et la prise en charge des personnes représentant une menace terroriste et présentant des troubles psychiatriques graves, et vise à améliorer l'efficacité des dispositifs de prévention et de lutte contre le terrorisme. Elle étend par ailleurs le cadre juridique de la rétention administrative applicable aux étrangers condamnés pour des infractions pénales. Le texte a été adopté selon une procédure accélérée, puis via une commission mixte paritaire, avant d'être examiné par le Conseil constitutionnel."
   },
   {
@@ -739,6 +844,7 @@
     "titre": "Contre toutes les fraudes aux aides publiques",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "La loi crée un pouvoir de suspension, pendant trois mois maximum, du versement d'une aide publique en cas d'indices de fraude, et facilite l'échange d'informations entre administrations, organismes verseurs d'aides et services de lutte contre la fraude. Elle rétablit le délit d'absence d'immatriculation au registre national des entreprises, interdit le démarchage téléphonique, par SMS ou réseaux sociaux pour les travaux de rénovation énergétique ou d'adaptation du logement au handicap, et impose d'informer le consommateur en cas de recours à la sous-traitance. Elle permet enfin aux agents de contrôle de suspendre ou retirer le label RGE (reconnu garant de l'environnement) en cas d'anomalies graves, notamment pour lutter contre la fraude aux certificats d'économie d'énergie et aux aides comme MaPrimeRénov'."
   },
   {
@@ -746,6 +852,7 @@
     "titre": "Accélérer le développement du transport maritime à propulsion vélique",
     "theme": "Environnement",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Ce texte définit un navire à propulsion vélique comme un navire dont l'énergie éolienne assure au moins 5 % de la propulsion, et intègre ce critère dans les appels d'offres publics pour l'achat de navires. Il prévoit une exonération de cotisations sociales pour les armateurs exploitant ces navires, étend le suramortissement \"vert\" et les certificats d'économies d'énergie à cette filière, et crée un fonds de décarbonation du transport maritime réservé aux navires battant pavillon français. Il prévoit aussi des avantages fiscaux spécifiques pour le transport du rhum traditionnel par voilier."
   },
   {
@@ -753,6 +860,7 @@
     "titre": "Garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseur",
     "theme": "Justice",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Ce texte instaure une information systématique des victimes de certaines infractions sexuelles, ou de leurs représentants légaux si elles sont mineures, en cas de remise en liberté de l'auteur des faits, sauf si la victime refuse d'être informée. Il élargit la consultation des victimes avant la libération d'un condamné et renforce les interdictions judiciaires pouvant lui être imposées. Il crée un guichet unique national, placé sous l'autorité de la délégation interministérielle à l'aide aux victimes, chargé de garantir l'information et la protection des victimes, avec information du chef d'établissement scolaire pour les victimes mineures scolarisées."
   },
   {
@@ -760,6 +868,7 @@
     "titre": "Renforcer la lutte contre les violences faites aux femmes et aux enfants",
     "theme": "Société",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "resume": "Le texte rend imprescriptibles, au civil, les viols commis sur des mineurs, leur permettant d'obtenir réparation sans limite de délai. Il étend aux personnes majeures le mécanisme de « prescription glissante », qui prolonge le délai de prescription d'une infraction sexuelle lorsque son auteur commet une nouvelle infraction similaire sur une autre victime avant l'expiration de ce délai. Il inscrit enfin dans le code pénal une définition du contrôle coercitif, qualifiant de violences psychologiques les manœuvres délibérées et répétées de déstabilisation psychologique, sociale et physique qui diminuent la capacité d'action de la victime et créent un état de vulnérabilité ou de sujétion."
   },
   {
@@ -767,6 +876,7 @@
     "titre": "Mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers, les maladies rares et les maladies orphelines de l’enfant",
     "theme": "Santé",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Ce texte crée une contribution financière versée par les entreprises pharmaceutiques, dont le taux a été fixé à 0,10 %, pour financer l'innovation thérapeutique contre les cancers et les maladies rares ou orphelines de l'enfant. Il prévoit aussi la remise au Parlement d'un rapport gouvernemental évaluant la possibilité d'abaisser de 18 à 12 ans l'âge minimum d'accès aux essais cliniques en cancérologie, sous réserve de garanties de sécurité pour les mineurs concernés."
   },
   {
@@ -774,6 +884,7 @@
     "titre": "Pour une montagne vivante et souveraine",
     "theme": "Environnement",
     "notoriete": 5,
+    "comprehensibilite": 1,
     "resume": "Le texte adapte plusieurs règles applicables aux territoires de montagne, notamment en matière d'urbanisme (principe de continuité de l'urbanisation), de gestion de l'eau (compétence Gemapi) et de bâtiments agricoles, dont le champ est étendu dans les zones non contiguës aux zones déjà urbanisées. Il vise aussi à améliorer l'accès aux services publics en montagne, comme l'école ou la santé, et assure une coordination avec la loi sur la souveraineté agricole, notamment pour préserver le pastoralisme dans les politiques de gestion de la ressource en eau."
   },
   {
@@ -781,6 +892,7 @@
     "titre": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
     "theme": "Sécurité",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "resume": "Cette loi actualise la programmation militaire 2024-2030 en ajoutant 36 milliards d'euros de ressources financières supplémentaires pour la période 2026-2030 et en révisant les objectifs d'effectifs des armées. Elle lance des études sur le successeur du char Leclerc, sur un porte-avions doté de catapultes électromagnétiques et sur une motorisation nationale pour l'avion de combat futur, tout en consacrant au moins 550 millions d'euros à l'équipement des réserves militaires. Elle crée un nouveau service national militaire volontaire destiné à remplacer le dispositif existant et prévoit diverses mesures de simplification administrative ainsi qu'un renforcement du service de santé des armées."
   },
   {
@@ -788,6 +900,7 @@
     "titre": "Proposition de loi organique portant actualisation du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
     "theme": "Institutions",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "resume": "Cette loi organique modifie la composition du corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie, en y intégrant les personnes nées en Nouvelle-Calédonie qui étaient inscrites sur la liste électorale annexe lors des précédents scrutins. Elle s'inscrit dans le cadre de l'accord politique du 12 juillet 2025 sur l'avenir institutionnel de la Nouvelle-Calédonie, en vue du renouvellement du congrès et des assemblées de province."
   },
   {
@@ -795,6 +908,7 @@
     "titre": "Restreindre la vente de protoxyde d’azote aux seuls professionnels et renforcer les actions de prévention sur les consommations détournées",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "resume": "Le texte interdit la vente aux particuliers de protoxyde d'azote, dans les commerces physiques comme en ligne, la réservant aux professionnels de la santé et de la restauration via des circuits de distribution dédiés. Il charge la mission interministérielle de lutte contre les drogues et les conduites addictives (Mildeca), en lien avec les agences régionales de santé, d'assurer une veille sur la consommation détournée de ce gaz et de mener des actions de prévention, notamment auprès des établissements scolaires, et prévoit la remise d'un rapport d'évaluation du gouvernement dans les douze mois suivant la promulgation."
   },
   {
@@ -802,6 +916,7 @@
     "titre": "Abrogation du Code noir",
     "theme": "Société",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Cette loi abroge formellement l'ordonnance de mars 1685 dite « Code noir » ainsi que les textes coloniaux qui en ont permis l'application, notamment les lettres patentes de 1723 sur les îles Bourbon et de France et l'édit de 1724 sur la Louisiane. Elle impose au Gouvernement de remettre au Parlement, dans un délai d'un an, un rapport recensant les dispositions de droit colonial relatives à l'esclavage restées en vigueur entre 1685 et 1946, évaluant leurs conséquences économiques, sociales et culturelles, et formulant des propositions sur l'enseignement de l'esclavage et la création de lieux de mémoire."
   },
   {
@@ -809,6 +924,7 @@
     "titre": "Proposition de loi visant à étendre à toutes les communes la compensation financière prévue pour les communes de plus de 3 500 habitants pour l’exercice de l’ensemble des compétences du service public de la petite enfance",
     "theme": "Société",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "resume": "Cette loi étend aux communes de moins de 3 500 habitants, ainsi qu'aux intercommunalités et syndicats mixtes concernés, la compensation financière de l'État jusqu'alors réservée aux communes plus peuplées pour l'exercice de l'ensemble des compétences du service public de la petite enfance. À compter du 1er janvier 2027, cette aide sera répartie entre les collectivités concernées en tenant compte notamment du nombre de naissances et du potentiel financier par habitant de chaque commune."
   },
   {
@@ -816,6 +932,7 @@
     "titre": "Pour la mobilisation de l’habitat existant en réponse à la crise du logement",
     "theme": "Logement",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "Cette loi modifie le dispositif fiscal de soutien aux bailleurs privés qui rénovent des logements anciens pour les louer à loyers modérés (dit « Jeanbrun ») : elle l'étend aux maisons individuelles et abaisse de 30 % à 20 % de la valeur du bien le seuil minimal de travaux requis pour en bénéficier. Elle vise ainsi à faciliter la remise sur le marché locatif de logements existants inoccupés ou dégradés plutôt que de privilégier la construction neuve."
   },
   {
@@ -823,6 +940,7 @@
     "titre": "Proposition de loi portant pérennisation du contrat de professionnalisation expérimental",
     "theme": "Travail / Économie",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "resume": "Cette loi rend permanent le contrat de professionnalisation expérimental, un dispositif créé en 2018 et jusqu'ici temporaire, qui permet à des personnes éloignées de l'emploi d'acquérir des compétences ciblées répondant aux besoins des entreprises. Elle consacre la possibilité de valider des blocs de compétences plutôt qu'une certification complète, selon une logique de parcours modulaires."
   },
   {
@@ -830,6 +948,7 @@
     "titre": "Protéger les enfants et lutter contre les violences en milieu scolaire",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "resume": "Cette loi interdit explicitement les châtiments corporels et les violences psychologiques sur les enfants en milieu scolaire, crée un fonds d'indemnisation pour les victimes et institue une journée nationale d'hommage le 19 novembre. Elle renforce la formation du personnel éducatif à la détection et à la prévention des violences, élargit les vérifications d'honorabilité aux intervenants extérieurs et accompagnateurs de sorties scolaires, et impose l'information des parents en cas de sanction disciplinaire contre un membre du personnel. Elle renforce également le contrôle de l'État sur les établissements privés sous contrat."
   },
   {
@@ -837,6 +956,7 @@
     "titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
     "theme": "Travail / Économie",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "resume": "Ce projet de loi vise à faciliter la réalisation de projets agricoles, notamment de stockage de l'eau et de bâtiments d'élevage, en simplifiant certaines normes environnementales et administratives jugées pénalisantes pour la production. Il renforce aussi la lutte contre la concurrence déloyale et cherche à rééquilibrer les rapports de force entre agriculteurs, industriels et distributeurs dans la chaîne alimentaire. Le texte comporte également des mesures de protection du foncier agricole et des exploitations contre le vol, les dégradations et la prédation."
   },
   {
@@ -844,6 +964,7 @@
     "titre": "Projet de loi portant transposition de l’avenant n°3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage",
     "theme": "Travail / Économie",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "resume": "Cette loi transpose un avenant à la convention d'assurance chômage négocié par les partenaires sociaux le 25 février 2026, qui réduit la durée maximale d'indemnisation des demandeurs d'emploi ayant conclu une rupture conventionnelle individuelle : quinze mois pour les moins de 55 ans et vingt mois et demi pour les 55 ans et plus. Cette négociation avait été engagée par le Gouvernement pour répondre aux enjeux de soutenabilité financière du régime d'assurance chômage."
   },
   {
@@ -851,6 +972,7 @@
     "titre": "Reconnaître la responsabilité de l’État et indemniser les victimes du chlordécone",
     "theme": "Santé",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Cette loi reconnaît la responsabilité de l'État dans les dommages sanitaires, moraux, écologiques et économiques causés par l'utilisation prolongée du chlordécone, un insecticide employé dans les bananeraies de Guadeloupe et de Martinique entre 1972 et 1993. Elle crée une commission chargée d'indemniser les victimes de cette contamination, qu'elles aient été exposées dans un cadre professionnel ou non, et prévoit des travaux de recherche sur les pathologies liées à cette exposition, notamment chez les femmes."
   },
   {
@@ -858,6 +980,7 @@
     "titre": "Proposition de loi visant à améliorer les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l'exercice des missions d'expert judiciaire",
     "theme": "Justice",
     "notoriete": 2,
+    "comprehensibilite": 1,
     "resume": "Cette loi renforce les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués (AGRASC), chargée d'exécuter les décisions de confiscation et de gérer les biens saisis ou confisqués dans le cadre de procédures pénales. Elle fixe un délai de paiement de 180 jours pour la rémunération des experts judiciaires et prévoit la désignation d'un expert-coordonnateur chargé du suivi des frais de justice dans chaque cour d'appel."
   },
   {
@@ -865,6 +988,7 @@
     "titre": "Réduire les risques sanitaires liés aux contaminations au cadmium dans l’alimentation",
     "theme": "Santé",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "resume": "Cette loi interdit progressivement l'importation, la détention, la vente, la distribution et l'utilisation d'engrais phosphatés dont la teneur en cadmium dépasse un seuil fixé par la loi, afin de réduire la contamination de la chaîne alimentaire par ce métal lourd. Ce seuil est fixé à 40 milligrammes de cadmium par kilogramme d'anhydride phosphorique à partir du 1er janvier 2027, puis abaissé à 20 milligrammes à partir du 1er janvier 2030."
   },
   {
@@ -872,6 +996,7 @@
     "titre": "Garantir l'interdiction de la vaisselle en plastique dans la restauration collective accueillant du jeune public et liée à la petite enfance",
     "theme": "Environnement",
     "notoriete": 1,
+    "comprehensibilite": 5,
     "resume": "Cette loi étend l'interdiction de la vaisselle jetable en plastique (gobelets, assiettes, récipients et couverts) à l'ensemble des services de restauration collective accueillant des enfants de moins de six ans, en complément des interdictions déjà en vigueur dans les cantines scolaires et universitaires."
   },
   {
@@ -879,6 +1004,7 @@
     "titre": "Mesures de justice en faveur de la revalorisation des pensions de retraites agricoles",
     "theme": "Travail / Économie",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "resume": "Cette loi supprime l'écrêtement appliqué au complément différentiel de points de retraite complémentaire obligatoire des agriculteurs non-salariés, ce qui permet une revalorisation plus complète de leurs pensions. Elle étend le bénéfice de ce complément aux conjoints collaborateurs et aux aides familiaux, jusqu'alors exclus, et retire les pensions de réversion et les bonifications pour enfants du calcul du seuil de plafonnement de la pension majorée. Elle crée une taxe additionnelle sur les transactions financières pour financer ces mesures et demande au Gouvernement plusieurs rapports, notamment sur l'adaptation des montants minimums aux outre-mer."
   },
   {
@@ -886,6 +1012,7 @@
     "titre": "Protéger la santé mentale des agricultrices et des agriculteurs",
     "theme": "Santé",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "resume": "La loi renforce le dispositif des « sentinelles agricoles » en rendant obligatoire une formation aux premiers secours en santé mentale et crée un guichet départemental unique permettant l'auto-signalement des agriculteurs en difficulté psychologique, avec une attention particulière portée aux femmes, aux nouveaux installés et aux saisonniers. Une mission nationale associant les ministères concernés et les syndicats agricoles est instaurée pour coordonner l'accompagnement, et l'accès aux congés de remplacement est facilité via un crédit d'impôt porté à 80 %. Le gouvernement devra remettre au Parlement un rapport évaluant l'efficacité de ces dispositifs."
   },
   {
@@ -893,6 +1020,7 @@
     "titre": "Renforcer la solidarité envers les retraités pauvres",
     "theme": "Société",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "resume": "La loi supprime le mécanisme de récupération sur succession de l'allocation de solidarité aux personnes âgées (ASPA), qui permettait à l'État de se rembourser sur l'héritage des bénéficiaires décédés. Concrètement, les héritiers de retraités ayant perçu l'ASPA ne pourront plus voir la succession ponctionnée pour rembourser les sommes versées, y compris pour des prestations déjà versées avant la loi. La mesure doit entrer en vigueur au 1er janvier suivant la promulgation et est assortie d'une compensation financière pour l'État."
   },
   {
@@ -900,6 +1028,7 @@
     "titre": "Réformer les bourses sur critères sociaux et lutter contre la précarité étudiante",
     "theme": "Éducation",
     "notoriete": 1,
+    "comprehensibilite": 5,
     "resume": "La loi indexe automatiquement le montant des bourses étudiantes sur critères sociaux sur l'inflation, afin qu'elles ne perdent plus de valeur au fil des années comme cela a été le cas depuis 2013 alors que le coût de la vie étudiante a augmenté d'environ 30 %. Elle prévoit également une revalorisation et une annualisation du versement des bourses. L'objectif affiché est de lutter contre la précarité étudiante, alors qu'une part importante des étudiants déclare avoir déjà renoncé à des repas faute de moyens."
   },
   {
@@ -907,6 +1036,7 @@
     "titre": "Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement",
     "theme": "Institutions",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "resume": "Ce texte autorise l'assemblée de Martinique à fixer elle-même, sur son territoire, des règles relevant normalement du domaine de la loi en matière d'énergie ainsi que d'eau et d'assainissement, en application de l'article 73 de la Constitution qui permet une telle habilitation pour les collectivités d'outre-mer. Il comprend deux articles : l'un habilite la collectivité à adapter la réglementation énergétique locale, l'autre crée une autorité unique chargée de l'eau potable et de l'assainissement en Martinique. Il s'agit de la première fois qu'une habilitation de ce type fait l'objet d'un projet de loi dédié plutôt que d'un simple article inséré dans un texte plus large."
   },
   {
@@ -914,6 +1044,7 @@
     "titre": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
     "theme": "Institutions",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "resume": "Ce projet de loi constitutionnelle insère un nouvel article 72-5 dans la Constitution pour doter la Corse d'un statut d'autonomie au sein de la République, reconnaissant sa singularité liée à son insularité méditerranéenne ainsi qu'à sa communauté historique, linguistique et culturelle. Il permet à la collectivité de Corse de décider, dans des conditions fixées par une future loi organique, d'adaptations des lois et règlements nationaux justifiées par ces spécificités, et de fixer des normes dans les domaines relevant de ses compétences. Ces adaptations resteraient contrôlées par le Conseil d'État et le Conseil constitutionnel et ne pourraient porter atteinte à une liberté publique ou à un droit constitutionnellement protégé."
   },
   {
@@ -921,6 +1052,7 @@
     "titre": "Réduire l’impact environnemental de l’industrie textile",
     "theme": "Environnement",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "resume": "La loi encadre la « mode éphémère » (fast fashion) en imposant aux plateformes de vente en ligne d'afficher des messages de sensibilisation sur ses impacts économiques, sociaux, sanitaires et environnementaux pour les entreprises concernées par cette pratique. Elle renforce le principe de responsabilité élargie des producteurs dans le secteur textile en modulant les contributions financières versées par les fabricants selon l'impact environnemental, l'empreinte carbone et l'atteinte à la biodiversité de leurs produits. Elle interdit également la publicité, y compris via des influenceurs, pour les enseignes et produits de mode éphémère, et crée des amendes administratives en cas de non-respect de ces obligations."
   },
   {
@@ -928,6 +1060,7 @@
     "titre": "Proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel",
     "theme": "Société",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "resume": "Le texte réorganise la gouvernance du sport professionnel en limitant à 25 % la part des voix des clubs professionnels dans les assemblées générales des fédérations et en imposant une représentation équilibrée entre femmes et hommes dans les instances dirigeantes. Il autorise les fédérations à créer des sociétés commerciales associant les clubs professionnels et consacre le principe de « ligue ouverte », fondé sur la montée et la descente entre divisions. Un plafond limite la masse salariale à 65 % du budget des clubs, et les contrats de droits télévisés doivent réserver au moins un match par semaine et par compétition à une chaîne gratuite. Le texte élargit enfin les pouvoirs de contrôle financier de la DNCG et les sanctions de l'Arcom contre le piratage des retransmissions sportives."
   },
   {
@@ -935,6 +1068,7 @@
     "titre": "Projet de loi sur la justice criminelle et le respect des victimes",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 1,
     "resume": "Le texte réorganise le traitement des affaires criminelles pour réduire les délais de jugement, notamment en généralisant le recours à des avocats honoraires et à des assesseurs citoyens au sein des cours criminelles départementales. Il élargit aussi les moyens d'enquête, en autorisant le recours à la généalogie génétique et en étendant l'utilisation du fichier national des empreintes génétiques. Le texte renforce par ailleurs certains droits des victimes dans la procédure pénale. La mesure de plaider-coupable initialement envisagée pour les crimes a finalement été retirée du texte adopté."
   },
   {
@@ -942,6 +1076,7 @@
     "titre": "Projet de loi organique relatif au renforcement des juridictions criminelles",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "resume": "Ce texte organique, adopté en miroir du projet de loi sur la justice criminelle, modifie le statut de la magistrature pour pérenniser le statut des avocats honoraires exerçant des fonctions juridictionnelles. Il crée un nouveau statut de citoyen assesseur, qui peut siéger uniquement comme assesseur au sein des cours criminelles départementales, aux côtés de magistrats professionnels. L'objectif affiché est d'élargir la composition de ces juridictions pour accélérer le traitement des affaires criminelles."
   },
   {
@@ -949,6 +1084,7 @@
     "titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
     "theme": "Sécurité",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "resume": "Le texte introduit dans le code de la sécurité intérieure une présomption simple de légitime défense pour les policiers et gendarmes lorsqu'ils font usage de leur arme dans l'exercice de leurs fonctions, dans des conditions de nécessité absolue et de proportionnalité strictes. Concrètement, il revient désormais à la personne qui conteste l'usage de l'arme d'apporter la preuve que ces conditions légales n'étaient pas réunies, et non plus seulement à l'agent de le démontrer. Cette présomption reste réfragable, c'est-à-dire qu'elle peut être renversée par des éléments de preuve contraires."
   },
   {
@@ -956,6 +1092,7 @@
     "titre": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
     "theme": "Sécurité",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "resume": "Le texte élargit les amendes forfaitaires aux rodéos motorisés et à l'occupation illicite de terrains, et impose aux auteurs de dépôts sauvages de supporter les frais de nettoyage. Il crée de nouvelles infractions et circonstances aggravantes, notamment pour les faits sexuels commis dans les transports en commun et pour l'outrage sexiste, et interdit la détention et la vente de protoxyde d'azote aux particuliers. Il encadre légalement les contrôles d'identité et inspections visuelles menés par la police et la gendarmerie en zone frontalière, et porte à 72 heures la durée de garde à vue pour certaines infractions liées à la criminalité organisée. Plusieurs dispositions plus controversées, comme l'usage de drones ou la vidéoprotection algorithmique, ont été supprimées lors de l'examen en commission."
   },
   {
@@ -963,6 +1100,7 @@
     "titre": "Proroger le dispositif d’expérimentation favorisant l’égalité des chances pour l’accès à certaines écoles de service public",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "resume": "Le texte prolonge jusqu'au 31 juillet 2027 le dispositif expérimental réservant 10 à 15 % des places « externes » à des étudiants boursiers dans cinq grandes écoles de service public (Institut national du service public, Institut national des études territoriales, École des hautes études de santé publique, École nationale supérieure de la police, École nationale d'administration pénitentiaire), qui devait s'éteindre fin 2024. Il repousse également au 30 décembre 2027 la date limite de remise au Parlement du rapport d'évaluation du dispositif."
   },
   {
@@ -970,6 +1108,7 @@
     "titre": "Accélérer la prévention cardio-neuro-vasculaire et anticiper un risque sanitaire et social majeur",
     "theme": "Santé",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "resume": "Le texte renforce le dépistage des maladies cardio-neuro-vasculaires, notamment lors des rendez-vous de prévention et de la visite médicale obligatoire des six ans pour les enfants, avec un dépistage précoce de l'hypercholestérolémie familiale. Il autorise les pharmaciens et les masseurs-kinésithérapeutes à participer au dépistage de l'hypertension artérielle, avec une rémunération prévue par l'assurance maladie. Il élargit aussi les missions de prévention des services de santé au travail et étend des actions de sensibilisation au milieu scolaire."
   },
   {
@@ -977,6 +1116,7 @@
     "titre": "Projet de loi relatif à la protection des enfants",
     "theme": "Société",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "resume": "Le texte impose un réexamen au moins tous les deux ans de la situation des enfants placés, afin de vérifier que la mesure reste adaptée à leurs besoins, et prévoit l'établissement d'un projet pour l'enfant dans les trois mois suivant sa prise en charge. Il favorise le placement auprès de proches ou de tiers de confiance, améliore le statut des assistants familiaux (droit au répit, agrément réexaminé tous les cinq ans) et renforce le contrôle des antécédents judiciaires des personnes en contact avec des mineurs. Il crée une « ordonnance de sûreté de l'enfant » prononcée par le juge aux affaires familiales et porte à la réclusion criminelle à perpétuité la peine encourue pour les viols sériels commis sur des mineurs de moins de 15 ans."
   },
   {
@@ -984,6 +1124,7 @@
     "titre": "Impôt plancher de 2 % sur le patrimoine des ultra riches",
     "theme": "Budget / Finances",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "resume": "Le texte crée un impôt plancher sur la fortune visant les quelque 4 000 contribuables dont le patrimoine net dépasse 100 millions d'euros, afin de garantir qu'ils paient au moins 2 % de leur fortune en impôts. Le montant dû correspond à la différence, si elle est positive, entre 2 % de la valeur nette du patrimoine et le total déjà acquitté au titre de l'impôt sur le revenu, de l'impôt sur la fortune immobilière, de la CSG, de la CRDS et de la contribution exceptionnelle sur les hauts revenus, ce qui évite toute double imposition. Un abattement d'un million d'euros s'applique sur la résidence principale, et des règles anti-fraude visent notamment les trusts, les contrats d'assurance-vie et les sociétés à prépondérance immobilière."
   },
   {
@@ -991,6 +1132,7 @@
     "titre": "Proposition de loi pour un démarchage téléphonique consenti et une protection renforcée des consommateurs contre les abus",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 5,
     "resume": "Ce texte inverse la logique actuelle du démarchage téléphonique, fondée sur le dispositif d'opposition Bloctel jugé insuffisant : il interdit par principe à un professionnel de démarcher un consommateur par téléphone, sauf si celui-ci s'est explicitement inscrit sur une liste de consentement au démarchage. Des exceptions sont prévues pour l'exécution d'un contrat en cours et pour la vente de journaux, périodiques ou magazines, et la location ou la vente de coordonnées téléphoniques de personnes non inscrites sur cette liste est interdite."
   },
   {
@@ -998,6 +1140,7 @@
     "titre": "Simplifier l'ouverture des débits de boisson en zone rurale",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "resume": "Le texte autorise l'ouverture, par simple déclaration auprès du maire, d'un nouvel établissement de 4e catégorie (« licence IV », permettant la vente de boissons alcoolisées de tous degrés) dans les communes de moins de 3 500 habitants qui n'en disposent pas encore. Il pérennise ainsi une dérogation au principe général de limitation des nouvelles licences IV, dérogation qui avait été introduite en 2019 pour trois ans puis n'avait pas été renouvelée à son expiration."
   },
   {
@@ -1005,6 +1148,7 @@
     "titre": "Lutter contre la disparition des terres agricoles et renforcer la régulation des prix du foncier agricole",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "resume": "Le texte renforce les moyens d'action des sociétés d'aménagement foncier et d'établissement rural (SAFER) face à la disparition des terres agricoles, causée notamment par l'urbanisation et par la conversion de terres en résidences secondaires ou terrains d'agrément. Il consolide le droit de préemption partielle de la SAFER en lui permettant de distinguer la maison d'habitation et son jardin des terres agricoles lors d'une cession, étend ses droits de préemption aux communes limitrophes des zones littorales et tendues, et lui accorde un droit de visite du bien avant d'exercer sa préemption afin d'en évaluer plus justement la valeur."
   }
 ]

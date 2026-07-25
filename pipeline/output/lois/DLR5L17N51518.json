@@ -7,6 +7,7 @@
   "procedure": "Proposition de loi ordinaire",
   "theme": "Sécurité",
   "notoriete": 3,
+  "comprehensibilite": 4,
   "chiffres": {
     "votants": 168,
     "exprimes": 168,

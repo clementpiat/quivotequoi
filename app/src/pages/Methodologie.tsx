@@ -24,20 +24,26 @@ export function Methodologie() {
         Les propositions de résolution (création de commission d'enquête, résolutions européennes...) sont exclues :
         elles ne créent pas de norme, contrairement aux projets et propositions de loi.
       </p>
+
+      <h2>Ordre du questionnaire</h2>
       <p>
-        <strong>Limite connue :</strong> dans les données de l'Assemblée nationale, le champ qui relie un scrutin à
-        sa fiche de dossier législatif est absent pour tous les scrutins antérieurs au 26 mars 2026 (bascule nette,
-        probablement un changement côté Assemblée nationale). Faute de titre et de thème fiables pour cette période,
-        les lois retenues ici ne couvrent actuellement que le <strong>26 mars 2026 au 21 juillet 2026</strong>, pas
-        l'ensemble de la législature depuis juillet 2024.
+        Les lois les plus <strong>accessibles</strong> sont posées en premier : sur un panel large, beaucoup de
+        textes sont techniques par nature (c'est le métier de député), et ouvrir le questionnaire dessus peut
+        décourager. Chaque loi reçoit un score de <strong>compréhensibilité</strong> (1 à 5, à quel point le titre et
+        le résumé se comprennent sans connaissance juridique ou administrative particulière) qui détermine l'ordre en
+        priorité, et un score de <strong>notoriété</strong> (1 à 5, approximé par le nombre de député·es ayant pris
+        part au vote) qui départage les lois à compréhensibilité égale. Ces deux scores sont une estimation — d'abord
+        automatique, puis relue — et non une mesure exacte ; à l'intérieur d'un même palier, l'ordre reste mélangé et
+        varie d'une session à l'autre.
       </p>
 
       <h2>Ta position</h2>
       <p>
         Pour chaque loi du questionnaire, tu indiques ta position sur une échelle de −2 à +2 : −2 traduit un
         désaccord fort et important pour toi, −1 un désaccord simple, 0 une position neutre, +1 un accord simple,
-        +2 un accord fort et important pour toi. Si tu n'as aucun avis, passe simplement à la question suivante sans
-        répondre — la loi ne comptera pas dans le calcul de proximité.
+        +2 un accord fort et important pour toi. Le bouton <strong>« Pas d'avis »</strong> est différent de
+        « Neutre » : Neutre est une position à part entière et compte dans le calcul, alors que « Pas d'avis »
+        exclut la loi du calcul, exactement comme une loi passée sans réponse.
       </p>
 
       <h2>Position des groupes</h2>
@@ -85,7 +91,8 @@ export function Methodologie() {
         La proximité mesurée concerne les <strong>groupes parlementaires de la législature 2024-2027</strong>, pas
         les candidats à une élection à venir. Un vote « pour » ou « contre » ne dit pas tout de la position d'un
         député sur un sujet (discipline de groupe, négociations, amendements rejetés en amont...). Le nombre de lois
-        couvertes reste partiel : voir la limite de couverture temporelle ci-dessus.
+        couvertes reste partiel : certains scrutins n'ont pas pu être reliés avec certitude à leur dossier
+        législatif officiel et sont donc exclus plutôt que retenus avec un titre approximatif.
       </div>
     </div>
   );

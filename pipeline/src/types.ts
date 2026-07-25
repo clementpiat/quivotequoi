@@ -141,6 +141,7 @@ export interface Loi {
   procedure: string | null;
   theme: string;
   notoriete: number; // 1 (niche) .. 5 (très connu du grand public) — voir buildNotoriete.ts
+  comprehensibilite: number; // 1 (très technique) .. 5 (clair pour un non-spécialiste) — voir buildComprehensibilite.ts
   chiffres: {
     votants: number;
     exprimes: number;
@@ -160,6 +161,7 @@ export interface ResumeEntry {
   titre: string;
   theme: string;
   notoriete: number; // 1 (niche) .. 5 (très connu du grand public) — voir buildNotoriete.ts
+  comprehensibilite: number; // 1 (très technique) .. 5 (clair pour un non-spécialiste) — voir buildComprehensibilite.ts
   resume: string;
 }
 

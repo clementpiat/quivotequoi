@@ -7,6 +7,7 @@
   "procedure": "Projet de loi ordinaire",
   "theme": "Santé",
   "notoriete": 3,
+  "comprehensibilite": 1,
   "chiffres": {
     "votants": 159,
     "exprimes": 105,

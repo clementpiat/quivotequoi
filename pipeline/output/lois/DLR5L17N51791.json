@@ -7,6 +7,7 @@
   "procedure": "Proposition de loi ordinaire",
   "theme": "Travail / Économie",
   "notoriete": 2,
+  "comprehensibilite": 3,
   "chiffres": {
     "votants": 98,
     "exprimes": 94,

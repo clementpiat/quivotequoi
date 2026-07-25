@@ -26,17 +26,19 @@ async function main() {
 
   const lois = buildLois(selection, sources.dossiers.dir);
 
-  // resumes.json est la source de vérité pour le thème et la notoriété une fois relus/corrigés à
-  // la main (ou par le premier passage de rédaction) : on les applique aux lois avant d'écrire
-  // lois.json et lois/<id>.json, pour qu'une relance du pipeline ne réécrase pas une correction
-  // avec l'heuristique de départ.
+  // resumes.json est la source de vérité pour le thème, la notoriété et la compréhensibilité une
+  // fois relus/corrigés à la main (ou par le premier passage de rédaction) : on les applique aux
+  // lois avant d'écrire lois.json et lois/<id>.json, pour qu'une relance du pipeline ne réécrase
+  // pas une correction avec l'heuristique de départ.
   const resumesPath = path.join(OUTPUT_DIR, "resumes.json");
   const resumes = buildSummarySkeleton(lois, resumesPath);
   const themeParId = new Map(resumes.map((r) => [r.id, r.theme]));
   const notorieteParId = new Map(resumes.map((r) => [r.id, r.notoriete]));
+  const comprehensibiliteParId = new Map(resumes.map((r) => [r.id, r.comprehensibilite]));
   for (const loi of lois) {
     loi.theme = themeParId.get(loi.id) ?? loi.theme;
     loi.notoriete = notorieteParId.get(loi.id) ?? loi.notoriete;
+    loi.comprehensibilite = comprehensibiliteParId.get(loi.id) ?? loi.comprehensibilite;
   }
 
   mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -48,13 +50,14 @@ async function main() {
 
   writeFileSync(path.join(OUTPUT_DIR, "groupes.json"), JSON.stringify(groupes, null, 2));
 
-  const loisIndex = lois.map(({ id, titre, dateVote, resultat, theme, notoriete, chiffres }) => ({
+  const loisIndex = lois.map(({ id, titre, dateVote, resultat, theme, notoriete, comprehensibilite, chiffres }) => ({
     id,
     titre,
     dateVote,
     resultat,
     theme,
     notoriete,
+    comprehensibilite,
     chiffres,
   }));
   writeFileSync(path.join(OUTPUT_DIR, "lois.json"), JSON.stringify(loisIndex, null, 2));

@@ -7,6 +7,7 @@
   "procedure": "Proposition de loi ordinaire",
   "theme": "Environnement",
   "notoriete": 1,
+  "comprehensibilite": 3,
   "chiffres": {
     "votants": 97,
     "exprimes": 70,

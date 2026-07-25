@@ -118,6 +118,9 @@ button {
 
 .btn:hover {
   background: var(--navy-hover);
+  /* .btn est parfois un <Link> (donc un <a>) : sans ce color explicite, la règle générique
+     a:hover (plus spécifique que .btn seul) gagne et rend le texte invisible sur le fond. */
+  color: #fff;
 }
 
 .btn:disabled {

@@ -7,6 +7,7 @@
   "procedure": "Proposition de loi ordinaire",
   "theme": "Éducation",
   "notoriete": 3,
+  "comprehensibilite": 5,
   "chiffres": {
     "votants": 173,
     "exprimes": 154,

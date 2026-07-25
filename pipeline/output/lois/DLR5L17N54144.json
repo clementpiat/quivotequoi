@@ -7,6 +7,7 @@
   "procedure": "Proposition de loi ordinaire",
   "theme": "Logement",
   "notoriete": 2,
+  "comprehensibilite": 3,
   "chiffres": {
     "votants": 134,
     "exprimes": 114,

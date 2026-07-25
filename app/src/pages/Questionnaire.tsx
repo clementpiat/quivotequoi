@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { getLoiDetail, getLoisIndex, getResumes } from "../data/client";
 import { useQuestionnaire } from "../state/QuestionnaireContext";
 import { VoteSlider } from "../components/VoteSlider";
-import { ordonnerParNotorieteAvecSeed } from "../lib/seed";
+import { ordonnerParAccessibiliteAvecSeed } from "../lib/seed";
 import type { Loi, LoiIndexEntry, ResumeEntry } from "../types";
 import "./Questionnaire.css";
 
@@ -19,7 +19,7 @@ export function Questionnaire() {
   }, []);
 
   const ordre = useMemo(
-    () => (loisIndex ? ordonnerParNotorieteAvecSeed(loisIndex, seed).map((l) => l.id) : []),
+    () => (loisIndex ? ordonnerParAccessibiliteAvecSeed(loisIndex, seed).map((l) => l.id) : []),
     [loisIndex, seed],
   );
 

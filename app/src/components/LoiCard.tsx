@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { getGroupes, getLoiDetail } from "../data/client";
-import { LABELS_REPONSE } from "../lib/constants";
+import type { ReponseValeur } from "../lib/constants";
+import { VoteSlider } from "./VoteSlider";
 import type { Groupe, Loi, LoiIndexEntry, PositionGroupe, ResumeEntry } from "../types";
 import "./LoiCard.css";
 
@@ -36,10 +37,12 @@ export function LoiCard({
   loi,
   resume,
   reponse,
+  onVoter,
 }: {
   loi: LoiIndexEntry;
   resume: ResumeEntry | undefined;
-  reponse: number | undefined;
+  reponse: ReponseValeur | undefined;
+  onVoter: (valeur: ReponseValeur) => void;
 }) {
   const [expanded, setExpanded] = useState(false);
   const [detail, setDetail] = useState<Loi | null>(null);
@@ -77,8 +80,9 @@ export function LoiCard({
         ) : (
           <span />
         )}
-        {reponse !== undefined && <span className="loi-card-badge">Ton vote : {LABELS_REPONSE[reponse]}</span>}
       </div>
+
+      <VoteSlider valeur={reponse} onChoisir={onVoter} />
 
       <button type="button" className="loi-card-toggle" onClick={toggle}>
         <span className="loi-card-chevron" style={{ transform: expanded ? "rotate(180deg)" : "rotate(0deg)" }}>

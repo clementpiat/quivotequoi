@@ -7,6 +7,7 @@
   "procedure": "Projet de loi ordinaire",
   "theme": "Autre",
   "notoriete": 5,
+  "comprehensibilite": 3,
   "chiffres": {
     "votants": 508,
     "exprimes": 489,

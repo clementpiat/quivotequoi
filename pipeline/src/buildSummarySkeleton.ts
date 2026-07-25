@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs";
 import { computeNotorieteHeuristic } from "./buildNotoriete.js";
+import { computeComprehensibiliteHeuristic } from "./buildComprehensibilite.js";
 import type { Loi, ResumeEntry } from "./types.js";
 
 const TODO = "TODO — résumé à rédiger à la main à partir de l'exposé des motifs";
@@ -18,6 +19,11 @@ export function buildSummarySkeleton(lois: Loi[], existingPath: string): ResumeE
 
   const notorieteHeuristique = computeNotorieteHeuristic(lois);
 
+  // La compréhensibilité se juge sur le résumé réel (une fois rédigé), pas sur le TODO qui le
+  // précède : on résout d'abord le résumé de chaque loi avant de calculer l'heuristique.
+  const resumeParId = new Map(lois.map((loi) => [loi.id, existing.get(loi.id)?.resume ?? TODO]));
+  const comprehensibiliteHeuristique = computeComprehensibiliteHeuristic(lois, resumeParId);
+
   return lois.map((loi) => {
     const previous = existing.get(loi.id);
     return {
@@ -25,6 +31,7 @@ export function buildSummarySkeleton(lois: Loi[], existingPath: string): ResumeE
       titre: loi.titre,
       theme: previous?.theme ?? loi.theme,
       notoriete: previous?.notoriete ?? notorieteHeuristique.get(loi.id)!,
+      comprehensibilite: previous?.comprehensibilite ?? comprehensibiliteHeuristique.get(loi.id)!,
       resume: previous?.resume ?? TODO,
     } satisfies ResumeEntry;
   });

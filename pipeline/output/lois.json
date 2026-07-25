@@ -6,6 +6,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 496,
       "exprimes": 453,
@@ -21,6 +22,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 108,
       "exprimes": 108,
@@ -36,6 +38,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 498,
       "exprimes": 464,
@@ -51,6 +54,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 191,
       "exprimes": 186,
@@ -66,6 +70,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 3,
+    "comprehensibilite": 1,
     "chiffres": {
       "votants": 159,
       "exprimes": 105,
@@ -81,6 +86,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 168,
       "exprimes": 168,
@@ -96,6 +102,7 @@
     "resultat": "adopté",
     "theme": "Sécurité",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 168,
       "exprimes": 168,
@@ -111,6 +118,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 107,
       "exprimes": 105,
@@ -126,6 +134,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 72,
       "exprimes": 72,
@@ -141,6 +150,7 @@
     "resultat": "adopté",
     "theme": "Institutions",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 408,
       "exprimes": 384,
@@ -156,6 +166,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 151,
       "exprimes": 145,
@@ -171,6 +182,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 524,
       "exprimes": 513,
@@ -186,6 +198,7 @@
     "resultat": "adopté",
     "theme": "Institutions",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 142,
       "exprimes": 140,
@@ -201,6 +214,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 1,
     "chiffres": {
       "votants": 494,
       "exprimes": 485,
@@ -216,6 +230,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 125,
       "exprimes": 108,
@@ -231,6 +246,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 127,
       "exprimes": 127,
@@ -246,6 +262,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 461,
       "exprimes": 454,
@@ -261,6 +278,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 60,
       "exprimes": 55,
@@ -276,6 +294,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 118,
       "exprimes": 108,
@@ -291,6 +310,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 536,
       "exprimes": 528,
@@ -306,6 +326,7 @@
     "resultat": "adopté",
     "theme": "Logement",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 158,
       "exprimes": 106,
@@ -321,6 +342,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 124,
       "exprimes": 101,
@@ -336,6 +358,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 123,
       "exprimes": 123,
@@ -351,6 +374,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 56,
       "exprimes": 56,
@@ -366,6 +390,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 184,
       "exprimes": 184,
@@ -381,6 +406,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 560,
       "exprimes": 491,
@@ -396,6 +422,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 5,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 561,
       "exprimes": 532,
@@ -411,6 +438,7 @@
     "resultat": "rejeté",
     "theme": "Travail / Économie",
     "notoriete": 4,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 334,
       "exprimes": 316,
@@ -426,6 +454,7 @@
     "resultat": "adopté",
     "theme": "Budget / Finances",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 227,
       "exprimes": 227,
@@ -441,6 +470,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 232,
       "exprimes": 231,
@@ -456,6 +486,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 171,
       "exprimes": 169,
@@ -471,6 +502,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 145,
       "exprimes": 137,
@@ -486,6 +518,7 @@
     "resultat": "adopté",
     "theme": "Logement",
     "notoriete": 3,
+    "comprehensibilite": 1,
     "chiffres": {
       "votants": 172,
       "exprimes": 169,
@@ -501,6 +534,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 125,
       "exprimes": 120,
@@ -516,6 +550,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 88,
       "exprimes": 88,
@@ -531,6 +566,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 530,
       "exprimes": 500,
@@ -546,6 +582,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 1,
     "chiffres": {
       "votants": 408,
       "exprimes": 368,
@@ -561,6 +598,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 297,
       "exprimes": 297,
@@ -576,6 +614,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 527,
       "exprimes": 465,
@@ -591,6 +630,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 527,
       "exprimes": 527,
@@ -606,6 +646,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 176,
       "exprimes": 168,
@@ -621,6 +662,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 564,
       "exprimes": 539,
@@ -636,6 +678,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 472,
       "exprimes": 471,
@@ -651,6 +694,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 535,
       "exprimes": 526,
@@ -666,6 +710,7 @@
     "resultat": "rejeté",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 331,
       "exprimes": 323,
@@ -681,6 +726,7 @@
     "resultat": "adopté",
     "theme": "Budget / Finances",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 514,
       "exprimes": 430,
@@ -696,6 +742,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 246,
       "exprimes": 195,
@@ -711,6 +758,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 202,
       "exprimes": 155,
@@ -726,6 +774,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 189,
       "exprimes": 125,
@@ -741,6 +790,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 1,
     "chiffres": {
       "votants": 64,
       "exprimes": 64,
@@ -756,6 +806,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 86,
       "exprimes": 75,
@@ -771,6 +822,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 569,
       "exprimes": 479,
@@ -786,6 +838,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 108,
       "exprimes": 108,
@@ -801,6 +854,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 143,
       "exprimes": 123,
@@ -816,6 +870,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 292,
       "exprimes": 292,
@@ -831,6 +886,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 246,
       "exprimes": 244,
@@ -846,6 +902,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 165,
       "exprimes": 161,
@@ -861,6 +918,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 137,
       "exprimes": 135,
@@ -876,6 +934,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 98,
       "exprimes": 85,
@@ -891,6 +950,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 93,
       "exprimes": 93,
@@ -906,6 +966,7 @@
     "resultat": "adopté",
     "theme": "Budget / Finances",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 558,
       "exprimes": 496,
@@ -921,6 +982,7 @@
     "resultat": "adopté",
     "theme": "Logement",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 466,
       "exprimes": 452,
@@ -936,6 +998,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 508,
       "exprimes": 489,
@@ -951,6 +1014,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 144,
       "exprimes": 143,
@@ -966,6 +1030,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 212,
       "exprimes": 212,
@@ -981,6 +1046,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 165,
       "exprimes": 165,
@@ -996,6 +1062,7 @@
     "resultat": "adopté",
     "theme": "Budget / Finances",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 476,
       "exprimes": 421,
@@ -1011,6 +1078,7 @@
     "resultat": "adopté",
     "theme": "Numérique",
     "notoriete": 4,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 426,
       "exprimes": 360,
@@ -1026,6 +1094,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 119,
       "exprimes": 96,
@@ -1041,6 +1110,7 @@
     "resultat": "adopté",
     "theme": "Budget / Finances",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 364,
       "exprimes": 362,
@@ -1056,6 +1126,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 107,
       "exprimes": 106,
@@ -1071,6 +1142,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 72,
       "exprimes": 72,
@@ -1086,6 +1158,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 1,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 73,
       "exprimes": 56,
@@ -1101,6 +1174,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 35,
       "exprimes": 35,
@@ -1116,6 +1190,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 465,
       "exprimes": 349,
@@ -1131,6 +1206,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 256,
       "exprimes": 123,
@@ -1146,6 +1222,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 72,
       "exprimes": 72,
@@ -1161,6 +1238,7 @@
     "resultat": "adopté",
     "theme": "Numérique",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 78,
       "exprimes": 73,
@@ -1176,6 +1254,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 72,
       "exprimes": 72,
@@ -1191,6 +1270,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 516,
       "exprimes": 451,
@@ -1206,6 +1286,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 94,
       "exprimes": 92,
@@ -1221,6 +1302,7 @@
     "resultat": "adopté",
     "theme": "Numérique",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 109,
       "exprimes": 109,
@@ -1236,6 +1318,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 65,
       "exprimes": 65,
@@ -1251,6 +1334,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 2,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 122,
       "exprimes": 122,
@@ -1266,6 +1350,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 89,
       "exprimes": 78,
@@ -1281,6 +1366,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 56,
       "exprimes": 56,
@@ -1296,6 +1382,7 @@
     "resultat": "adopté",
     "theme": "Budget / Finances",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 53,
       "exprimes": 48,
@@ -1311,6 +1398,7 @@
     "resultat": "adopté",
     "theme": "Institutions",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 42,
       "exprimes": 42,
@@ -1326,6 +1414,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 235,
       "exprimes": 235,
@@ -1341,6 +1430,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 247,
       "exprimes": 247,
@@ -1356,6 +1446,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 245,
       "exprimes": 181,
@@ -1371,6 +1462,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 211,
       "exprimes": 141,
@@ -1386,6 +1478,7 @@
     "resultat": "adopté",
     "theme": "Budget / Finances",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 522,
       "exprimes": 517,
@@ -1401,6 +1494,7 @@
     "resultat": "adopté",
     "theme": "Institutions",
     "notoriete": 4,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 243,
       "exprimes": 231,
@@ -1416,6 +1510,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 173,
       "exprimes": 154,
@@ -1431,6 +1526,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 1,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 97,
       "exprimes": 70,
@@ -1446,6 +1542,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 157,
       "exprimes": 132,
@@ -1461,6 +1558,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 128,
       "exprimes": 110,
@@ -1476,6 +1574,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 82,
       "exprimes": 82,
@@ -1491,6 +1590,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 145,
       "exprimes": 145,
@@ -1506,6 +1606,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 93,
       "exprimes": 82,
@@ -1521,6 +1622,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 55,
       "exprimes": 55,
@@ -1536,6 +1638,7 @@
     "resultat": "adopté",
     "theme": "International",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 113,
       "exprimes": 113,
@@ -1551,6 +1654,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 153,
       "exprimes": 141,
@@ -1566,6 +1670,7 @@
     "resultat": "adopté",
     "theme": "Sécurité",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 533,
       "exprimes": 522,
@@ -1581,6 +1686,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 149,
       "exprimes": 131,
@@ -1596,6 +1702,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 175,
       "exprimes": 175,
@@ -1611,6 +1718,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 146,
       "exprimes": 146,
@@ -1626,6 +1734,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 221,
       "exprimes": 157,
@@ -1641,6 +1750,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 123,
       "exprimes": 120,
@@ -1656,6 +1766,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 5,
+    "comprehensibilite": 1,
     "chiffres": {
       "votants": 472,
       "exprimes": 468,
@@ -1671,6 +1782,7 @@
     "resultat": "adopté",
     "theme": "Sécurité",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 490,
       "exprimes": 488,
@@ -1686,6 +1798,7 @@
     "resultat": "adopté",
     "theme": "Institutions",
     "notoriete": 5,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 516,
       "exprimes": 513,
@@ -1701,6 +1814,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 2,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 98,
       "exprimes": 92,
@@ -1716,6 +1830,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 254,
       "exprimes": 254,
@@ -1731,6 +1846,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 2,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 121,
       "exprimes": 121,
@@ -1746,6 +1862,7 @@
     "resultat": "adopté",
     "theme": "Logement",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 134,
       "exprimes": 114,
@@ -1761,6 +1878,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 2,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 98,
       "exprimes": 94,
@@ -1776,6 +1894,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 187,
       "exprimes": 187,
@@ -1791,6 +1910,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 561,
       "exprimes": 520,
@@ -1806,6 +1926,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 504,
       "exprimes": 467,
@@ -1821,6 +1942,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 236,
       "exprimes": 236,
@@ -1836,6 +1958,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 2,
+    "comprehensibilite": 1,
     "chiffres": {
       "votants": 115,
       "exprimes": 113,
@@ -1851,6 +1974,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 170,
       "exprimes": 166,
@@ -1866,6 +1990,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 1,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 91,
       "exprimes": 89,
@@ -1881,6 +2006,7 @@
     "resultat": "adopté",
     "theme": "Travail / Économie",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 88,
       "exprimes": 83,
@@ -1896,6 +2022,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 1,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 76,
       "exprimes": 76,
@@ -1911,6 +2038,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 168,
       "exprimes": 165,
@@ -1926,6 +2054,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 1,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 91,
       "exprimes": 76,
@@ -1941,6 +2070,7 @@
     "resultat": "adopté",
     "theme": "Institutions",
     "notoriete": 1,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 40,
       "exprimes": 35,
@@ -1956,6 +2086,7 @@
     "resultat": "adopté",
     "theme": "Institutions",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 537,
       "exprimes": 473,
@@ -1971,6 +2102,7 @@
     "resultat": "adopté",
     "theme": "Environnement",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 489,
       "exprimes": 338,
@@ -1986,6 +2118,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 441,
       "exprimes": 360,
@@ -2001,6 +2134,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 1,
     "chiffres": {
       "votants": 440,
       "exprimes": 439,
@@ -2016,6 +2150,7 @@
     "resultat": "adopté",
     "theme": "Justice",
     "notoriete": 4,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 440,
       "exprimes": 439,
@@ -2031,6 +2166,7 @@
     "resultat": "adopté",
     "theme": "Sécurité",
     "notoriete": 5,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 517,
       "exprimes": 512,
@@ -2046,6 +2182,7 @@
     "resultat": "adopté",
     "theme": "Sécurité",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 537,
       "exprimes": 530,
@@ -2061,6 +2198,7 @@
     "resultat": "adopté",
     "theme": "Éducation",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 184,
       "exprimes": 160,
@@ -2076,6 +2214,7 @@
     "resultat": "adopté",
     "theme": "Santé",
     "notoriete": 4,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 462,
       "exprimes": 462,
@@ -2091,6 +2230,7 @@
     "resultat": "adopté",
     "theme": "Société",
     "notoriete": 5,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 558,
       "exprimes": 385,
@@ -2106,6 +2246,7 @@
     "resultat": "adopté",
     "theme": "Budget / Finances",
     "notoriete": 3,
+    "comprehensibilite": 3,
     "chiffres": {
       "votants": 186,
       "exprimes": 155,
@@ -2121,6 +2262,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 5,
     "chiffres": {
       "votants": 176,
       "exprimes": 176,
@@ -2136,6 +2278,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 4,
     "chiffres": {
       "votants": 176,
       "exprimes": 176,
@@ -2151,6 +2294,7 @@
     "resultat": "adopté",
     "theme": "Autre",
     "notoriete": 3,
+    "comprehensibilite": 2,
     "chiffres": {
       "votants": 210,
       "exprimes": 206,

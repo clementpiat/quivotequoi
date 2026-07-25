@@ -1,5 +1,6 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
 import type { Answers } from "../lib/proximity";
+import type { ReponseValeur } from "../lib/constants";
 import { genererSeed } from "../lib/seed";
 
 const STORAGE_KEY = "quivotequoi.questionnaire";
@@ -25,7 +26,8 @@ interface QuestionnaireContextValue {
   seed: string;
   answers: Answers;
   currentIndex: number;
-  repondre: (id: string, valeur: number) => void;
+  repondre: (id: string, valeur: ReponseValeur) => void;
+  voter: (id: string, valeur: ReponseValeur) => void;
   avancer: () => void;
   reculer: () => void;
   reinitialiser: () => void;
@@ -51,6 +53,10 @@ export function QuestionnaireProvider({ children }: { children: ReactNode }) {
           answers: { ...s.answers, [id]: valeur },
           currentIndex: s.currentIndex + 1,
         })),
+      // Comme repondre, mais sans avancer currentIndex : utilisé quand on vote depuis la page
+      // "Les lois" (liste, pas un parcours linéaire) — repondre y ferait sauter currentIndex sur
+      // une loi sans rapport avec l'avancement réel dans le questionnaire.
+      voter: (id, valeur) => setState((s) => ({ ...s, answers: { ...s.answers, [id]: valeur } })),
       // Avance sans toucher aux réponses : une loi non répondue reste "passée" (absente de
       // answers), sans effacer un vote déjà donné si l'utilisateur était revenu en arrière.
       avancer: () => setState((s) => ({ ...s, currentIndex: s.currentIndex + 1 })),

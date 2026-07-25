@@ -32,9 +32,11 @@ export function buildLois(selection: ScrutinSelectionne[], dossiersDir: string):
       scrutinNumero: scrutin.numero,
       procedure: dossier?.procedureParlementaire?.libelle ?? null,
       theme: guessTheme(titre, scrutin.titre),
-      // Écrasé juste après dans index.ts : la heuristique de notoriété (voir buildNotoriete.ts) a
-      // besoin de l'ensemble des lois retenues pour calculer les quintiles de votants.
+      // Écrasés juste après dans index.ts : la heuristique de notoriété a besoin de l'ensemble
+      // des lois retenues (quintiles de votants), celle de compréhensibilité a besoin des
+      // résumés (voir buildNotoriete.ts / buildComprehensibilite.ts).
       notoriete: 0,
+      comprehensibilite: 0,
       chiffres: {
         votants: toInt(scrutin.syntheseVote.nombreVotants),
         exprimes: toInt(scrutin.syntheseVote.suffragesExprimes),

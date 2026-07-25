@@ -7,6 +7,7 @@
   "procedure": "Proposition de loi ordinaire",
   "theme": "Justice",
   "notoriete": 1,
+  "comprehensibilite": 2,
   "chiffres": {
     "votants": 65,
     "exprimes": 65,

@@ -108,3 +108,30 @@
   color: #a1a1a1;
   margin-top: 8px;
 }
+
+.vote-slider-pas-avis {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 14px;
+  padding: 10px 12px;
+  border-radius: 6px;
+  background: transparent;
+  border: 1px dashed var(--outline);
+  color: var(--muted);
+  font: 500 12px "IBM Plex Sans", sans-serif;
+  cursor: pointer;
+  text-align: center;
+}
+
+.vote-slider-pas-avis:hover {
+  border-color: var(--text);
+  color: var(--text);
+}
+
+.vote-slider-pas-avis.selectionnee {
+  border-style: solid;
+  border-color: var(--ink);
+  color: var(--ink);
+  box-shadow: 0 0 0 2px var(--surface), 0 0 0 4px var(--ink);
+}

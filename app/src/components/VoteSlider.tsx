@@ -1,4 +1,4 @@
-import { REPONSE_MAX, REPONSE_MIN } from "../lib/constants";
+import { PAS_AVIS, REPONSE_MAX, REPONSE_MIN, type ReponseValeur } from "../lib/constants";
 import "./VoteSlider.css";
 
 const VALEURS = Array.from({ length: REPONSE_MAX - REPONSE_MIN + 1 }, (_, i) => REPONSE_MIN + i);
@@ -21,8 +21,8 @@ export function VoteSlider({
   valeur,
   onChoisir,
 }: {
-  valeur?: number;
-  onChoisir: (valeur: number) => void;
+  valeur?: ReponseValeur;
+  onChoisir: (valeur: ReponseValeur) => void;
 }) {
   return (
     <div className="vote-slider">
@@ -45,6 +45,13 @@ export function VoteSlider({
           <span key={v}>{v > 0 ? `+${v}` : v}</span>
         ))}
       </div>
+      <button
+        type="button"
+        className={`vote-slider-pas-avis${valeur === PAS_AVIS ? " selectionnee" : ""}`}
+        onClick={() => onChoisir(PAS_AVIS)}
+      >
+        Pas d'avis (différent de neutre : cette loi ne comptera pas dans le calcul de proximité)
+      </button>
     </div>
   );
 }

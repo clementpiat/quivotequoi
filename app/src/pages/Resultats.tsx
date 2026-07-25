@@ -16,7 +16,10 @@ export function Resultats() {
   const [shareCopie, setShareCopie] = useState(false);
   const navigate = useNavigate();
 
-  const ids = Object.keys(answers);
+  // "Pas d'avis" est exclu des réponses comptées, comme une loi passée (voir lib/proximity.ts).
+  const ids = Object.entries(answers)
+    .filter(([, valeur]) => typeof valeur === "number")
+    .map(([id]) => id);
   const answeredCount = ids.length;
   const isComplete = answeredCount >= SEUIL_RESULTATS;
 
@@ -67,20 +70,17 @@ export function Resultats() {
   if (lois === null || totalLois === null) return <p className="muted">Chargement…</p>;
 
   if (!isComplete) {
-    const restant = Math.max(0, SEUIL_RESULTATS - answeredCount);
     return (
       <div className="resultats-verrouilles">
         <h1>Tes résultats</h1>
         <p>
           Réponds à au moins {SEUIL_RESULTATS} questions pour découvrir ta proximité avec les groupes de l'Assemblée
-          nationale. Le questionnaire compte {totalLois} questions au total — tu peux en répondre autant que tu veux
-          pour affiner ton résultat.
+          nationale.
         </p>
         <p className="resultats-progression">
           <strong>
             {answeredCount}/{SEUIL_RESULTATS} questions répondues
           </strong>{" "}
-          · encore {restant} pour débloquer tes résultats
         </p>
         <div>
           <Link to="/questionnaire" className="btn">

@@ -34,20 +34,32 @@ export function melangerAvecSeed<T>(items: T[], seed: string): T[] {
 }
 
 /**
- * Ordonne les lois pour le questionnaire en commençant par les plus connues du grand public
- * (notoriete décroissante, voir pipeline/src/buildNotoriete.ts), pour ne pas ouvrir le
- * questionnaire sur un texte technique qui ferait fuir l'utilisateur. À l'intérieur d'un même
- * palier de notoriété, l'ordre reste mélangé (et varie d'une session à l'autre via la seed), pour
- * garder un parcours varié plutôt qu'une liste figée identique pour tout le monde.
+ * Ordonne les lois pour le questionnaire en commençant par les plus accessibles à un non-
+ * spécialiste (compréhensibilité décroissante, voir pipeline/src/buildComprehensibilite.ts), pour
+ * ne pas ouvrir le questionnaire sur un texte technique qui ferait fuir l'utilisateur — critère
+ * principal, une loi trop jargonneuse dissuade même si elle est par ailleurs connue. La notoriété
+ * (buildNotoriete.ts) départage ensuite les lois à compréhensibilité égale (les sujets connus
+ * d'abord). À l'intérieur d'un même palier compréhensibilité+notoriété, l'ordre reste mélangé (et
+ * varie d'une session à l'autre via la seed), pour garder un parcours varié plutôt qu'une liste
+ * figée identique pour tout le monde.
  */
-export function ordonnerParNotorieteAvecSeed<T extends { notoriete: number }>(items: T[], seed: string): T[] {
-  const parPalier = new Map<number, T[]>();
+export function ordonnerParAccessibiliteAvecSeed<T extends { notoriete: number; comprehensibilite: number }>(
+  items: T[],
+  seed: string,
+): T[] {
+  const parPalier = new Map<string, T[]>();
   for (const item of items) {
-    const liste = parPalier.get(item.notoriete) ?? [];
+    const cle = `${item.comprehensibilite}-${item.notoriete}`;
+    const liste = parPalier.get(cle) ?? [];
     liste.push(item);
-    parPalier.set(item.notoriete, liste);
+    parPalier.set(cle, liste);
   }
 
-  const paliersDecroissants = [...parPalier.keys()].sort((a, b) => b - a);
-  return paliersDecroissants.flatMap((palier) => melangerAvecSeed(parPalier.get(palier)!, `${seed}-${palier}`));
+  const paliersTries = [...parPalier.keys()].sort((a, b) => {
+    const [comprehensibiliteA, notorieteA] = a.split("-").map(Number) as [number, number];
+    const [comprehensibiliteB, notorieteB] = b.split("-").map(Number) as [number, number];
+    return comprehensibiliteB - comprehensibiliteA || notorieteB - notorieteA;
+  });
+
+  return paliersTries.flatMap((palier) => melangerAvecSeed(parPalier.get(palier)!, `${seed}-${palier}`));
 }

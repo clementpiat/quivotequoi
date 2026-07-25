@@ -1,9 +1,12 @@
 import type { Loi } from "./types.js";
 
 /**
- * Score heuristique de notoriété/compréhensibilité pour le grand public (1 = sujet technique et
- * confidentiel, 5 = sujet largement connu) — suggestion de départ à corriger à la main dans
- * resumes.json, au même titre que le thème (voir buildTheme.ts).
+ * Score heuristique de notoriété pour le grand public (1 = sujet confidentiel, 5 = sujet
+ * largement connu/médiatisé) — suggestion de départ à corriger à la main dans resumes.json, au
+ * même titre que le thème (voir buildTheme.ts). À distinguer de `comprehensibilite`
+ * (buildComprehensibilite.ts) : une loi peut être très connue sans être facile à comprendre
+ * (ex. un budget médiatisé reste technique), ou l'inverse (un sujet de niche peut être limpide
+ * une fois expliqué).
  *
  * Approximé par le rang, en quintile, du nombre de votants au scrutin : les lois qui font débat
  * ou qui marquent l'actualité (fin de vie, réseaux sociaux des mineurs, urgences nationales…)

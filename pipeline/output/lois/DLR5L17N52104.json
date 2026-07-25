@@ -7,6 +7,7 @@
   "procedure": "Projet ou proposition de loi organique",
   "theme": "Institutions",
   "notoriete": 5,
+  "comprehensibilite": 2,
   "chiffres": {
     "votants": 516,
     "exprimes": 513,
