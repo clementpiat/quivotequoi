@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { getGroupes, getLoiDetail } from "../data/client";
-import type { ReponseValeur } from "../lib/constants";
+import { LABELS_REPONSE, type ReponseValeur } from "../lib/constants";
 import { VoteSlider } from "./VoteSlider";
 import type { Groupe, Loi, LoiIndexEntry, PositionGroupe, ResumeEntry } from "../types";
 import "./LoiCard.css";
@@ -45,6 +45,7 @@ export function LoiCard({
   onVoter: (valeur: ReponseValeur) => void;
 }) {
   const [expanded, setExpanded] = useState(false);
+  const [voteOuvert, setVoteOuvert] = useState(false);
   const [detail, setDetail] = useState<Loi | null>(null);
   const [groupes, setGroupes] = useState<Groupe[]>([]);
 
@@ -82,7 +83,14 @@ export function LoiCard({
         )}
       </div>
 
-      <VoteSlider valeur={reponse} onChoisir={onVoter} />
+      <button type="button" className="loi-card-toggle" onClick={() => setVoteOuvert(!voteOuvert)}>
+        <span className="loi-card-chevron" style={{ transform: voteOuvert ? "rotate(180deg)" : "rotate(0deg)" }}>
+          ▾
+        </span>
+        <span>{reponse !== undefined ? `Ta position : ${LABELS_REPONSE[reponse]}` : "Voter sur cette loi"}</span>
+      </button>
+
+      {voteOuvert && <VoteSlider valeur={reponse} onChoisir={onVoter} />}
 
       <button type="button" className="loi-card-toggle" onClick={toggle}>
         <span className="loi-card-chevron" style={{ transform: expanded ? "rotate(180deg)" : "rotate(0deg)" }}>

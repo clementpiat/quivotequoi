@@ -12,6 +12,35 @@
   margin-bottom: 8px;
 }
 
+.liste-lois-filtres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.liste-lois-filtre {
+  font: 600 12px "IBM Plex Sans", sans-serif;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  border-radius: 100px;
+  padding: 7px 14px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.liste-lois-filtre:hover {
+  border-color: var(--navy);
+  color: var(--navy);
+}
+
+.liste-lois-filtre.actif {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: #fff;
+}
+
 .liste-lois {
   display: flex;
   flex-direction: column;

@@ -54,6 +54,14 @@
   white-space: nowrap;
 }
 
+/* Le VoteSlider est conçu pour la page Questionnaire (pousse en bas d'une colonne pleine
+   hauteur) : dans une carte dépliable, ce même espacement serait excessif juste après le bouton
+   qui la révèle. */
+.loi-card .vote-slider {
+  margin-top: 12px;
+  padding-top: 0;
+}
+
 .loi-card-toggle {
   display: flex;
   align-items: center;
