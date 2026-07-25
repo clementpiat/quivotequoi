@@ -1,36 +1,62 @@
-.paquet-choix {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 14px;
-  margin-top: 20px;
-}
-
-.paquet-option {
+.questionnaire {
+  flex: 1;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  gap: 8px;
+  padding: 32px 0;
 }
 
-.paquet-option select {
-  font: inherit;
-  padding: 8px 10px;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  background: var(--bg);
-  color: var(--text-h);
-  width: 100%;
+.questionnaire-categorie {
+  font: 600 11px "IBM Plex Sans", sans-serif;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  text-transform: uppercase;
 }
 
-.progress-bar {
-  height: 4px;
-  background: var(--bg-subtle);
-  border-radius: 2px;
-  overflow: hidden;
+.questionnaire-titre {
+  margin-top: 8px;
+  font: 600 clamp(22px, 3.4vw, 28px) / 1.35 var(--serif);
+  color: var(--ink);
+  max-width: 540px;
 }
 
-.progress-bar-fill {
-  height: 100%;
-  background: var(--accent);
-  transition: width 0.2s ease;
+.questionnaire-resume {
+  margin-top: 14px;
+  font: 400 15px / 1.65 "IBM Plex Sans", sans-serif;
+  color: var(--text);
+  max-width: 520px;
+}
+
+.questionnaire-lien {
+  margin-top: 12px;
+}
+
+.questionnaire-lien a {
+  font: 600 13px "IBM Plex Sans", sans-serif;
+  color: var(--navy);
+  text-decoration: underline;
+}
+
+.questionnaire-nav {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.questionnaire-nav-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  font: 600 13px "IBM Plex Sans", sans-serif;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.questionnaire-nav-btn:hover {
+  color: var(--ink);
+}
+
+.questionnaire-nav-suivante {
+  margin-left: auto;
+  color: var(--navy);
 }

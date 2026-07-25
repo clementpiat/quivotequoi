@@ -1,64 +1,29 @@
-import { useEffect, useMemo, useState } from "react";
-import { getLoisIndex } from "../data/client";
+import { useEffect, useState } from "react";
+import { getLoisIndex, getResumes } from "../data/client";
+import { useQuestionnaire } from "../state/QuestionnaireContext";
 import { LoiCard } from "../components/LoiCard";
-import type { LoiIndexEntry } from "../types";
+import type { LoiIndexEntry, ResumeEntry } from "../types";
 import "./ListeLois.css";
 
-type Tri = "recent" | "ancien";
-
 export function ListeLois() {
+  const { answers } = useQuestionnaire();
   const [lois, setLois] = useState<LoiIndexEntry[] | null>(null);
-  const [theme, setTheme] = useState<string>("Tous");
-  const [tri, setTri] = useState<Tri>("recent");
+  const [resumes, setResumes] = useState<Map<string, ResumeEntry>>(new Map());
 
   useEffect(() => {
     getLoisIndex().then(setLois);
+    getResumes().then(setResumes);
   }, []);
 
-  const themes = useMemo(() => {
-    if (!lois) return [];
-    return ["Tous", ...new Set(lois.map((l) => l.theme))].sort((a, b) => (a === "Tous" ? -1 : a.localeCompare(b, "fr")));
-  }, [lois]);
-
-  const loisAffichees = useMemo(() => {
-    if (!lois) return [];
-    const filtrees = theme === "Tous" ? lois : lois.filter((l) => l.theme === theme);
-    return [...filtrees].sort((a, b) =>
-      tri === "recent" ? b.dateVote.localeCompare(a.dateVote) : a.dateVote.localeCompare(b.dateVote),
-    );
-  }, [lois, theme, tri]);
-
   return (
-    <div>
-      <h1>Les lois</h1>
-      <p className="muted">
-        {lois ? `${lois.length} lois retenues` : "Chargement…"} — uniquement les votes sur l'ensemble d'un texte,
-        voir la <a href="/methodologie">méthodologie</a>.
+    <div className="liste-lois-page">
+      <h1>Les lois du questionnaire</h1>
+      <p className="liste-lois-sous-titre">
+        {lois ? `Voici les ${lois.length} propositions sur lesquelles tu peux te positionner.` : "Chargement…"}
       </p>
-
-      <div className="filtres">
-        <label>
-          Thème
-          <select value={theme} onChange={(e) => setTheme(e.target.value)}>
-            {themes.map((t) => (
-              <option key={t} value={t}>
-                {t}
-              </option>
-            ))}
-          </select>
-        </label>
-        <label>
-          Tri
-          <select value={tri} onChange={(e) => setTri(e.target.value as Tri)}>
-            <option value="recent">Plus récentes</option>
-            <option value="ancien">Plus anciennes</option>
-          </select>
-        </label>
-      </div>
-
       <div className="liste-lois">
-        {loisAffichees.map((loi) => (
-          <LoiCard key={loi.id} loi={loi} />
+        {lois?.map((loi) => (
+          <LoiCard key={loi.id} loi={loi} resume={resumes.get(loi.id)} reponse={answers[loi.id]} />
         ))}
       </div>
     </div>

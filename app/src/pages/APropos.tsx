@@ -1,6 +1,6 @@
 export function APropos() {
   return (
-    <div>
+    <div className="contenu-texte">
       <h1>À propos</h1>
       <p>
         QuiVoteQuoi est un outil civique gratuit, sans publicité et sans tracking. L'objectif : permettre de se
@@ -18,16 +18,6 @@ export function APropos() {
           github.com/clementpiat/quivotequoi
         </a>
         .
-      </p>
-
-      <h2>Qui fait ça</h2>
-      <p>TODO : pseudo + lien GitHub (pas de nom complet, pas de réseaux personnels, par choix).</p>
-
-      <h2 style={{ marginTop: 32 }} className="muted">
-        Soutenir les frais d'hébergement
-      </h2>
-      <p className="muted" style={{ fontSize: "0.85rem" }}>
-        TODO : lien Buy Me a Coffee, discret, uniquement ici.
       </p>
     </div>
   );

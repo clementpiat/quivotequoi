@@ -1,6 +1,6 @@
 export function Methodologie() {
   return (
-    <div>
+    <div className="contenu-texte">
       <h1>Méthodologie</h1>
 
       <h2>Sources</h2>
@@ -32,6 +32,14 @@ export function Methodologie() {
         l'ensemble de la législature depuis juillet 2024.
       </p>
 
+      <h2>Ta position</h2>
+      <p>
+        Pour chaque loi du questionnaire, tu indiques ta position sur une échelle de −2 à +2 : −2 traduit un
+        désaccord fort et important pour toi, −1 un désaccord simple, 0 une position neutre, +1 un accord simple,
+        +2 un accord fort et important pour toi. Si tu n'as aucun avis, passe simplement à la question suivante sans
+        répondre — la loi ne comptera pas dans le calcul de proximité.
+      </p>
+
       <h2>Position des groupes</h2>
       <p>Pour chaque scrutin et chaque groupe, chaque député compte pour :</p>
       <ul>
@@ -44,30 +52,41 @@ export function Methodologie() {
       <p>
         La position du groupe est la <strong>moyenne sur l'ensemble de ses membres</strong> (effectif du groupe à la
         date du scrutin, tel que fourni par les données) : un score continu entre −1 et +1 par groupe et par loi.
+        Les député·es <strong>non inscrit·es</strong> ne formant pas un groupe politique cohérent, ils sont exclus des
+        résultats.
       </p>
 
       <h2>Calcul de la proximité</h2>
       <p>
-        Pour chaque loi à laquelle tu réponds, ta réponse (de −3 à +3) est normalisée sur la même échelle que la
-        position des groupes (−1 à +1). L'écart entre ta réponse et la position d'un groupe donne une distance ; la
-        proximité affichée est <strong>1 moins la distance moyenne pondérée</strong> par l'intensité de tes réponses
-        (une réponse à ±3 pèse trois fois plus qu'une réponse à ±1), exprimée en pourcentage. Une réponse neutre (0)
-        ou une loi passée ne compte pas dans le calcul.
+        Ta réponse est d'abord convertie en score : <strong>0,5</strong> si tu es neutre, <strong>1</strong> si tu es
+        pour (ou très pour), <strong>0</strong> si tu es contre (ou très contre). Pour chaque loi à laquelle tu
+        réponds, on calcule l'écart absolu entre ce score et la position du groupe, pondéré — un avis "très pour" ou
+        "très contre" compte deux fois plus qu'un avis simple ou neutre.
       </p>
-      <p>La page de résultats détaille ce calcul loi par loi, pour chaque groupe, en toute transparence.</p>
+      <p>
+        Ta proximité avec un groupe est <strong>1 moins la moyenne pondérée de ces écarts</strong>, sur toutes les
+        lois auxquelles tu as répondu, exprimée en pourcentage. Une réponse neutre compte dans cette moyenne. En
+        revanche, une loi <strong>passée</strong> (« aucun avis ») est totalement exclue du calcul.
+      </p>
+      <p>
+        Tu débloques tes premiers résultats après <strong>10 réponses</strong> (les lois passées ne comptent pas dans
+        ce seuil). Tu peux ensuite continuer à répondre pour affiner le résultat, qui se recalcule à chaque nouvelle
+        réponse.
+      </p>
 
-      <h2>Limites</h2>
-      <ul>
-        <li>
-          La proximité mesurée concerne les <strong>groupes parlementaires de la législature 2024-2027</strong>, pas
-          les candidats à une élection à venir.
-        </li>
-        <li>
-          Un vote "pour" ou "contre" ne dit pas tout de la position d'un député sur un sujet (discipline de groupe,
-          négociations, amendements rejetés en amont...).
-        </li>
-        <li>Le nombre de lois couvertes reste partiel : voir la limite de couverture temporelle ci-dessus.</li>
-      </ul>
+      <h2>Comment lire le résultat</h2>
+      <p>
+        Chaque groupe est affiché avec son pourcentage de proximité, du plus proche au plus éloigné de tes réponses.
+        Ce classement mesure uniquement la proximité avec des votes passés — il ne s'agit pas d'une recommandation de
+        vote, et le positionnement politique reste multidimensionnel.
+      </p>
+
+      <div className="note">
+        La proximité mesurée concerne les <strong>groupes parlementaires de la législature 2024-2027</strong>, pas
+        les candidats à une élection à venir. Un vote « pour » ou « contre » ne dit pas tout de la position d'un
+        député sur un sujet (discipline de groupe, négociations, amendements rejetés en amont...). Le nombre de lois
+        couvertes reste partiel : voir la limite de couverture temporelle ci-dessus.
+      </div>
     </div>
   );
 }

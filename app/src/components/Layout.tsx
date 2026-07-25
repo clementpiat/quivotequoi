@@ -1,47 +1,63 @@
-import { NavLink, Outlet } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { NavLink, Outlet, useLocation } from "react-router-dom";
 import "./Layout.css";
 
 const NAV_LINKS = [
-  { to: "/lois", label: "Les lois" },
   { to: "/questionnaire", label: "Questionnaire" },
+  { to: "/resultats", label: "Résultats" },
+  { to: "/lois", label: "Les lois" },
   { to: "/methodologie", label: "Méthodologie" },
   { to: "/a-propos", label: "À propos" },
 ];
 
 export function Layout() {
+  const [menuOuvert, setMenuOuvert] = useState(false);
+  const location = useLocation();
+
+  useEffect(() => setMenuOuvert(false), [location.pathname]);
+
   return (
-    <>
-      <header className="header">
-        <div className="header-inner">
-          <NavLink to="/" className="brand">
-            QuiVoteQuoi
-          </NavLink>
-          <nav className="nav">
-            {NAV_LINKS.map((link) => (
-              <NavLink key={link.to} to={link.to} className={({ isActive }) => (isActive ? "active" : undefined)}>
-                {link.label}
-              </NavLink>
-            ))}
-          </nav>
+    <div className="app-shell">
+      <div className="tricolor-stripe">
+        <span />
+        <span />
+        <span />
+      </div>
+      <div className="app-body">
+        <div className="container app-column">
+          <header className="header">
+            <NavLink to="/" className="brand" onClick={() => setMenuOuvert(false)}>
+              QuiVoteQuoi
+            </NavLink>
+            <button
+              type="button"
+              className="nav-toggle"
+              aria-expanded={menuOuvert}
+              aria-label={menuOuvert ? "Fermer le menu" : "Ouvrir le menu"}
+              onClick={() => setMenuOuvert((o) => !o)}
+            >
+              <span />
+              <span />
+              <span />
+            </button>
+            <nav className={menuOuvert ? "nav nav-ouverte" : "nav"}>
+              {NAV_LINKS.map((link) => (
+                <NavLink
+                  key={link.to}
+                  to={link.to}
+                  className={({ isActive }) => (isActive ? "active" : undefined)}
+                  onClick={() => setMenuOuvert(false)}
+                >
+                  {link.label}
+                </NavLink>
+              ))}
+            </nav>
+          </header>
+          <main className="main">
+            <Outlet />
+          </main>
         </div>
-      </header>
-      <main className="main">
-        <div className="container">
-          <Outlet />
-        </div>
-      </main>
-      <footer className="footer">
-        <div className="footer-inner">
-          <span>
-            Outil civique gratuit et sans tracking. Vos réponses au questionnaire ne quittent jamais votre
-            navigateur.
-          </span>
-          <span className="footer-links">
-            <NavLink to="/methodologie">Méthodologie</NavLink>
-            <NavLink to="/a-propos">À propos</NavLink>
-          </span>
-        </div>
-      </footer>
-    </>
+      </div>
+    </div>
   );
 }

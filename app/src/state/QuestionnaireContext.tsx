@@ -1,32 +1,32 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
 import type { Answers } from "../lib/proximity";
+import { genererSeed } from "../lib/seed";
 
 const STORAGE_KEY = "quivotequoi.questionnaire";
 
 interface StoredState {
-  paquetIds: string[];
+  seed: string;
   answers: Answers;
   currentIndex: number;
 }
 
 function loadInitialState(): StoredState {
   try {
-    const raw = sessionStorage.getItem(STORAGE_KEY);
+    const raw = localStorage.getItem(STORAGE_KEY);
     if (raw) return JSON.parse(raw) as StoredState;
   } catch {
-    // sessionStorage indisponible ou JSON corrompu : on repart d'un état vide, tant pis pour la
-    // persistance — ce n'est qu'un confort de refresh, pas une source de vérité.
+    // localStorage indisponible ou JSON corrompu : on repart d'un état vide, tant pis pour la
+    // persistance — ce n'est qu'un confort, pas une source de vérité.
   }
-  return { paquetIds: [], answers: {}, currentIndex: 0 };
+  return { seed: genererSeed(), answers: {}, currentIndex: 0 };
 }
 
 interface QuestionnaireContextValue {
-  paquetIds: string[];
+  seed: string;
   answers: Answers;
   currentIndex: number;
-  demarrerPaquet: (ids: string[]) => void;
   repondre: (id: string, valeur: number) => void;
-  passer: (id: string) => void;
+  avancer: () => void;
   reculer: () => void;
   reinitialiser: () => void;
 }
@@ -37,28 +37,25 @@ export function QuestionnaireProvider({ children }: { children: ReactNode }) {
   const [state, setState] = useState<StoredState>(loadInitialState);
 
   useEffect(() => {
-    sessionStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
   }, [state]);
 
   const value = useMemo<QuestionnaireContextValue>(
     () => ({
-      paquetIds: state.paquetIds,
+      seed: state.seed,
       answers: state.answers,
       currentIndex: state.currentIndex,
-      demarrerPaquet: (ids) => setState({ paquetIds: ids, answers: {}, currentIndex: 0 }),
       repondre: (id, valeur) =>
         setState((s) => ({
           ...s,
           answers: { ...s.answers, [id]: valeur },
-          currentIndex: Math.min(s.currentIndex + 1, s.paquetIds.length),
+          currentIndex: s.currentIndex + 1,
         })),
-      passer: (id) =>
-        setState((s) => {
-          const { [id]: _removed, ...rest } = s.answers;
-          return { ...s, answers: rest, currentIndex: Math.min(s.currentIndex + 1, s.paquetIds.length) };
-        }),
+      // Avance sans toucher aux réponses : une loi non répondue reste "passée" (absente de
+      // answers), sans effacer un vote déjà donné si l'utilisateur était revenu en arrière.
+      avancer: () => setState((s) => ({ ...s, currentIndex: s.currentIndex + 1 })),
       reculer: () => setState((s) => ({ ...s, currentIndex: Math.max(s.currentIndex - 1, 0) })),
-      reinitialiser: () => setState({ paquetIds: [], answers: {}, currentIndex: 0 }),
+      reinitialiser: () => setState({ seed: genererSeed(), answers: {}, currentIndex: 0 }),
     }),
     [state],
   );

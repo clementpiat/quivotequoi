@@ -1,29 +1,19 @@
-.filtres {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-  margin: 16px 0 20px;
-}
-
-.filtres label {
+.liste-lois-page {
   display: flex;
   flex-direction: column;
-  gap: 4px;
-  font-size: 0.85rem;
-  color: var(--text-muted);
+  gap: 16px;
+  padding: 32px 0 40px;
 }
 
-.filtres select {
-  font: inherit;
-  padding: 8px 10px;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  background: var(--bg);
-  color: var(--text-h);
+.liste-lois-sous-titre {
+  font: 400 15px / 1.6 "IBM Plex Sans", sans-serif;
+  color: var(--text);
+  max-width: 520px;
+  margin-bottom: 8px;
 }
 
 .liste-lois {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 16px;
 }

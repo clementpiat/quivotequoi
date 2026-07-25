@@ -1,0 +1,47 @@
+.proximity-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.proximity-bars-row {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.proximity-bars-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.proximity-bars-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  flex: none;
+}
+
+.proximity-bars-nom {
+  flex: 1;
+  font: 600 13px "IBM Plex Sans", sans-serif;
+  color: var(--ink);
+}
+
+.proximity-bars-pct {
+  font: 700 13px "IBM Plex Sans", sans-serif;
+  color: var(--ink);
+}
+
+.proximity-bars-track {
+  height: 8px;
+  border-radius: 4px;
+  background: var(--track);
+  overflow: hidden;
+}
+
+.proximity-bars-fill {
+  height: 100%;
+  border-radius: 4px;
+}

@@ -1,77 +1,130 @@
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useQuestionnaire } from "../state/QuestionnaireContext";
-import { getGroupes, getLoiDetails } from "../data/client";
+import { getGroupes, getLoiDetails, getLoisIndex } from "../data/client";
 import { computeProximity, type ProximityComputation } from "../lib/proximity";
-import { ProximityRanking } from "../components/ProximityRanking";
+import { ProximityBars } from "../components/ProximityBars";
+import { SEUIL_RESULTATS } from "../lib/constants";
 import type { Groupe, Loi } from "../types";
+import "./Resultats.css";
 
 export function Resultats() {
-  const { answers } = useQuestionnaire();
+  const { answers, reinitialiser } = useQuestionnaire();
   const [groupes, setGroupes] = useState<Groupe[]>([]);
   const [lois, setLois] = useState<Loi[] | null>(null);
+  const [totalLois, setTotalLois] = useState<number | null>(null);
+  const [shareCopie, setShareCopie] = useState(false);
+  const navigate = useNavigate();
 
   const ids = Object.keys(answers);
+  const answeredCount = ids.length;
+  const isComplete = answeredCount >= SEUIL_RESULTATS;
+
+  useEffect(() => {
+    getLoisIndex().then((index) => setTotalLois(index.length));
+    // Les non-inscrits ne forment pas un groupe politique cohérent : on les exclut des résultats.
+    getGroupes().then((tousLesGroupes) => setGroupes(tousLesGroupes.filter((g) => g.sigle !== "NI")));
+  }, []);
 
   useEffect(() => {
     if (ids.length === 0) {
       setLois([]);
       return;
     }
-    Promise.all([getLoiDetails(ids), getGroupes()]).then(([loisData, groupesData]) => {
-      setLois(loisData);
-      setGroupes(groupesData);
-    });
+    getLoiDetails(ids).then(setLois);
     // ids est dérivé de answers à chaque rendu ; on ne veut relancer que si le contenu change.
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [JSON.stringify(ids)]);
 
-  if (lois === null) return <p className="muted">Chargement…</p>;
+  function handleReinitialiser() {
+    if (confirm("Effacer toutes tes réponses et repartir de zéro ?")) {
+      reinitialiser();
+      navigate("/");
+    }
+  }
 
-  if (ids.length === 0) {
+  async function handleShare(computation: ProximityComputation) {
+    if (!computation.valide) return;
+    const parGroupe = new Map(groupes.map((g) => [g.id, g]));
+    const texte = computation.resultats
+      .filter((r) => parGroupe.has(r.groupeId))
+      .map((r) => {
+        const pct = Math.round(Math.max(0, Math.min(100, r.proximite)));
+        return `${parGroupe.get(r.groupeId)!.sigle} ${pct}%`;
+      })
+      .join(" · ");
+    try {
+      await navigator.clipboard.writeText(
+        `Ma proximité avec les groupes de l'Assemblée nationale : ${texte} (via QuiVoteQuoi)`,
+      );
+      setShareCopie(true);
+      setTimeout(() => setShareCopie(false), 1800);
+    } catch {
+      // API presse-papiers indisponible (permissions, contexte non sécurisé...) : on ignore silencieusement.
+    }
+  }
+
+  if (lois === null || totalLois === null) return <p className="muted">Chargement…</p>;
+
+  if (!isComplete) {
+    const restant = Math.max(0, SEUIL_RESULTATS - answeredCount);
     return (
-      <div>
-        <h1>Résultats</h1>
-        <p>Tu n'as pas encore répondu au questionnaire.</p>
+      <div className="resultats-verrouilles">
+        <h1>Tes résultats</h1>
         <p>
-          <Link to="/questionnaire" className="btn">
-            Commencer le questionnaire
-          </Link>
+          Réponds à au moins {SEUIL_RESULTATS} questions pour découvrir ta proximité avec les groupes de l'Assemblée
+          nationale. Le questionnaire compte {totalLois} questions au total — tu peux en répondre autant que tu veux
+          pour affiner ton résultat.
         </p>
+        <p className="resultats-progression">
+          <strong>
+            {answeredCount}/{SEUIL_RESULTATS} questions répondues
+          </strong>{" "}
+          · encore {restant} pour débloquer tes résultats
+        </p>
+        <div>
+          <Link to="/questionnaire" className="btn">
+            {answeredCount > 0 ? "Continuer le questionnaire" : "Commencer le questionnaire"}
+          </Link>
+        </div>
       </div>
     );
   }
 
   const computation: ProximityComputation = computeProximity(answers, lois);
+  const isFullyDone = answeredCount >= totalLois;
 
   return (
-    <div>
-      <h1>Tes résultats</h1>
-      <p className="muted">
-        Basé sur {ids.length} réponse{ids.length > 1 ? "s" : ""}. Proximité avec les{" "}
-        <strong>groupes parlementaires de la législature 2024-2027</strong> — pas avec des candidats à une élection à
-        venir. Voir la <Link to="/methodologie">méthodologie</Link> pour le détail du calcul.
-      </p>
-
-      {!computation.valide ? (
-        <p>
-          {computation.raison === "aucune-intensite"
-            ? "Tes réponses sont toutes neutres : pas assez d'information pour calculer un classement. Réponds à au moins une loi avec une opinion tranchée."
-            : "Pas assez de réponses pour calculer un résultat."}
+    <div className="resultats">
+      <div>
+        <h1>Ta proximité avec les groupes</h1>
+        <p className="resultats-rationale">
+          Le pourcentage indique à quel point tes réponses se rapprochent du vote réel de chaque groupe à l'Assemblée
+          nationale.
         </p>
-      ) : (
-        <ProximityRanking
-          resultats={computation.resultats}
-          groupes={groupes}
-          loisParId={new Map(lois.map((l) => [l.id, l]))}
-        />
+      </div>
+
+      {computation.valide && <ProximityBars resultats={computation.resultats} groupes={groupes} />}
+
+      {!isFullyDone && (
+        <div className="resultats-refine">
+          <span>
+            Basé sur {answeredCount}/{totalLois} réponses. Continue le questionnaire pour affiner ton résultat.
+          </span>
+          <Link to="/questionnaire" className="resultats-refine-link">
+            Continuer
+          </Link>
+        </div>
       )}
 
-      <p style={{ marginTop: 24 }}>
-        <Link to="/questionnaire" className="btn btn-ghost">
-          Répondre à d'autres lois
-        </Link>
-      </p>
+      <div className="resultats-actions">
+        <button type="button" className="btn btn-outline" onClick={() => handleShare(computation)}>
+          {shareCopie ? "Copié !" : "Partager mes résultats"}
+        </button>
+        <button type="button" className="btn-ghost" onClick={handleReinitialiser}>
+          Recommencer le test
+        </button>
+      </div>
     </div>
   );
 }
